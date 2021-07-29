@@ -31,5 +31,5 @@ class MemberList
   end
 end
 
-url = 'https://www.kmu.gov.ua/en/team'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv
