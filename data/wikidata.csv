@@ -1,16 +1,16 @@
-wdid,name,pid,position,psid
-Q88653809,Yuliia Laputina,Q107620701,Minister for Veterans' Affairs of Ukraine,Q88653809-A4530553-B48B-444F-A716-5A73255957CD
-Q97273389,Roman Leshchenko,Q53678333,Minister of Agrarian Policy and Food,Q97273389-BD794F65-A45E-4E16-9D31-63D53C12C17B
-Q4458923,Oleksandr Tkachenko,Q107620769,Minister of Culture and Information Policy of Ukraine,Q4458923-354BB63A-5886-444C-A9CB-6A1573918E37
-Q87069520,Andriy Taran,Q33006385,Minister of Defence of Ukraine,Q87069520-66052a1c-4aee-b7f2-7504-18022e8f55ef
-Q96463301,Roman Abramovsky,Q53678351,Minister of Ecology and Natural Resources,Q96463301-65594688-722D-4565-AF4B-20E0EE8D86A8
-Q16723829,Serhii Shkarlet,Q53678183,Minister of Education and Science of Ukraine,Q16723829-983525c0-4ca6-d1a7-2e1d-a24ffdfc8c3e
-Q107620810,German Galushchenko,Q107620801,Minister of Energy of Ukraine,Q107620810-8DE91EC9-F845-4B37-AA18-F6A39B553DF6
-Q89190512,Viktor Liashko,Q53678147,Minister of Health,Q89190512-2C2A8FE7-E975-43B1-B19E-FAA1ADA60003
-Q66809451,Olexandr Kubrakov,Q53678203,Minister of Infrastructure of Ukraine,Q66809451-DB340351-E2D6-4E3D-A7AF-649079AB6B95
-Q65198777,Denys Monastyrskyy,Q12131528,Minister of Internal Affairs of Ukraine,Q65198777-7A078F33-68A3-451D-9BCD-F9695E2C15F8
-Q66809435,Denys Maliuska,Q55957045,Minister of Justice of Ukraine,Q66809435-0F59E7EB-0339-4228-AEEA-4C6D65F94EDA
-Q42792644,Oleksiy Chernyshov,Q53675481,Minister of Regional Development,Q42792644-CEF6541F-5CE1-436C-8647-11E9F579DCA4
-Q922349,Vadym Huttsait,Q53706857,Minister of Youth and Sports of Ukraine,Q922349-F769902F-E952-4DA8-AC57-49E09F3AB02C
-Q65197482,Oleh Nemchinov,Q107620776,Minister of the Cabinet of Ministers of Ukraine,Q65197482-6B558621-1C01-4AA8-968A-BB8FA4A4686F
-Q66094865,Denys Shmyhal,Q1145714,Prime Minister of Ukraine,Q66094865-0674bce5-4ff5-1b09-f517-26483e8d0dbf
+wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q87069520,Andriy Taran,Andriy Taran,male,1955-03-04T00:00:00Z,11,,Q33006385,Minister of Defence of Ukraine,Q87069520-66052a1c-4aee-b7f2-7504-18022e8f55ef
+Q66809435,Denys Maliuska,Denys Maliuska,male,1981-11-19T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q55957045,Minister of Justice of Ukraine,Q66809435-0F59E7EB-0339-4228-AEEA-4C6D65F94EDA
+Q65198777,Denys Monastyrskyy,Denys Monastyrskyi,male,1980-06-12T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q12131528,Minister of Internal Affairs of Ukraine,Q65198777-7A078F33-68A3-451D-9BCD-F9695E2C15F8
+Q66094865,Denys Shmyhal,Denys Shmyhal,male,1975-10-15T00:00:00Z,11,,Q1145714,Prime Minister of Ukraine,Q66094865-0674bce5-4ff5-1b09-f517-26483e8d0dbf
+Q107620810,German Galushchenko,German Galushchenko,,,,https://www.kmu.gov.ua/en/team,Q107620801,Minister of Energy of Ukraine,Q107620810-8DE91EC9-F845-4B37-AA18-F6A39B553DF6
+Q65197482,Oleh Nemchinov,Oleh Nemchinov,male,1977-05-01T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q107620776,Minister of the Cabinet of Ministers of Ukraine,Q65197482-6B558621-1C01-4AA8-968A-BB8FA4A4686F
+Q4458923,Oleksandr Tkachenko,Oleksandr Tkachenko,male,1966-01-22T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q107620769,Minister of Culture and Information Policy of Ukraine,Q4458923-354BB63A-5886-444C-A9CB-6A1573918E37
+Q42792644,Oleksiy Chernyshov,Oleksiy Chernyshov,male,1977-09-04T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53675481,Minister of Regional Development,Q42792644-CEF6541F-5CE1-436C-8647-11E9F579DCA4
+Q66809451,Olexandr Kubrakov,Oleksandr Kubrakov,male,1982-08-20T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53678203,Minister of Infrastructure of Ukraine,Q66809451-DB340351-E2D6-4E3D-A7AF-649079AB6B95
+Q96463301,Roman Abramovsky,Roman Abramovsky,male,1973-10-05T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53678351,Minister of Ecology and Natural Resources,Q96463301-65594688-722D-4565-AF4B-20E0EE8D86A8
+Q97273389,Roman Leshchenko,Roman Leshchenko,male,1988-11-23T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53678333,Minister of Agrarian Policy and Food,Q97273389-BD794F65-A45E-4E16-9D31-63D53C12C17B
+Q16723829,Serhii Shkarlet,Serhiy Shkarlet,male,1972-10-19T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53678183,Minister of Education and Science of Ukraine,Q16723829-983525c0-4ca6-d1a7-2e1d-a24ffdfc8c3e
+Q922349,Vadym Huttsait,Vadim Gutzeit,male,1971-10-06T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53706857,Minister of Youth and Sports of Ukraine,Q922349-F769902F-E952-4DA8-AC57-49E09F3AB02C
+Q89190512,Viktor Liashko,Viktor Liashko,male,1980-04-24T00:00:00Z,11,https://www.kmu.gov.ua/en/team,Q53678147,Minister of Health,Q89190512-2C2A8FE7-E975-43B1-B19E-FAA1ADA60003
+Q88653809,Yuliia Laputina,Yuliia Laputina,female,1967-01-01T00:00:00Z,9,https://www.kmu.gov.ua/en/team,Q107620701,Minister for Veterans' Affairs of Ukraine,Q88653809-A4530553-B48B-444F-A716-5A73255957CD
