@@ -1,5 +1,6 @@
 {
     "cabinet": "Q87070710",
     "lang":    "en",
-    "agent":   "every-politican-scrapers/ukraine-cabinet"
+    "agent":   "every-politican-scrapers/ukraine-cabinet",
+    "source_match": "kmu.gov.ua/en/team"
 }
