@@ -1,6 +1,15 @@
 {
-    "cabinet": "Q87070710",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/ukraine-cabinet",
-    "source_match": "kmu.gov.ua/en/team"
+    "cabinet": {
+      "id": "Q87070710",
+      "start": "2020-03-04"
+    },
+    "source": {
+        "url":   "https://www.kmu.gov.ua/en/team",
+        "title": "Government of Ukraine | Cabinet of Ministers of Ukraine",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/ukraine-cabinet"
 }
