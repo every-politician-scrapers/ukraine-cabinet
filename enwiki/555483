@@ -7323,6 +7323,31 @@
           "ko-losses": "2",
           "dec-wins": "4",
           "template": "boxingrecordsummary"
+        },
+        {
+          "abbr": "No.",
+          "meaning": "Number",
+          "template": "abbr"
+        },
+        {
+          "abbr": "UD",
+          "meaning": "Unanimous decision",
+          "template": "abbr"
+        },
+        {
+          "abbr": "RTD",
+          "meaning": "Corner retirement",
+          "template": "abbr"
+        },
+        {
+          "abbr": "TKO",
+          "meaning": "Technical knockout",
+          "template": "abbr"
+        },
+        {
+          "abbr": "KO",
+          "meaning": "Knockout",
+          "template": "abbr"
         }
       ]
     },
@@ -7786,6 +7811,11 @@
         ]
       ],
       "templates": [
+        {
+          "abbr": "avg.",
+          "meaning": "average",
+          "template": "abbr"
+        },
         {
           "list": [
             "April 1 2000"
@@ -8404,6 +8434,11 @@
       ],
       "templates": [
         {
+          "abbr": "avg.",
+          "meaning": "average",
+          "template": "abbr"
+        },
+        {
           "list": [
             "October 9 1999"
           ],
@@ -8899,6 +8934,11 @@
       ],
       "templates": [
         {
+          "abbr": "avg.",
+          "meaning": "average",
+          "template": "abbr"
+        },
+        {
           "list": [
             "June 21 2003"
           ],
@@ -9205,6 +9245,11 @@
         ]
       ],
       "templates": [
+        {
+          "abbr": "avg.",
+          "meaning": "average",
+          "template": "abbr"
+        },
         {
           "list": [
             "September 10 2011"

@@ -82,6 +82,13 @@
           "template": "birth date and age"
         },
         {
+          "text": "Khmelnytskyi Institute of Regional Administration and Law",
+          "lan1": "uk",
+          "text1": "Хмельницький університет управління та права",
+          "vertical-align": "sup",
+          "template": "ill"
+        },
+        {
           "list": [
             "Руслан Олексійович Стефанчук"
           ],
@@ -486,6 +493,15 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Khmelnytskyi Institute of Regional Administration and Law",
+          "lan1": "uk",
+          "text1": "Хмельницький університет управління та права",
+          "vertical-align": "sup",
+          "template": "ill"
         }
       ],
       "references": [
