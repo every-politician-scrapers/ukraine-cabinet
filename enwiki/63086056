@@ -431,6 +431,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Rule of Battle",
+          "wd": "Q25384330",
+          "vertical-align": "sup",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "template": "citation",

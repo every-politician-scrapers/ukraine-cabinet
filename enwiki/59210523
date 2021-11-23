@@ -503,6 +503,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Oleksandr Zelensky",
+          "lan1": "uk",
+          "text1": "Зеленський Олександр Семенович",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "url": "http://podvignaroda.ru/filter/filterimage?path=VS/245/033-0690155-1047%2b011-1046/00000509.jpg",
@@ -4262,6 +4270,22 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Prime_Minister%2C_Shri_Narendra_Modi_meeting_the_President_of_Ukraine%2C_Mr._Volodymyr_Zelenskyy%2C_in_Glasgow%2C_Scotland_on_November_02%2C_2021_(2).jpg",
           "caption": "Zelensky and Indian Prime Minister Narendra Modi at the COP26 climate summit in Glasgow on 1 November 2021",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "text": "BIHUS info",
+          "lan1": "uk",
+          "text1": "Наші гроші з Денисом Бігусом",
+          "vertical-align": "sup",
+          "template": "ill"
+        },
+        {
+          "text": "Andriy Herus",
+          "lan1": "uk",
+          "text1": "Герус Андрій Михайлович",
+          "vertical-align": "sup",
+          "template": "ill"
         }
       ],
       "references": [

@@ -369,6 +369,26 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Research and Production Complex \"Progress\"",
+          "lan1": "uk",
+          "text1": "НВК «Прогрес»",
+          "template": "ill"
+        },
+        {
+          "text": "Academician Yuriy Bugay International Scientific and Technical University",
+          "lan1": "uk",
+          "text1": "Міжнародний науково-технічний університет імені академіка Юрія Бугая",
+          "template": "ill"
+        },
+        {
+          "text": "Chernihiv State Technological University",
+          "lan1": "uk",
+          "text1": "Національний університет «Чернігівська політехніка»",
+          "template": "ill"
+        }
+      ],
       "lists": [
         [
           {
