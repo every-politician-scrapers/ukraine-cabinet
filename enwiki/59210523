@@ -127,11 +127,28 @@
               "text": "Zelensky won the election with 73.2% of the vote in the second round, defeating Poroshenko."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 26, 2021, Ukrainian President Zelensky announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ukrainians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russians"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
         {
-          "description": "6th President of Ukraine since 2019, actor, director and film producer",
+          "description": "Ukrainian politician and comedian",
           "template": "short description"
         },
         {
@@ -374,6 +391,26 @@
           "website": "@IuliiaMendel",
           "language": "en",
           "access-date": "10 June 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "CNN",
+          "first": "Katharina Krebs and Anna Chernova",
+          "title": "Ukrainian President Volodymyr Zelensky said a coup was planned against him",
+          "url": "https://www.cnn.com/2021/11/26/europe/ukraine-president-volodymyr-zelensky-coup-intl/index.html",
+          "access-date": "2021-11-26",
+          "website": "CNN",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-26",
+          "title": "Ukrayna Cumhurbaşkanı Zelenskiy: 1 Aralık'ta ülkede darbe olacak",
+          "url": "https://ortadoguhaberler.com/ukrayna-cumhurbaskani-zelenskiy-1-aralikta-ulkede-darbe-olacak/",
+          "access-date": "2021-11-26",
+          "website": "Orta Doğu Haberleri",
+          "language": "tr",
           "template": "citation",
           "type": "web"
         }
@@ -3357,11 +3394,7 @@
     },
     {
       "title": "Official Visit to the United States of America (2021)",
-      "depth": 1
-    },
-    {
-      "title": "Washington, D.C.",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -3416,42 +3449,7 @@
               ]
             }
           ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.wsj.com/articles/biden-zelensky-to-discuss-energy-russia-ukraines-future-with-the-west-11630497600",
-          "website": "The Wall Street Journal",
-          "title": "Biden, Zelensky Discuss Energy, Russia, Ukraine's Future With the West",
-          "date": "1 September 2021",
-          "access-date": "2 September 2021",
-          "template": "citation",
-          "type": "web"
         },
-        {
-          "url": "https://www.kyivpost.com/ukraine-politics/zelensky-arrives-to-washington-to-meet-blinken-granholm-biden.html",
-          "title": "Zelensky arrives to Washington to meet Blinken, Granholm, Biden",
-          "website": "Kyiv Post",
-          "date": "31 August 2021",
-          "access-date": "2 September 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ukrinform.net/rubric-society/3308681-volodymyr-and-olena-zelensky-open-ukrainian-house-in-washington.html",
-          "title": "President Zelensky, First Lady open Ukrainian House in Washington",
-          "website": "Ukrinform",
-          "date": "2 September 2021",
-          "access-date": "2 September 2021",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "California",
-      "depth": 2,
-      "paragraphs": [
         {
           "sentences": [
             {
@@ -3489,6 +3487,24 @@
       ],
       "references": [
         {
+          "url": "https://www.wsj.com/articles/biden-zelensky-to-discuss-energy-russia-ukraines-future-with-the-west-11630497600",
+          "website": "The Wall Street Journal",
+          "title": "Biden, Zelensky Discuss Energy, Russia, Ukraine's Future With the West",
+          "date": "1 September 2021",
+          "access-date": "2 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.kyivpost.com/ukraine-politics/zelensky-arrives-to-washington-to-meet-blinken-granholm-biden.html",
+          "title": "Zelensky arrives to Washington to meet Blinken, Granholm, Biden",
+          "website": "Kyiv Post",
+          "date": "31 August 2021",
+          "access-date": "2 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.ukrinform.net/rubric-economy/3309992-in-california-zelensky-meets-with-ukrainians-working-at-silicon-valley-companies.html",
           "title": "In California, Zelensky meets with Ukrainians working at Silicon Valley companies",
           "website": "Ukrinform",
@@ -3521,6 +3537,15 @@
           "website": "President of Ukraine – Official website",
           "date": "3 September 2021",
           "access-date": "6 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ukrinform.net/rubric-society/3308681-volodymyr-and-olena-zelensky-open-ukrainian-house-in-washington.html",
+          "title": "President Zelensky, First Lady open Ukrainian House in Washington",
+          "website": "Ukrinform",
+          "date": "2 September 2021",
+          "access-date": "2 September 2021",
           "template": "citation",
           "type": "web"
         }
