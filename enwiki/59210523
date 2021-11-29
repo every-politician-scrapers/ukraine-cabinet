@@ -4742,6 +4742,15 @@
                   "page": "authoritarianism"
                 }
               ]
+            },
+            {
+              "text": "This view has also been shared by Mykhaylo Minakov who is the senior adviser on Ukraine at the Kennan Institute who stated that Zelensky is trying to replace the country's oligarchic system with a \"power vertical\" system in which the Ukrainian president has more real power at all levels of government pointing to Zelenskiy's use of the National Security and Defense Council of Ukraine to rein in tycoons and alleged criminal kingpins as a sign of this.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Security and Defense Council of Ukraine"
+                }
+              ]
             }
           ]
         }
@@ -4843,6 +4852,15 @@
           "url": "https://euobserver.com/opinion/152478",
           "access-date": "27 August 2021",
           "website": "EUobserver",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The President And The Tycoon: Could A Fight Between Ukraine's Leader And Its Richest Man Lead To Real Change?",
+          "url": "https://www.rferl.org/a/31579310.html",
+          "access-date": "2021-11-28",
+          "website": "RadioFreeEurope/RadioLiberty",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
