@@ -57,6 +57,13 @@
           "day": "21",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "text": "Kharkiv National University of Internal Affairs",
+          "lan1": "uk",
+          "text1": "Харківський національний університет внутрішніх справ",
+          "vertical-align": "sup",
+          "template": "ill"
         }
       ],
       "infoboxes": [
