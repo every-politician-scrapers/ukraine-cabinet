@@ -97,6 +97,13 @@
           "template": "birth date and age"
         },
         {
+          "text": "Academy of Labor, Social Relations and Tourism",
+          "lan1": "uk",
+          "text1": "Академія праці, соціальних відносин і туризму",
+          "vertical-align": "sup",
+          "template": "ill"
+        },
+        {
           "list": [
             "Іван Геннадійович Баканов"
           ],
