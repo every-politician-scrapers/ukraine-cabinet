@@ -82,6 +82,10 @@
       ],
       "templates": [
         {
+          "description": "Ukrainian statesman and diplomat",
+          "template": "short description"
+        },
+        {
           "year": "1981",
           "month": "04",
           "day": "19",
