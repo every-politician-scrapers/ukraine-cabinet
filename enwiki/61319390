@@ -224,10 +224,10 @@
           "inline": {}
         },
         {
+          "url": "https://www.pravda.com.ua/news/2019/08/29/7224800/",
+          "title": "Рада затвердила людину Зеленського на чолі СБУ",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.ukrinform.net/rubric-polytics/2769665-ivan-bakanov-heads-security-service-of-ukraine.html",
