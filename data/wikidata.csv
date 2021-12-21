@@ -1,5 +1,6 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q107620810,German Galushchenko,German Galushchenko,,,,https://www.kmu.gov.ua/en/team,2021-07-23,Q107620801,Minister of Energy of Ukraine,Q107620810-8DE91EC9-F845-4B37-AA18-F6A39B553DF6
+Q107620810,German Galushchenko,German Galushchenko,male,1973-01-01,9,https://www.kmu.gov.ua/en/team,2021-07-23,Q107620801,Minister of Energy of Ukraine,Q107620810-8DE91EC9-F845-4B37-AA18-F6A39B553DF6
+Q12149573,Pavlo Riabikin,Pavlo Riabikin,male,1965-06-06,11,https://www.kmu.gov.ua/en/team,2021-12-15,Q107693996,Minister for Strategic Industries of Ukraine,Q12149573-DB523331-CC87-429D-BA32-5C0069E174F9
 Q16723829,Serhii Shkarlet,Serhiy Shkarlet,male,1972-10-19,11,https://www.kmu.gov.ua/en/team,2021-07-28,Q53678183,Minister of Education and Science of Ukraine,Q16723829-983525c0-4ca6-d1a7-2e1d-a24ffdfc8c3e
 Q20066227,Iryna Vereshchuk,Iryna Vereshchuk,female,1979-11-30,11,https://www.kmu.gov.ua/en/team,2021-11-10,Q53678071,Minister for Reintegration of the Temporarily Occupied Territories of Ukraine,Q20066227-12B1E34B-1DBB-4C68-970D-5B31A77C1A04
 Q20066227,Iryna Vereshchuk,Iryna Vereshchuk,female,1979-11-30,11,https://www.kmu.gov.ua/en/team,2021-11-10,Q16168515,Deputy Prime Minister,Q20066227-84CDA898-A7BC-4A16-8990-8EDFF63D18E4
@@ -13,7 +14,6 @@ Q64495543,Mykhailo Fedorov,Mykhailo Fedorov,male,1991-01-21,11,https://www.kmu.g
 Q64495543,Mykhailo Fedorov,Mykhailo Fedorov,male,1991-01-21,11,https://www.kmu.gov.ua/en/team,2021-07-29,Q107694003,Minister of Digital Transformation of Ukraine,Q64495543-111F5645-7EED-45DE-AB34-41C90AC64CC8
 Q65197482,Oleh Nemchinov,Oleh Nemchinov,male,1977-05-01,11,https://www.kmu.gov.ua/en/team,2021-07-23,Q107620776,Minister of the Cabinet of Ministers of Ukraine,Q65197482-6B558621-1C01-4AA8-968A-BB8FA4A4686F
 Q65198777,Denys Monastyrskyy,Denys Monastyrskyi,male,1980-06-12,11,https://www.kmu.gov.ua/en/team,2021-07-28,Q12131528,Minister of Internal Affairs of Ukraine,Q65198777-7A078F33-68A3-451D-9BCD-F9695E2C15F8
-Q65499384,Pavlo Riabikin,Pavlo Ryabikin,,,,https://www.kmu.gov.ua/en/team,2021-12-15,Q107693996,Minister for Strategic Industries of Ukraine,Q65499384-EC448674-9867-433B-A970-B290C1A96FF6
 Q66094865,Denys Shmyhal,Denys Shmyhal,male,1975-10-15,11,https://www.kmu.gov.ua/en/team,2021-07-29,Q1145714,Prime Minister of Ukraine,Q66094865-0674bce5-4ff5-1b09-f517-26483e8d0dbf
 Q66809435,Denys Maliuska,Denys Maliuska,male,1981-11-19,11,https://www.kmu.gov.ua/en/team,2021-07-23,Q55957045,Minister of Justice of Ukraine,Q66809435-0F59E7EB-0339-4228-AEEA-4C6D65F94EDA
 Q66809451,Olexandr Kubrakov,Oleksandr Kubrakov,male,1982-08-20,11,https://www.kmu.gov.ua/en/team,2021-07-28,Q53678203,Minister of Infrastructure of Ukraine,Q66809451-DB340351-E2D6-4E3D-A7AF-649079AB6B95
