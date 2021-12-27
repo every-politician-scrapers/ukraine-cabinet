@@ -1,4 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q579677,President of Ukraine,Q212,Q212,,,1991-07-05,,Q97768033,,President of Ukraine
 Q1145714,Prime Minister of Ukraine,Q212,Q212,,Q14379234,1991-09-17,,,,Prime Minister of Ukraine
 Q16147568,First Deputy Prime Minister of Ukraine,Q212,Q212,,,1946,,,,First Vice Prime Minister of Ukraine
 Q16168515,Deputy Prime Minister of Ukraine,Q212,Q212,,,,,,,
@@ -29,12 +30,14 @@ Q53678030,Minister of Social Policy,Q212,Q212,,,,,,,
 Q107693996,Minister for Strategic Industries of Ukraine,Q212,Q212,,,,,,,
 Q53678071,Minister of Temporarily Occupied Territories and IDPs,Q212,Q212,,,,,,,
 Q57260579,Transport Minister,Q212,Q212,,,,,,,
+Q107620701,Minister for Veterans' Affairs of Ukraine,Q212,Q212,,,,,,,
 Q53706857,Minister of Youth and Sports,Q212,Q212,,,,,,,
 Q107620776,Minister of the Cabinet of Ministers of Ukraine,Q212,Q212,,,,,,,
 Q74219621,Representative of the President in the Cabinet of Ministers of Ukraine,,Q212,,,,,,,
 Q97593102,Head of the Secretariat of the President of Ukraine,Q212,,,,,,,,
 Q679817,Chairman of the Verkhovna Rada,Q212,,Q4349849,Q13524158,1938-07-25,,,,Chairman of the Verkhovna Rada
 Q109313935,Head of Kyiv City State Administration,,Q1899,,,1995-07-10,,,,
+Q109314009,Head of Kyiv City,,Q1899,,,1997-06-12,,Q109314149,,
 Q109301818,Governor of the National Bank of Ukraine,,,,,,,,,
 Q5097067,Chief of the General Staff,Q212,,,,1991-12-23,,,,Chief of the General Staff (Ukraine)
 Q109539377,Head of the Foreign Intelligence Service of Ukraine,,,,,,,,,
