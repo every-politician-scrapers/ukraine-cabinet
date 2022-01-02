@@ -184,43 +184,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.cvk.gov.ua/pls/vnd2019/wp407pt001f01=919pf7201=18509.html",
-          "title": "Малюська Денис Леонтійович",
-          "work": "Central Election Commission",
-          "accessdate": "September 2, 2019",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.unian.info/economics/10649613-new-old-reform-what-economic-changes-are-coming-to-ukraine.html",
-          "title": "New Old Reform: What economic changes are coming to Ukraine",
-          "work": "UNIAN",
-          "date": "August 13, 2019",
-          "accessdate": "September 2, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://112.international/ukraine-top-news/new-faces-of-ukrainian-cabinet-who-is-who-in-government-under-pm-honcharuk-43103.html",
-          "title": "New faces of Ukrainian Cabinet: Who is who in government under PM Honcharuk?",
-          "work": "112.International",
-          "last": "Lebed",
-          "first": "Natalia",
-          "date": "August 30, 2019",
-          "accessdate": "September 2, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

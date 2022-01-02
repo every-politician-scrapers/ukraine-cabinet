@@ -254,51 +254,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.cvk.gov.ua/pls/vnd2019/wp407pt001f01=919pf7201=18490.html",
-          "title": "Стефанчук Руслан Олексійович",
-          "work": "Central Election Commission",
-          "accessdate": "19 July 2019",
-          "language": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.com/ukrainian/features-58787768",
-          "title": "Новим спікером став Стефанчук: шлях від КВН до голови Верховної Ради",
-          "publisher": "BBC News Ukrainian",
-          "website": "bbc.com",
-          "date": "2021-10-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://en.hromadske.ua/posts/zelenskiys-first-moves-as-president-in-case-of-victory",
-          "title": "Zelenskiy's First Moves as President in Case of Victory",
-          "work": "Hromadske International",
-          "date": "10 April 2019",
-          "accessdate": "19 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ukrinform.net/rubric-polytics/2705475-ruslan-stefanchuk-becomes-presidents-representative-in-vr.html",
-          "title": "Ruslan Stefanchuk becomes president's representative in VR",
-          "work": "Ukrinform",
-          "date": "22 May 2019",
-          "accessdate": "19 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://espreso.tv/article/2019/07/29/velyka_ridnya_2019_khto_komu_kum_brat_syn_i_donka_u_noviy_verkhovniy_radi",
-          "title": "Велика рідня-2019. Хто кому кум, брат, син і донька у новій Верховній Раді - новини Еспресо TV &#124; Україна",
-          "website": "espreso.tv",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

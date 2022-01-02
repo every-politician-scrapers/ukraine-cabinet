@@ -155,35 +155,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.cvk.gov.ua/pls/vnd2012/wp407pt001f01=900pf7201=4857.html",
-          "title": "Немчінов Олег Миколайович",
-          "work": "Central Election Commission",
-          "accessdate": "April 15, 2020",
-          "language": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://en.hromadske.ua/posts/ukrainian-parliament-votes-in-new-pm-denys-shmyhal",
-          "title": "A New Government for Ukraine: One Female Minister and \"Indispensable\" Arsen Avakov",
-          "work": "Hromadske International",
-          "date": "March 4, 2020",
-          "accessdate": "April 15, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://dovidka.com.ua/user/?code=384713",
-          "title": "Немчінов Олег Миколайович",
-          "work": "dovidka.com.ua",
-          "accessdate": "April 15, 2020",
-          "language": "uk",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -206,57 +206,6 @@
             "number": 1
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.president.gov.ua/en/news/prezident-ukrayini-volodimir-zelenskij-vimagaye-vid-t-v-o-go-55713",
-          "title": "President of Ukraine Volodymyr Zelenskyy requires the Acting Head of the Security Service of Ukraine to report on the first results of work in two weeks",
-          "work": "president.gov.ua",
-          "date": "June 3, 2019",
-          "accessdate": "July 20, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.pravda.com.ua/news/2019/08/29/7224800/",
-          "title": "Рада затвердила людину Зеленського на чолі СБУ",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ukrinform.net/rubric-polytics/2769665-ivan-bakanov-heads-security-service-of-ukraine.html",
-          "title": "Ivan Bakanov heads Security Service of Ukraine",
-          "work": "UkrInform",
-          "author": "UkrInform",
-          "date": "August 29, 2019",
-          "accessdate": "August 29, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://ssu.gov.ua/ua/pages/353",
-          "title": "Баканов Іван Геннадійович",
-          "work": "ssu.gov.ua",
-          "accessdate": "July 20, 2019",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://112.international/ukraine-top-news/zelenskys-advisor-razumkov-to-head-servant-of-the-people-party-40103.html",
-          "title": "Zelensky's Advisor Razumkov to head \"Servant of the People\" party",
-          "work": "112.international",
-          "date": "May 27, 2019",
-          "accessdate": "July 20, 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

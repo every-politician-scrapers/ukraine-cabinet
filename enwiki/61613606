@@ -183,43 +183,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.cvk.gov.ua/pls/vnd2019/wp407pt001f01=919pf7201=18494.html",
-          "title": "Федоров Михайло Альбертович",
-          "work": "Central Election Commission",
-          "accessdate": "August 26, 2019",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Welle (www.dw.com)",
-          "first": "Deutsche",
-          "title": "Юні і зелені: уряд України - наймолодший у Європі {{!}} DW {{!}} 03.09.2019",
-          "url": "https://www.dw.com/uk/%D1%8E%D0%BD%D1%96-%D1%96-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%96-%D1%83%D1%80%D1%8F%D0%B4-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-%D0%BD%D0%B0%D0%B9%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%88%D0%B8%D0%B9-%D1%83-%D1%94%D0%B2%D1%80%D0%BE%D0%BF%D1%96/a-50262907",
-          "access-date": "2020-12-31",
-          "website": "DW.COM",
-          "language": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "\"Буду всю цю фігню бюрократичну просто ліквідовувати\" – міністр Михайло Федоров",
-          "url": "https://www.radiosvoboda.org/a/30357704.html",
-          "access-date": "2020-12-31",
-          "website": "Радіо Свобода",
-          "language": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

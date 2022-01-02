@@ -131,7 +131,7 @@
         {
           "sentences": [
             {
-              "text": "On November 26, 2021, Ukrainian President Zelensky announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
+              "text": "On 26 November 2021, Zelensky announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
               "links": [
                 {
                   "type": "internal",
@@ -364,44 +364,6 @@
           "signature": {
             "text": "Autograph-VolodymyrZelensky.png"
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/zelensky-zelenskiy-zelenskyy-spelling-confusion-doesn-t-help-ukraine",
-          "title": "Zelensky, Zelenskiy, Zelenskyy: Spelling Confusion Doesn't Help Ukraine",
-          "last": "Dickinson",
-          "first": "Peter",
-          "date": "9 June 2019",
-          "website": "Atlantic Council",
-          "language": "en-gb",
-          "access-date": "10 June 2019",
-          "archive-url": "https://web.archive.org/web/20190611093721/https://www.atlanticcouncil.org/blogs/ukrainealert/zelensky-zelenskiy-zelenskyy-spelling-confusion-doesn-t-help-ukraine",
-          "archive-date": "11 June 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://twitter.com/IuliiaMendel/status/1138086685181456385",
-          "title": "Dear colleagues, this is the official form of the last name that the President has in his passport. This was decided by the passport service of Ukraine. The President won't be offended if BBC standards assume different transliteration",
-          "last": "Mendel",
-          "first": "Iuliia",
-          "date": "10 June 2019",
-          "website": "@IuliiaMendel",
-          "language": "en",
-          "access-date": "10 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Katharina Krebs and Anna Chernova",
-          "title": "Ukrainian President Volodymyr Zelensky said a coup was planned against him",
-          "url": "https://www.cnn.com/2021/11/26/europe/ukraine-president-volodymyr-zelensky-coup-intl/index.html",
-          "access-date": "2021-11-26",
-          "website": "CNN",
-          "template": "citation",
-          "type": "web"
         }
       ]
     }

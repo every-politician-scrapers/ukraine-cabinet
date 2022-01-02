@@ -169,23 +169,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://file.liga.net/persons/shkarlet-sergey",
-          "title": "Шкарлет Сергей",
-          "work": "file.liga.net",
-          "accessdate": "27 June 2020",
-          "language": "ru",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
