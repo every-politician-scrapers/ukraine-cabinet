@@ -172,16 +172,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Verkhovna Rada of Ukraine",
-          "url": "https://iportal.rada.gov.ua/en",
-          "access-date": "2020-07-20",
-          "website": "iportal.rada.gov.ua",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

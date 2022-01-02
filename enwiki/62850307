@@ -309,60 +309,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rbc.ua/ukr/news/shmygal-predstavil-sostav-svoego-kabmina-1583329136.html",
-          "title": "Новий Кабмін Шмигаля – став відомим склад уряду - Кабінет Міністрів України - Верховна Рада &#124; РБК-Україна",
-          "publisher": "Rbc.ua",
-          "access-date": "2020-06-01",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.president.gov.ua/documents/382020-32253",
-          "title": "Decree of the President of Ukraine № 38/2020",
-          "work": "Office of the President of Ukraine",
-          "access-date": "February 5, 2020",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.ukrinform.de/rubric-polytics/2889803-denys-schmygal-zum-neuen-premierminister-ernannt.html",
-          "title": "Denys Schmygal zum neuen Premierminister ernannt",
-          "website": "www.ukrinform.de",
-          "language": "de",
-          "access-date": "2020-03-05",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.if.gov.ua:80/page/24725",
-          "archive-url": "https://web.archive.org/web/20191030215944/http://www.if.gov.ua:80/page/24725",
-          "archive-date": "2019-10-30",
-          "title": "Голова обласної державної адміністрації",
-          "work": "www.if.gov.ua (30 October 2019 archived page via Wayback Machine)",
-          "access-date": "January 17, 2020",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://dovidka.com.ua/user/?code=528175",
-          "title": "Шмигаль Денис Анатолійович",
-          "work": "dovidka.com.ua",
-          "access-date": "January 17, 2020",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

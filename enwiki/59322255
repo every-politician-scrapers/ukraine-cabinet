@@ -175,52 +175,6 @@
             "text": "media producer, journalism"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://dt.ua/POLITICS/tkachenko-stav-ministrom-kulturi-i-informpolitiki-349909_.html",
-          "title": "Tkachenko became Minister of Culture and Information Policy",
-          "date": "2020-06-04",
-          "language": "uk",
-          "work": "dt.ua",
-          "access-date": "2020-06-04",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://bp.ubr.ua/profile/tkachenko-aleksandr-vladislavovich-2722",
-          "title": "Ткаченко Александр Владиславович",
-          "website": "bp.ubr.ua",
-          "access-date": "2018-12-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.kyivpost.com/ukraine-politics/zelenskiy-party-unveils-candidates-for-parliament.html",
-          "title": "Zelenskiy's Servant of the People party unveils candidates for parliament",
-          "work": "Kyiv Post",
-          "date": "9 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -269,36 +269,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://itd.rada.gov.ua/mps/info/expage/8754/6",
-          "title": "Данілов Олексій Мячеславович",
-          "work": "Verkhovna Rada",
-          "accessdate": "October 3, 2019",
-          "lang": "uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.kyivpost.com/ukraine-politics/zelensky-appoints-deputy-secretary-of-national-security-and-defense-council.html",
-          "title": "Zelensky appoints deputy secretary of National Security and Defense Council",
-          "work": "Kyiv Post",
-          "author": "Interfax-Ukraine",
-          "date": "July 23, 2019",
-          "accessdate": "October 3, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.unian.info/politics/10707765-zelensky-appoints-new-nsdc-secretary.html",
-          "title": "Zelensky appoints new NSDC secretary",
-          "work": "UNIAN",
-          "date": "October 3, 2019",
-          "accessdate": "October 3, 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

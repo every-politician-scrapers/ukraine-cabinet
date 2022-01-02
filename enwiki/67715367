@@ -104,33 +104,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Foundation",
-          "first": "Thomson Reuters",
-          "title": "Ukraine appoints new health minister to speed up COVID-19 vaccinations",
-          "url": "https://news.trust.org/item/20210520065527-xycbo/",
-          "access-date": "2021-05-20",
-          "website": "news.trust.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ukraine appoints new health minister to speed up COVID-19 vaccinations",
-          "url": "https://nationalpost.com/pmn/health-pmn/ukraine-appoints-new-health-minister-to-speed-up-covid-19-vaccinations",
-          "access-date": "2021-05-20",
-          "website": "nationalpost",
-          "language": "en-CA",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
