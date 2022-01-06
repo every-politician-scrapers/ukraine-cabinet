@@ -56,7 +56,16 @@
         {
           "sentences": [
             {
-              "text": "Prior to his political career, he obtained a degree in law and created a production company, Kvartal 95, which produces films, cartoons and TV comedy shows, including Servant of the People, in which Zelensky played the role of President of Ukraine.",
+              "text": "Prior to his acting career, Zelensky obtained a degree in law from Kyiv National Economic University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kyiv National Economic University"
+                }
+              ]
+            },
+            {
+              "text": "Nonetheless, Zelensky pursued comedy and created a production company, Kvartal 95, which produces films, cartoons and TV comedy shows, including Servant of the People, in which Zelensky played the role of President of Ukraine.",
               "links": [
                 {
                   "text": "Kvartal 95",
@@ -66,6 +75,11 @@
                 {
                   "type": "internal",
                   "page": "Servant of the People"
+                },
+                {
+                  "text": "President of Ukraine",
+                  "type": "internal",
+                  "page": "President of Ukraine (in exile)"
                 }
               ],
               "formatting": {
@@ -75,10 +89,7 @@
               }
             },
             {
-              "text": "The series aired from 2015 to 2019."
-            },
-            {
-              "text": "Before entering politics, he was a comedian, actor, screenwriter, film producer, and director."
+              "text": "The series aired from 2015 to 2019 and was immensely popular."
             }
           ]
         },
@@ -114,7 +125,7 @@
               ]
             },
             {
-              "text": "At the time, Zelensky had already been one of the frontrunners in opinion polls for the election.",
+              "text": "A political outsider, Zelensky had already become one of the frontrunners in opinion polls for the election.",
               "links": [
                 {
                   "text": "opinion polls for the election",
@@ -131,6 +142,59 @@
         {
           "sentences": [
             {
+              "text": "Identifying as a nationalist and populist, Zelensky’s achievements include dissolving parliament and winning a legislative election landslide, managing the pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
+              "links": [
+                {
+                  "text": "nationalist",
+                  "type": "internal",
+                  "page": "Nationalism"
+                },
+                {
+                  "text": "populist",
+                  "type": "internal",
+                  "page": "Populism"
+                },
+                {
+                  "text": "legislative election landslide",
+                  "type": "internal",
+                  "page": "2019 Ukrainian parliamentary election"
+                },
+                {
+                  "text": "pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Ukraine"
+                },
+                {
+                  "text": "economic recession",
+                  "type": "internal",
+                  "page": "COVID-19 recession"
+                }
+              ]
+            },
+            {
+              "text": "Despite promising to end the Russo-Ukrainian War, Zelensky has been unable to do so.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Russo-Ukrainian War"
+                }
+              ]
+            },
+            {
+              "text": "In recent years, critics claim that Zelensky’s government has taken an authoritative turn.",
+              "links": [
+                {
+                  "text": "authoritative",
+                  "type": "internal",
+                  "page": "Authoritarianism"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "On 26 November 2021, Zelensky announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
               "links": [
                 {
@@ -140,6 +204,15 @@
                 {
                   "type": "internal",
                   "page": "Russians"
+                }
+              ]
+            },
+            {
+              "text": "However, his opponents argue that the President mislead the public to rally popular support against Ukrainian businessman Rinat Akhmetov.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rinat Akhmetov"
                 }
               ]
             }
