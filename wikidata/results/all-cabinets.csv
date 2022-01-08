@@ -1,25 +1,25 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q15925492,Second Vynnychenko Government,1917-01-01,9,1917-01-01,9,,,1918-01-01,9,Q613729,Cabinet of Ministers of Ukraine,,,,,,,,,,
-,Q15818063,Government Masol-Fokin,1990-06-01,10,,,1991-04-01,10,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,,,Q4376007,Fokin Government
-,Q4376007,Fokin Government,1991-04-18,11,,,1992-02-25,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q15818063,Government Masol-Fokin,Q4375969,Kuchma Government
-,Q4375969,Kuchma Government,1992-10-27,11,,,1993-09-21,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4376007,Fokin Government,Q4375953,Second Masol Government
-,Q4375953,Second Masol Government,1994-06-16,11,,,1995-04-04,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4375969,Kuchma Government,Q4375967,Marchuk Government
-,Q4375967,Marchuk Government,1995-01-01,9,,,1996-01-01,9,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4375953,Second Masol Government,Q4349226,First Lazarenko Government
-,Q4349226,First Lazarenko Government,1996-05-01,10,,,1996-07-01,10,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4375967,Marchuk Government,Q4128017,Second Lazarenko Government
-,Q4128017,Second Lazarenko Government,1996-07-01,10,,,1997-07-02,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4349226,First Lazarenko Government,Q4375983,Pustovoitenko Government
-,Q9325469,Government Durdynets,1997-06-01,10,,,1997-07-01,10,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q9325441,Q9325441,Q4375983,Pustovoitenko Government
-,Q4375983,Pustovoitenko Government,1997-07-16,11,,,1999-11-30,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4128017,Second Lazarenko Government,Q4376012,Yushchenko Government
-,Q4376012,Yushchenko Government,1999-12-22,11,,,2001-04-28,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4375983,Pustovoitenko Government,Q6410357,Kinakh Government
-,Q6410357,Kinakh Government,2001-05-29,11,,,2002-11-16,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q4376012,Yushchenko Government,Q2027811,First Yanukovych Government
-,Q2027811,First Yanukovych Government,2002-11-21,11,,,2005-01-05,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q6410357,Kinakh Government,Q1961136,First Tymoshenko Government
-,Q1961136,First Tymoshenko Government,2005-02-04,11,,,2005-09-08,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q2027811,First Yanukovych Government,Q1648365,Yekhanurov Government
-,Q1648365,Yekhanurov Government,2005-09-22,11,,,2006-01-10,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q1961136,First Tymoshenko Government,Q1968667,Second Yanukovych government
-,Q1968667,Second Yanukovych government,2006-08-04,11,,,2007-12-18,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q1648365,Yekhanurov Government,Q766476,Second Tymoshenko Government
-13,Q766476,Second Tymoshenko Government,2007-12-18,11,,,2010-03-11,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,,,Q1968667,Second Yanukovych government,Q1570969,First Azarov Government
-,Q1570969,First Azarov Government,2010-03-11,11,,,2012-12-03,11,,,Q613729,Cabinet of Ministers of Ukraine,,,,,Q1653734,Second Azarov Government,Q766476,Second Tymoshenko Government,Q1653734,Second Azarov Government
-,Q1653734,Second Azarov Government,2012-12-24,11,,,2014-02-28,11,,,Q613729,Cabinet of Ministers of Ukraine,,,Q1570969,First Azarov Government,Q15838217,First Yatsenyuk Government,,,,
-,Q15838217,First Yatsenyuk Government,2014-02-27,11,,,2014-11-27,11,,,Q613729,Cabinet of Ministers of Ukraine,,,Q1653734,Second Azarov Government,Q18575450,Second Yatsenyuk Government,Q1653734,Second Azarov Government,Q18575450,Second Yatsenyuk Government
-,Q18575450,Second Yatsenyuk Government,2014-12-02,11,,,2016-04-14,11,,,Q613729,Cabinet of Ministers of Ukraine,,,Q15838217,First Yatsenyuk Government,Q23815898,Groysman government,Q15838217,First Yatsenyuk Government,Q23815898,Groysman government
-,Q23815898,Groysman government,2016-04-14,11,,,2019-08-29,11,,,Q613729,Cabinet of Ministers of Ukraine,,,Q18575450,Second Yatsenyuk Government,Q66819440,Honcharuk government,Q18575450,Second Yatsenyuk Government,Q66819440,Honcharuk government
-,Q66819440,Honcharuk government,2019-08-29,11,,,2020-03-04,11,,,Q613729,Cabinet of Ministers of Ukraine,,,Q23815898,Groysman government,Q87070710,Shmyhal Government,Q23815898,Groysman government,Q87070710,Shmyhal Government
-,Q87070710,Shmyhal Government,2020-03-04,11,,,,,,,Q613729,Cabinet of Ministers of Ukraine,,,Q66819440,Honcharuk government,,,Q66819440,Honcharuk government,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q15925492,Second Vynnychenko Government,1917-01-01,9,1917-01-01,9,,,1918-01-01,9,,,,,,,,
+,Q15818063,Government Masol-Fokin,1990-06-01,10,,,1991-04-01,10,,,,,,,,,Q4376007,Fokin Government
+,Q4376007,Fokin Government,1991-04-18,11,,,1992-02-25,11,,,,,,,Q15818063,Government Masol-Fokin,Q4375969,Kuchma Government
+,Q4375969,Kuchma Government,1992-10-27,11,,,1993-09-21,11,,,,,,,Q4376007,Fokin Government,Q4375953,Second Masol Government
+,Q4375953,Second Masol Government,1994-06-16,11,,,1995-04-04,11,,,,,,,Q4375969,Kuchma Government,Q4375967,Marchuk Government
+,Q4375967,Marchuk Government,1995-01-01,9,,,1996-01-01,9,,,,,,,Q4375953,Second Masol Government,Q4349226,First Lazarenko Government
+,Q4349226,First Lazarenko Government,1996-05-01,10,,,1996-07-01,10,,,,,,,Q4375967,Marchuk Government,Q4128017,Second Lazarenko Government
+,Q4128017,Second Lazarenko Government,1996-07-01,10,,,1997-07-02,11,,,,,,,Q4349226,First Lazarenko Government,Q4375983,Pustovoitenko Government
+,Q9325469,Government Durdynets,1997-06-01,10,,,1997-07-01,10,,,,,,,Q9325441,Q9325441,Q4375983,Pustovoitenko Government
+,Q4375983,Pustovoitenko Government,1997-07-16,11,,,1999-11-30,11,,,,,,,Q4128017,Second Lazarenko Government,Q4376012,Yushchenko Government
+,Q4376012,Yushchenko Government,1999-12-22,11,,,2001-04-28,11,,,,,,,Q4375983,Pustovoitenko Government,Q6410357,Kinakh Government
+,Q6410357,Kinakh Government,2001-05-29,11,,,2002-11-16,11,,,,,,,Q4376012,Yushchenko Government,Q2027811,First Yanukovych Government
+,Q2027811,First Yanukovych Government,2002-11-21,11,,,2005-01-05,11,,,,,,,Q6410357,Kinakh Government,Q1961136,First Tymoshenko Government
+,Q1961136,First Tymoshenko Government,2005-02-04,11,,,2005-09-08,11,,,,,,,Q2027811,First Yanukovych Government,Q1648365,Yekhanurov Government
+,Q1648365,Yekhanurov Government,2005-09-22,11,,,2006-01-10,11,,,,,,,Q1961136,First Tymoshenko Government,Q1968667,Second Yanukovych government
+,Q1968667,Second Yanukovych government,2006-08-04,11,,,2007-12-18,11,,,,,,,Q1648365,Yekhanurov Government,Q766476,Second Tymoshenko Government
+13,Q766476,Second Tymoshenko Government,2007-12-18,11,,,2010-03-11,11,,,,,,,Q1968667,Second Yanukovych government,Q1570969,First Azarov Government
+,Q1570969,First Azarov Government,2010-03-11,11,,,2012-12-03,11,,,,,Q1653734,Second Azarov Government,Q766476,Second Tymoshenko Government,Q1653734,Second Azarov Government
+,Q1653734,Second Azarov Government,2012-12-24,11,,,2014-02-28,11,,,Q1570969,First Azarov Government,Q15838217,First Yatsenyuk Government,,,,
+,Q15838217,First Yatsenyuk Government,2014-02-27,11,,,2014-11-27,11,,,Q1653734,Second Azarov Government,Q18575450,Second Yatsenyuk Government,Q1653734,Second Azarov Government,Q18575450,Second Yatsenyuk Government
+,Q18575450,Second Yatsenyuk Government,2014-12-02,11,,,2016-04-14,11,,,Q15838217,First Yatsenyuk Government,Q23815898,Groysman government,Q15838217,First Yatsenyuk Government,Q23815898,Groysman government
+,Q23815898,Groysman government,2016-04-14,11,,,2019-08-29,11,,,Q18575450,Second Yatsenyuk Government,Q66819440,Honcharuk government,Q18575450,Second Yatsenyuk Government,Q66819440,Honcharuk government
+,Q66819440,Honcharuk government,2019-08-29,11,,,2020-03-04,11,,,Q23815898,Groysman government,Q87070710,Shmyhal Government,Q23815898,Groysman government,Q87070710,Shmyhal Government
+,Q87070710,Shmyhal Government,2020-03-04,11,,,,,,,Q66819440,Honcharuk government,,,Q66819440,Honcharuk government,,
