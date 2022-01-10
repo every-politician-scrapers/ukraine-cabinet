@@ -270,10 +270,11 @@
             "text": "Volodymyr Zelensky\nВолодимир Зеленський"
           },
           "image": {
-            "text": "Volodymyr Zelensky Official portrait.jpg"
+            "text": "Zelensky_NY.jpg"
           },
           "caption": {
-            "text": "Official portrait, 2019"
+            "text": "2021",
+            "number": 2021
           },
           "office": {
             "text": "6th President of Ukraine",
