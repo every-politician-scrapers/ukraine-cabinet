@@ -181,10 +181,10 @@
               ]
             },
             {
-              "text": "In recent years, critics claim that Zelensky’s government has taken an authoritative turn.",
+              "text": "In recent years, critics claim that Zelensky’s government has taken an authoritarian turn.",
               "links": [
                 {
-                  "text": "authoritative",
+                  "text": "authoritarian",
                   "type": "internal",
                   "page": "Authoritarianism"
                 }
@@ -273,8 +273,7 @@
             "text": "Zelensky_NY.jpg"
           },
           "caption": {
-            "text": "2021",
-            "number": 2021
+            "text": "Zelensky in 2021"
           },
           "native_name": {
             "text": "Володимир Зеленський"

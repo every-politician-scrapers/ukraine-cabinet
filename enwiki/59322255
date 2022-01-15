@@ -140,7 +140,7 @@
             "text": "22 January 1966"
           },
           "birth_place": {
-            "text": "Kyiv, Ukraine",
+            "text": "Kyiv, Ukrainian SSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
@@ -148,7 +148,11 @@
               },
               {
                 "type": "internal",
-                "page": "Ukraine"
+                "page": "Ukrainian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               }
             ]
           },

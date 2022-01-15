@@ -136,7 +136,7 @@
             "text": "December 25, 1985"
           },
           "birth_place": {
-            "text": "Chernihiv, Chernihiv Oblast, Ukrainian SSR",
+            "text": "Chernihiv, Chernihiv Oblast, Ukrainian SSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
@@ -149,6 +149,10 @@
               {
                 "type": "internal",
                 "page": "Ukrainian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               }
             ]
           },

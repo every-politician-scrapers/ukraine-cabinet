@@ -137,11 +137,19 @@
             "text": "October 29, 1985"
           },
           "birth_place": {
-            "text": "Odessa",
+            "text": "Odessa, Ukrainian SSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
                 "page": "Odessa"
+              },
+              {
+                "type": "internal",
+                "page": "Ukrainian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               }
             ]
           },

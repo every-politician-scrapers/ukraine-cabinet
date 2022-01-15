@@ -140,7 +140,7 @@
             "text": "November 30, 1979"
           },
           "birth_place": {
-            "text": "Rava-Ruska, Ukrainian SSR",
+            "text": "Rava-Ruska, Ukrainian SSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
@@ -149,6 +149,10 @@
               {
                 "type": "internal",
                 "page": "Ukrainian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               }
             ]
           },
