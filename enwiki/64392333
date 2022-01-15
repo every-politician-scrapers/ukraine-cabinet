@@ -131,7 +131,7 @@
             "text": "October 19, 1972"
           },
           "birth_place": {
-            "text": "Kokand, Uzbek SSR",
+            "text": "Kokand, Uzbek SSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
@@ -140,6 +140,10 @@
               {
                 "type": "internal",
                 "page": "Uzbek SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               }
             ]
           },
