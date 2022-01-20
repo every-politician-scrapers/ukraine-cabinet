@@ -37,127 +37,7 @@
         {
           "sentences": [
             {
-              "text": "{{Infobox officeholder"
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Oleksiy Honcharuk",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Oleksiy Honcharuk"
-                }
-              ]
-            },
-            {
-              "text": "Denys Shmyhal",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Denys Shmyhal"
-                }
-              ]
-            },
-            {
-              "text": "(now Kryvyi Rih, Ukraine)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ukraine"
-                }
-              ]
-            },
-            {
-              "text": "Kvartal 95",
-              "links": [
-                {
-                  "text": "Kvartal 95",
-                  "type": "internal",
-                  "page": "Kvartal 95 Studio"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Kvartal 95"
-                ]
-              }
-            },
-            {
-              "text": "Svaty",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Svaty"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Svaty"
-                ]
-              }
-            },
-            {
-              "text": "Servant of the People",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Servant of the People"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Servant of the People"
-                ]
-              }
-            },
-            {
-              "text": "Office Romance. Our Time",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Office Romance. Our Time"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Office Romance. Our Time"
-                ]
-              }
-            },
-            {
-              "text": "Love in the Big City",
-              "links": [
-                {
-                  "text": "Love in the Big City",
-                  "type": "internal",
-                  "page": "Love in the Big City (film)"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Love in the Big City"
-                ]
-              }
-            },
-            {
-              "text": "Rzhevsky Versus Napoleon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rzhevsky Versus Napoleon"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Rzhevsky Versus Napoleon"
-                ]
-              }
-            },
-            {
-              "text": "}}Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian and politician who is the 6th and current president of Ukraine since 20 May 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian and politician who is the 6th and current president of Ukraine since 20 May 2019.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -362,6 +242,18 @@
           "template": "use dmy dates"
         },
         {
+          "year": "1978",
+          "month": "1",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Olena Kiyashko",
+          "from": "2003",
+          "template": "marriage"
+        },
+        {
           "list": [
             "Zelensky's name is spelled several ways. Zelenskyy is the spelling in his passport, and his administration has used it since May 2019."
           ],
@@ -372,27 +264,25 @@
           "template": "ipa"
         }
       ],
-      "lists": [
-        [
-          {
-            "text": "name               = Volodymyr Zelenskiy"
-          }
-        ],
-        [
-          {
-            "text": "image              = Volodymyr Zelensky Official portrait.jpg"
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Volodymyr Zelenskyy"
           },
-          {
-            "text": "caption            = Official portrait, 2019"
+          "image": {
+            "text": "Volodymyr Zelensky Official portrait.jpg"
           },
-          {
-            "text": "native_name        = {{nobold|Володимир Зеленський}"
+          "caption": {
+            "text": "Official portrait, 2019"
           },
-          {
-            "text": "native_name_lang   = uk"
+          "native_name": {
+            "text": "Володимир Зеленський"
           },
-          {
-            "text": "office             = 6th President of Ukraine",
+          "native_name_lang": {
+            "text": "uk"
+          },
+          "office": {
+            "text": "6th President of Ukraine",
             "links": [
               {
                 "type": "internal",
@@ -400,25 +290,28 @@
               }
             ]
           },
-          {
-            "text": "primeminister      = Volodymyr Groysman",
+          "primeminister": {
+            "text": "Volodymyr Groysman\nOleksiy Honcharuk\nDenys Shmyhal",
             "links": [
               {
                 "type": "internal",
                 "page": "Volodymyr Groysman"
+              },
+              {
+                "type": "internal",
+                "page": "Oleksiy Honcharuk"
+              },
+              {
+                "type": "internal",
+                "page": "Denys Shmyhal"
               }
             ]
-          }
-        ],
-        [
-          {
-            "text": "term_start         = 20 May 2019"
           },
-          {
-            "text": "term_end           ="
+          "term_start": {
+            "text": "20 May 2019"
           },
-          {
-            "text": "predecessor        = Petro Poroshenko",
+          "predecessor": {
+            "text": "Petro Poroshenko",
             "links": [
               {
                 "type": "internal",
@@ -426,17 +319,14 @@
               }
             ]
           },
-          {
-            "text": "successor          ="
+          "birth_name": {
+            "text": "Volodymyr Oleksandrovych Zelenskyy"
           },
-          {
-            "text": "birth_name         = Volodymyr Oleksandrovych Zelenskyy"
+          "birth_date": {
+            "text": "January 25, 1978"
           },
-          {
-            "text": "birth_date         = {{birth date and age|1978|1|25|df=y}}"
-          },
-          {
-            "text": "birth_place        = Kryvyi Rih, Ukrainian SSR, Soviet Union",
+          "birth_place": {
+            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union\n(now Kryvyi Rih, Ukraine)",
             "links": [
               {
                 "type": "internal",
@@ -450,19 +340,15 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Ukraine"
               }
             ]
-          }
-        ],
-        [
-          {
-            "text": "death_date         ="
           },
-          {
-            "text": "death_place        ="
-          },
-          {
-            "text": "education          = Kyiv National Economic University (department in Kryvyi Rih)",
+          "education": {
+            "text": "Kyiv National Economic University (department in Kryvyi Rih)",
             "links": [
               {
                 "type": "internal",
@@ -475,8 +361,8 @@
               }
             ]
           },
-          {
-            "text": "party              = Independent",
+          "party": {
+            "text": "Independent",
             "links": [
               {
                 "text": "Independent",
@@ -485,8 +371,8 @@
               }
             ]
           },
-          {
-            "text": "otherparty         = Servant of the People (2018–present)",
+          "otherparty": {
+            "text": "Servant of the People (2018–present)",
             "links": [
               {
                 "text": "Servant of the People",
@@ -495,57 +381,74 @@
               }
             ]
           },
-          {
-            "text": "father             ="
+          "occupation": {
+            "text": "Comedian, actor, director, screenwriter, film producer, politician"
           },
-          {
-            "text": "mother             ="
+          "spouse": {
+            "text": "Olena Kiyashko (m. 2003)"
           },
-          {
-            "text": "occupation         = Comedian, actor, director, screenwriter, film producer, politician"
+          "children": {
+            "text": "Oleksandra · Kyrylo"
           },
-          {
-            "text": "spouse             = {{marriage|Olena Kiyashko|2003}}",
-            "links": [
-              {
-                "text": "Olena Kiyashko",
-                "type": "internal",
-                "page": "Olena Zelenska"
-              }
-            ]
+          "blank1": {
+            "text": "Notable works"
           },
-          {
-            "text": "children           = {{hlist|Oleksandra|Kyrylo}}"
-          },
-          {
-            "text": "blank1             = Notable works"
-          },
-          {
-            "text": "data1              = KVN",
+          "data1": {
+            "text": "KVN\nKvartal 95\nSvaty\nServant of the People\nOffice Romance. Our Time\nLove in the Big City\nRzhevsky Versus Napoleon",
             "links": [
               {
                 "type": "internal",
                 "page": "KVN"
+              },
+              {
+                "text": "Kvartal 95",
+                "type": "internal",
+                "page": "Kvartal 95 Studio"
+              },
+              {
+                "type": "internal",
+                "page": "Svaty"
+              },
+              {
+                "type": "internal",
+                "page": "Servant of the People"
+              },
+              {
+                "type": "internal",
+                "page": "Office Romance. Our Time"
+              },
+              {
+                "text": "Love in the Big City",
+                "type": "internal",
+                "page": "Love in the Big City (film)"
+              },
+              {
+                "type": "internal",
+                "page": "Rzhevsky Versus Napoleon"
               }
             ],
             "formatting": {
               "italic": [
-                "KVN"
+                "KVN",
+                "Kvartal 95",
+                "Svaty",
+                "Servant of the People",
+                "Office Romance. Our Time",
+                "Love in the Big City",
+                "Rzhevsky Versus Napoleon"
               ]
             }
-          }
-        ],
-        [
-          {
-            "text": "blank2             = Years active"
           },
-          {
-            "text": "data2              = 1995–2019"
+          "blank2": {
+            "text": "Years active"
           },
-          {
-            "text": "signature          = Autograph-VolodymyrZelensky.png"
+          "data2": {
+            "text": "1995–2019"
+          },
+          "signature": {
+            "text": "Autograph-VolodymyrZelensky.png"
           }
-        ]
+        }
       ]
     }
   ]
