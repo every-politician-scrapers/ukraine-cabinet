@@ -142,13 +142,8 @@
         {
           "sentences": [
             {
-              "text": "Identifying as a nationalist and populist, Zelensky’s achievements include dissolving parliament and winning a legislative election landslide, managing the pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
+              "text": "Identifying as a populist, Zelensky’s achievements include dissolving parliament and winning a legislative election landslide, managing the pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
               "links": [
-                {
-                  "text": "nationalist",
-                  "type": "internal",
-                  "page": "Nationalism"
-                },
                 {
                   "text": "populist",
                   "type": "internal",

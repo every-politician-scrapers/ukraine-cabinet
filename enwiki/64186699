@@ -87,7 +87,7 @@
             "text": "Olha Stefanishyna\nОльга Стефанішина"
           },
           "image": {
-            "text": "Olha Stefanishyna 2020.jpg"
+            "text": "Olga Stefanishina 1.png"
           },
           "office": {
             "text": "Deputy Prime Minister for European and Euro-Atlantic Integration",
@@ -170,11 +170,12 @@
             "text": "lawyer\ncivil servant"
           },
           "party": {
-            "text": "Ukrainian Strategy of Groysman",
+            "text": "“Слуга народу” (Sluga narodu) “Servant of the people”",
             "links": [
               {
+                "text": "“Слуга народу” (Sluga narodu) “Servant of the people” ",
                 "type": "internal",
-                "page": "Ukrainian Strategy of Groysman"
+                "page": "“Слуга народу” (Sluga narodu) “Servant of the people” "
               }
             ]
           }
