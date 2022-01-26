@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Dmytro Ivanovich Kuleba (Дмитро Іванович Кулеба; born on April 19, 1981 in Sumy) is a Ukrainian statesman, diplomat and communications specialist, currently serving in the post of Minister of Foreign Affairs of Ukraine.",
+              "text": "Dmytro Ivanovych Kuleba (Дмитро Іванович Кулеба; born on April 19, 1981 in Sumy) is a Ukrainian statesman, diplomat and communications specialist, currently serving in the post of Minister of Foreign Affairs of Ukraine.",
               "links": [
                 {
                   "type": "internal",
@@ -37,7 +37,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dmytro Ivanovich Kuleba"
+                  "Dmytro Ivanovych Kuleba"
                 ]
               }
             },
