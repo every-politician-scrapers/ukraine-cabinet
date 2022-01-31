@@ -224,6 +224,11 @@
           "template": "family name hatnote"
         },
         {
+          "template": "redirect",
+          "redirect": "Zelensky",
+          "links": []
+        },
+        {
           "date": "July 2021",
           "template": "use dmy dates"
         },
