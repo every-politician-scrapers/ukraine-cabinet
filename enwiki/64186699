@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Olha Vitaliyivna Stefanishyna (born 29 October 1985 ) is a Ukrainian lawyer and civil servant.",
+              "text": "Olha Vitaliyivna Stefanishyna (Ольга Віталіївна Стефанішина; born 29 October 1985 ) is a Ukrainian lawyer and civil servant.",
               "links": [
                 {
                   "text": "Ukrainian",
@@ -73,12 +73,6 @@
           "day": "29",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Ольга Віталіївна Стефанішина"
-          ],
-          "template": "lang-ua"
         }
       ],
       "infoboxes": [
