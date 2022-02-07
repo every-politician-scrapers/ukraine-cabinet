@@ -1,5 +1,5 @@
 {
-  "title": "Volodymyr Zelensky",
+  "title": "Volodymyr Zelenskyy",
   "pageID": 59210523,
   "categories": [
     "Volodymyr Zelensky",
@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian and politician who is the 6th and current president of Ukraine since 20 May 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian and politician who is the sixth and current president of Ukraine since 20 May 2019.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -56,7 +56,7 @@
         {
           "sentences": [
             {
-              "text": "Prior to his acting career, Zelensky obtained a degree in law from Kyiv National Economic University.",
+              "text": "Prior to his acting career, Zelenskyy obtained a degree in law from Kyiv National Economic University.",
               "links": [
                 {
                   "type": "internal",
@@ -65,7 +65,7 @@
               ]
             },
             {
-              "text": "Nonetheless, Zelensky pursued comedy and created a production company, Kvartal 95, which produces films, cartoons and TV comedy shows, including Servant of the People, in which Zelensky played the role of President of Ukraine.",
+              "text": "Nonetheless, Zelenskyy pursued comedy and created a production company, Kvartal 95, which produces films, cartoons and TV comedy shows, including Servant of the People, in which Zelenskyy played the role of President of Ukraine.",
               "links": [
                 {
                   "text": "Kvartal 95",
@@ -106,7 +106,7 @@
               ]
             },
             {
-              "text": "Zelensky announced his candidacy for the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of President Petro Poroshenko on 1+1 TV Channel.",
+              "text": "Zelenskyy announced his candidacy for the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of President Petro Poroshenko on 1+1 TV Channel.",
               "links": [
                 {
                   "text": "2019 Ukrainian presidential election",
@@ -125,7 +125,7 @@
               ]
             },
             {
-              "text": "A political outsider, Zelensky had already become one of the frontrunners in opinion polls for the election.",
+              "text": "A political outsider, Zelenskyy had already become one of the frontrunners in opinion polls for the election.",
               "links": [
                 {
                   "text": "opinion polls for the election",
@@ -135,14 +135,14 @@
               ]
             },
             {
-              "text": "Zelensky won the election with 73.2% of the vote in the second round, defeating Poroshenko."
+              "text": "Zelenskyy won the election with 73.2% of the vote in the second round, defeating Poroshenko."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Identifying as a populist, Zelensky’s achievements include dissolving parliament and winning a legislative election landslide, managing the pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
+              "text": "Identifying as a populist, Zelenskyy's achievements include dissolving parliament and winning a legislative election landslide, managing the pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
               "links": [
                 {
                   "text": "populist",
@@ -167,12 +167,22 @@
               ]
             },
             {
-              "text": "In recent years, critics claim that Zelensky’s government has taken an authoritarian turn.",
+              "text": "In recent years, critics claim that Zelenskyy's government has taken an authoritarian turn, citing an increase in corruption and democratic backsliding.",
               "links": [
                 {
                   "text": "authoritarian",
                   "type": "internal",
                   "page": "Authoritarianism"
+                },
+                {
+                  "text": "corruption",
+                  "type": "internal",
+                  "page": "corruption"
+                },
+                {
+                  "text": "democratic backsliding",
+                  "type": "internal",
+                  "page": "democratic backsliding"
                 }
               ]
             }
@@ -181,7 +191,7 @@
         {
           "sentences": [
             {
-              "text": "On 26 November 2021, Zelensky announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
+              "text": "On 26 November 2021, Zelenskyy announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
               "links": [
                 {
                   "type": "internal",
@@ -211,22 +221,17 @@
           "template": "short description"
         },
         {
-          "1": "Volodymyr Zelenskyy",
-          "2": "Talk:Volodymyr Zelensky#Requested move 7 January 2022",
-          "template": "user:rmcd bot/subject notice"
+          "template": "redirect",
+          "redirect": "Zelensky",
+          "links": []
         },
         {
           "list": [
             "Oleksandrovych",
-            "Zelensky"
+            "Zelenskyy"
           ],
           "lang": "Eastern Slavic",
           "template": "family name hatnote"
-        },
-        {
-          "template": "redirect",
-          "redirect": "Zelensky",
-          "links": []
         },
         {
           "date": "July 2021",
@@ -258,13 +263,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Volodymyr Zelensky"
+            "text": "Volodymyr Zelenskyy"
           },
           "image": {
             "text": "Volodymyr Zelensky Official portrait.jpg"
           },
           "caption": {
-            "text": "Official portrait, 2019"
+            "text": "Zelenskyy in 2019"
           },
           "native_name": {
             "text": "Володимир Зеленський"
@@ -331,10 +336,6 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Ukraine"
               }
             ]
           },
@@ -379,7 +380,8 @@
             "text": "Olena Kiyashko (m. 2003)"
           },
           "children": {
-            "text": "Oleksandra · Kyrylo"
+            "text": "2",
+            "number": 2
           },
           "blank1": {
             "text": "Notable works"
