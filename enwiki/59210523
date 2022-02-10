@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian and politician who is the sixth and current president of Ukraine since 20 May 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian, and politician who is the sixth and current president of Ukraine since 20 May 2019.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -77,9 +77,8 @@
                   "page": "Servant of the People"
                 },
                 {
-                  "text": "President of Ukraine",
                   "type": "internal",
-                  "page": "President of Ukraine (in exile)"
+                  "page": "President of Ukraine"
                 }
               ],
               "formatting": {
