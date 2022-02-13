@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian actor, comedian, and politician who is the sixth and current president of Ukraine since 20 May 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician and former actor and comedian and who is the sixth and current president of Ukraine.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -65,7 +65,7 @@
               ]
             },
             {
-              "text": "Nonetheless, Zelenskyy pursued comedy and created a production company, Kvartal 95, which produces films, cartoons and TV comedy shows, including Servant of the People, in which Zelenskyy played the role of President of Ukraine.",
+              "text": "He then pursued comedy and created the production company Kvartal 95, which produces films, cartoons, and TV shows including Servant of the People, in which Zelenskyy played the role of president of Ukraine.",
               "links": [
                 {
                   "text": "Kvartal 95",
@@ -75,10 +75,6 @@
                 {
                   "type": "internal",
                   "page": "Servant of the People"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of Ukraine"
                 }
               ],
               "formatting": {
@@ -89,11 +85,7 @@
             },
             {
               "text": "The series aired from 2015 to 2019 and was immensely popular."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "A political party bearing the same name as the television show was created in March 2018 by employees of Kvartal 95.",
               "links": [
@@ -103,7 +95,11 @@
                   "page": "Servant of the People (political party)"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Zelenskyy announced his candidacy for the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of President Petro Poroshenko on 1+1 TV Channel.",
               "links": [
@@ -124,7 +120,7 @@
               ]
             },
             {
-              "text": "A political outsider, Zelenskyy had already become one of the frontrunners in opinion polls for the election.",
+              "text": "A political outsider, he had already become one of the frontrunners in opinion polls for the election.",
               "links": [
                 {
                   "text": "opinion polls for the election",
@@ -134,14 +130,10 @@
               ]
             },
             {
-              "text": "Zelenskyy won the election with 73.2% of the vote in the second round, defeating Poroshenko."
-            }
-          ]
-        },
-        {
-          "sentences": [
+              "text": "He won the election with 73.2% of the vote in the second round, defeating Poroshenko."
+            },
             {
-              "text": "Identifying as a populist, Zelenskyy's achievements include dissolving parliament and winning a legislative election landslide, managing the pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
+              "text": "Identifying as a populist, his achievements include dissolving parliament and winning a legislative election landslide, managing the COVID-19 pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
               "links": [
                 {
                   "text": "populist",
@@ -149,12 +141,12 @@
                   "page": "Populism"
                 },
                 {
-                  "text": "legislative election landslide",
+                  "text": "a legislative election landslide",
                   "type": "internal",
                   "page": "2019 Ukrainian parliamentary election"
                 },
                 {
-                  "text": "pandemic",
+                  "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Ukraine"
                 },
@@ -164,7 +156,11 @@
                   "page": "COVID-19 recession"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "In recent years, critics claim that Zelenskyy's government has taken an authoritarian turn, citing an increase in corruption and democratic backsliding.",
               "links": [
@@ -184,26 +180,12 @@
                   "page": "democratic backsliding"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 26 November 2021, Zelenskyy announced that a group of Ukrainians and Russians was planning a coup against him at the beginning of December.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ukrainians"
-                },
-                {
-                  "type": "internal",
-                  "page": "Russians"
-                }
-              ]
             },
             {
-              "text": "However, his opponents argue that the president misled the public to rally popular support against Ukrainian businessman Rinat Akhmetov.",
+              "text": "On 26 November 2021, he announced that a group of Ukrainians and Russians planned a coup against him to take place at the beginning of December."
+            },
+            {
+              "text": "However, his opponents argue that he misled the public to rally popular support against Ukrainian businessman Rinat Akhmetov.",
               "links": [
                 {
                   "type": "internal",
@@ -255,7 +237,7 @@
           "template": "efn"
         },
         {
-          "transcription": "woloˈdɪmɪr olekˈsɑndrowɪtʃ zeˈlɛnʲsʲkɪj",
+          "transcription": "woloˈdɪmɪr olekˈsɑndrowɪdʒ zeˈlɛnʲsʲkɪj",
           "template": "ipa"
         }
       ],
@@ -321,7 +303,7 @@
             "text": "January 25, 1978"
           },
           "birth_place": {
-            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union\n(now Kryvyi Rih, Ukraine)",
+            "text": "Kryvyi Rih, Ukrainian SSR\n(now Kryvyi Rih, Ukraine)",
             "links": [
               {
                 "type": "internal",
@@ -334,7 +316,7 @@
               },
               {
                 "type": "internal",
-                "page": "Soviet Union"
+                "page": "Ukraine"
               }
             ]
           },
@@ -373,7 +355,7 @@
             ]
           },
           "occupation": {
-            "text": "Comedian, actor, director, screenwriter, film producer, politician"
+            "text": "Politician · comedian · actor"
           },
           "spouse": {
             "text": "Olena Kiyashko (m. 2003)"
@@ -382,60 +364,15 @@
             "text": "2",
             "number": 2
           },
-          "blank1": {
-            "text": "Notable works"
-          },
-          "data1": {
-            "text": "KVN\nKvartal 95\nSvaty\nServant of the People\nOffice Romance. Our Time\nLove in the Big City\nRzhevsky Versus Napoleon",
+          "relatives": {
+            "text": "Oleksandr Zelenskyy (father)",
             "links": [
               {
+                "text": "Oleksandr Zelenskyy",
                 "type": "internal",
-                "page": "KVN"
-              },
-              {
-                "text": "Kvartal 95",
-                "type": "internal",
-                "page": "Kvartal 95 Studio"
-              },
-              {
-                "type": "internal",
-                "page": "Svaty"
-              },
-              {
-                "type": "internal",
-                "page": "Servant of the People"
-              },
-              {
-                "type": "internal",
-                "page": "Office Romance. Our Time"
-              },
-              {
-                "text": "Love in the Big City",
-                "type": "internal",
-                "page": "Love in the Big City (film)"
-              },
-              {
-                "type": "internal",
-                "page": "Rzhevsky Versus Napoleon"
+                "page": "Oleksandr Zelensky"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "KVN",
-                "Kvartal 95",
-                "Svaty",
-                "Servant of the People",
-                "Office Romance. Our Time",
-                "Love in the Big City",
-                "Rzhevsky Versus Napoleon"
-              ]
-            }
-          },
-          "blank2": {
-            "text": "Years active"
-          },
-          "data2": {
-            "text": "1995–2019"
+            ]
           },
           "signature": {
             "text": "Autograph-VolodymyrZelensky.png"
