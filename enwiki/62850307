@@ -4,17 +4,17 @@
   "categories": [
     "1975 births",
     "Living people",
-    "Businesspeople from Lviv",
-    "Lviv Polytechnic alumni",
-    "Governors of Ivano-Frankivsk Oblast",
-    "Independent politicians in Ukraine",
-    "Regional development and construction ministers of Ukraine",
-    "Vice Prime Ministers of Ukraine",
-    "Prime Ministers of Ukraine",
     "21st-century Ukrainian businesspeople",
     "21st-century Ukrainian politicians",
+    "Businesspeople from Lviv",
+    "Governors of Ivano-Frankivsk Oblast",
+    "Independent politicians in Ukraine",
+    "Lviv Polytechnic alumni",
     "National Security and Defense Council of Ukraine",
-    "Politicians from Lviv"
+    "Politicians from Lviv",
+    "Prime Ministers of Ukraine",
+    "Regional development and construction ministers of Ukraine",
+    "Vice Prime Ministers of Ukraine"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Denys Anatoliyovych Shmyhal (born 15 October 1975 ) is a Ukrainian entrepreneur and politician who has served as the Prime Minister of Ukraine since 4 March 2020.",
+              "text": "Denys Anatoliyovych Shmyhal (born 15 October 1975 ) is a Ukrainian entrepreneur and politician who has served as the prime minister of Ukraine since 4 March 2020.",
               "links": [
                 {
                   "text": "Ukrainian",
@@ -37,8 +37,9 @@
                   "page": "entrepreneur"
                 },
                 {
+                  "text": "prime minister of Ukraine",
                   "type": "internal",
-                  "page": "Prime Minister of Ukraine"
+                  "page": "prime minister of Ukraine"
                 }
               ],
               "formatting": {
@@ -48,7 +49,7 @@
               }
             },
             {
-              "text": "Prior to becoming Prime Minister, Shmyhal was the Governor of Ivano-Frankivsk Oblast.",
+              "text": "Prior to becoming prime minister, Shmyhal was the Governor of Ivano-Frankivsk Oblast.",
               "links": [
                 {
                   "type": "internal",
@@ -61,10 +62,10 @@
         {
           "sentences": [
             {
-              "text": "As Prime Minister, Shmyhal has been the primary leader in charge of the COVID-19 Pandemic Response in Ukraine.",
+              "text": "As prime minister, Shmyhal has been the primary leader in charge of the COVID-19 Pandemic Response in Ukraine.",
               "links": [
                 {
-                  "text": "Prime Minister",
+                  "text": "prime minister",
                   "type": "internal",
                   "page": "Prime Minister of Ukraine"
                 },
