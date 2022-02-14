@@ -1,10 +1,10 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 1,Q4109049,1st Verkhovna Rada,1990-05-15,1994-05-10,1990-05-15,11,,,1994-05-10,11,,,,,,,,,Q890183,2nd Verkhovna Rada
 2,Q890183,2nd Verkhovna Rada,1994-05-11,1998-05-12,1994-05-11,11,1994-05-11,11,1998-05-12,11,1998-05-12,11,,,,,Q4109049,1st Verkhovna Rada,Q4109053,3rd Verkhovna Rada
-3,Q4109053,3rd Verkhovna Rada,1998-05-12,2002-03-30,1998-05-12,11,,,2002-03-30,11,,,,,,,Q890183,2nd Verkhovna Rada,Q4109055,4th Verkhovna Rada
-4,Q4109055,4th Verkhovna Rada,2002-03-31,2006-05-24,2002-03-31,11,2002-03-31,11,2006-05-24,11,2006-05-24,11,,,,,Q4109053,3rd Verkhovna Rada,Q4109056,5th Verkhovna Rada
+3,Q4109053,3rd Verkhovna Rada,1998-05-12,2002-05-14,1998-05-12,11,,,2002-05-14,11,,,,,,,Q890183,2nd Verkhovna Rada,Q4109055,4th Verkhovna Rada
+4,Q4109055,4th Verkhovna Rada,2002-05-14,2006-05-25,2002-05-14,11,,,2006-05-25,11,,,,,,,Q4109053,3rd Verkhovna Rada,Q4109056,5th Verkhovna Rada
 5,Q4109056,5th Verkhovna Rada,2006-05-25,2007-11-23,2006-05-25,11,,,2007-11-23,11,,,,,,,Q4109055,4th Verkhovna Rada,Q4109057,6th Verkhovna Rada
 6,Q4109057,6th Verkhovna Rada,2007-11-23,2012-12-12,2007-11-23,11,2007-11-23,11,2012-12-12,11,2012-12-12,11,,,,,Q4109056,5th Verkhovna Rada,Q890420,7th Verkhovna Rada
 7,Q890420,7th Verkhovna Rada,2012-12-12,2014-11-27,2012-12-12,11,2012-12-12,11,2014-11-27,11,2014-11-27,11,,,,,Q4109057,6th Verkhovna Rada,Q18562210,8th Verkhovna Rada
-8,Q18562210,8th Verkhovna Rada,2014-11-27,,2014-11-27,11,,,,,,,,,,,Q890420,7th Verkhovna Rada,Q65923065,9th Verkhovna Rada
+8,Q18562210,8th Verkhovna Rada,2014-11-27,2019-08-29,2014-11-27,11,,,2019-08-29,11,,,,,,,Q890420,7th Verkhovna Rada,Q65923065,9th Verkhovna Rada
 9,Q65923065,9th Verkhovna Rada,2019-08-29,,2019-08-29,11,,,,,,,,,,,Q18562210,8th Verkhovna Rada,,
