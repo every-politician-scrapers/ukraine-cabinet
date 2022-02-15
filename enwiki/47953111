@@ -103,13 +103,22 @@
           "template": "birth date and age"
         },
         {
-          "template": "ussr"
+          "list": [
+            "Soviet Union"
+          ],
+          "template": "air force"
         }
       ],
       "infoboxes": [
         {
           "name": {
             "text": "Oleksii Yuriyovych Reznikov"
+          },
+          "native_name": {
+            "text": "Олексій Юрійович Резніков"
+          },
+          "native_name_lang": {
+            "text": "uk"
           },
           "image": {
             "text": "AYR foto1 (cropped).jpg"
@@ -132,10 +141,6 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Ukraine"
               }
             ]
           },
@@ -250,18 +255,13 @@
               }
             ]
           },
-          "native_name": {
-            "text": "Олексій Юрійович Резніков"
-          },
-          "native_name_lang": {
-            "text": "uk"
-          },
-          "branch": {
-            "text": "Soviet Air Forces",
+          "allegiance": {
+            "text": "Soviet Union",
             "links": [
               {
+                "text": "Soviet Union",
                 "type": "internal",
-                "page": "Soviet Air Forces"
+                "page": "undefined"
               }
             ]
           },
