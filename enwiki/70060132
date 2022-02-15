@@ -1,0 +1,59 @@
+{
+  "title": "Serhiy Shaptala",
+  "pageID": 70060132,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Chiefs of the General Staff (Ukraine)",
+    "Recipients of the Order of Gold Star (Ukraine)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Serhiy Oleksandrovych Shaptala (Шаптала Сергій Олександрович; born 5 February 1973) is the Ukrainian Chief of the General Staff (since 28 July 2021), holding the rank of Lieutenant general.",
+              "links": [
+                {
+                  "text": "Chief of the General Staff",
+                  "type": "internal",
+                  "page": "Chief of the General Staff (Ukraine)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lieutenant general"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Serhiy Oleksandrovych Shaptala"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Shaptala S O.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Shaptala_S_O.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Shaptala_S_O.jpg"
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2022",
+          "template": "blp sources"
+        },
+        {
+          "date": "February 2022",
+          "template": "expand ukrainian"
+        }
+      ]
+    }
+  ]
+}
