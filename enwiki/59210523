@@ -56,6 +56,15 @@
         {
           "sentences": [
             {
+              "text": "Zelenskyy grew up in Kryvyi Rih, a Russian-speaking region in south-east Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kryvyi Rih"
+                }
+              ]
+            },
+            {
               "text": "Prior to his acting career, Zelenskyy obtained a degree in law from Kyiv National Economic University.",
               "links": [
                 {
@@ -133,17 +142,54 @@
               "text": "He won the election with 73.2% of the vote in the second round, defeating Poroshenko."
             },
             {
-              "text": "Identifying as a populist, his achievements include dissolving parliament and winning a legislative election landslide, managing the COVID-19 pandemic and subsequent economic recession, and tackling corruption in Ukraine.",
+              "text": "Identifying as a populist, he has positioned himself as an anti-establishment, anti-corruption figure.",
               "links": [
                 {
                   "text": "populist",
                   "type": "internal",
                   "page": "Populism"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As president, he has been a proponent of e-government and unity between the Ukrainian-speaking and Russian-speaking parts of the country's population.",
+              "links": [
+                {
+                  "text": "e-government",
+                  "type": "internal",
+                  "page": "e-government"
+                }
+              ]
+            },
+            {
+              "text": "His communication style heavily utilises social media, particularly Instagram.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Instagram"
+                }
+              ]
+            },
+            {
+              "text": "His achievements include a landslide victory in a snap legislative election held shortly after his inauguration as president, the lifting of legal immunity for members of the Verkhovna Rada, Ukraine's parliament, managing the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption.",
+              "links": [
+                {
+                  "text": "snap",
+                  "type": "internal",
+                  "page": "snap election"
                 },
                 {
-                  "text": "a legislative election landslide",
+                  "text": "legislative election",
                   "type": "internal",
                   "page": "2019 Ukrainian parliamentary election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Verkhovna Rada"
                 },
                 {
                   "text": "COVID-19 pandemic",
@@ -156,30 +202,46 @@
                   "page": "COVID-19 recession"
                 }
               ]
+            },
+            {
+              "text": "Critics of Zelenskyy claim that in taking power away from the Ukrainian oligarchs, he has sought to centralise authority and strengthen his personal position.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ukrainian oligarchs"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "In recent years, critics of Zelenskyy claim that his government has taken an authoritarian turn, citing an increase in corruption and democratic backsliding.",
+              "text": "Zelenskyy promised to end Ukraine's protracted conflict with Russia as part of his presidential campaign, and has attempted to engage in dialogue with Russian president Vladimir Putin.",
               "links": [
                 {
-                  "text": "authoritarian",
+                  "text": "Ukraine's protracted conflict with Russia",
                   "type": "internal",
-                  "page": "Authoritarianism"
+                  "page": "Russo-Ukrainian War"
                 },
                 {
-                  "text": "corruption",
                   "type": "internal",
-                  "page": "corruption"
-                },
-                {
-                  "text": "democratic backsliding",
-                  "type": "internal",
-                  "page": "democratic backsliding"
+                  "page": "Vladimir Putin"
                 }
               ]
+            },
+            {
+              "text": "Since early 2022, Zelenskyy has faced an escalation of tensions with Russia.",
+              "links": [
+                {
+                  "text": "escalation of tensions with Russia",
+                  "type": "internal",
+                  "page": "2021–2022 Russo-Ukrainian crisis"
+                }
+              ]
+            },
+            {
+              "text": "He has responded by calling for calm and initially distanced himself from warnings of an imminent war, while also calling for security guarantees and military support from Western countries to \"withstand\" the threat."
             }
           ]
         }
