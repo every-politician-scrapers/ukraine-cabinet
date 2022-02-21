@@ -353,7 +353,7 @@
             "text": "January 25, 1978"
           },
           "birth_place": {
-            "text": "Kryvyi Rih, Ukrainian SSR\n(now Kryvyi Rih, Ukraine)",
+            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union (now Kryvyi Rih, Ukraine)",
             "links": [
               {
                 "type": "internal",
@@ -363,6 +363,10 @@
                 "text": "Ukrainian SSR",
                 "type": "internal",
                 "page": "Ukrainian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               },
               {
                 "type": "internal",
