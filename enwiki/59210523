@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician, actor and comedian who is the 6th and current president of Ukraine, serving since May 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician, actor, and comedian who is the 6th and current president of Ukraine, serving since May 2019.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -415,11 +415,10 @@
             "text": "Olena Kiyashko (m. 2003)"
           },
           "children": {
-            "text": "2",
-            "number": 2
+            "text": "Oleksandra\n\nKyrylo"
           },
-          "relatives": {
-            "text": "Oleksandr Zelenskyy (father)",
+          "parents": {
+            "text": "Oleksandr Zelenskyy\n\nRymma Zelenska",
             "links": [
               {
                 "text": "Oleksandr Zelenskyy",

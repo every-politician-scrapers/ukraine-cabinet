@@ -86,6 +86,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Ivanovych",
+            "Kuleba"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1981",
           "month": "04",
           "day": "19",
