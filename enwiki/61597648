@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Iryna Valentynivna Venediktova (Іринa Валентинівна Венедіктова) – is a Ukrainian politician, lawyer, Doctor of Law, Professor.",
+              "text": "Iryna Valentynivna Venediktova (Іринa Валентинівна Венедіктова) is a Ukrainian politician, lawyer, Doctor of Law, and professor.",
               "formatting": {
                 "bold": [
                   "Iryna Valentynivna Venediktova"
@@ -34,7 +34,14 @@
               }
             },
             {
-              "text": "On 17 March 2020, Venediktova was appointed as the Prosecutor General."
+              "text": "On 17 March 2020, Venediktova was appointed as the prosecutor general of Ukraine.",
+              "links": [
+                {
+                  "text": "prosecutor general of Ukraine",
+                  "type": "internal",
+                  "page": "Prosecutor General of Ukraine"
+                }
+              ]
             },
             {
               "text": "She became the first female prosecutor in the history of Ukraine to chair the Prosecutor General’s Office."
@@ -46,6 +53,10 @@
         {
           "description": "Ukrainian politician",
           "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "copy edit"
         },
         {
           "date": "June 2020",

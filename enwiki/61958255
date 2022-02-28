@@ -59,6 +59,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Miacheslavovych",
+            "Danilov"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1962",
           "month": "09",
           "day": "07",

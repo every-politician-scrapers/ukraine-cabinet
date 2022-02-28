@@ -3,38 +3,38 @@
   "pageID": 555483,
   "categories": [
     "1971 births",
-    "Kyrgyzstani people of Ukrainian descent",
-    "Kyrgyzstani people of Russian descent",
-    "Kyrgyzstani emigrants to Ukraine",
+    "Living people",
+    "AIBA World Boxing Championships medalists",
     "Congress of the Council of Europe",
     "Doping cases in boxing",
     "European Boxing Union champions",
     "Governors of Kyiv",
     "Heavyweight kickboxers",
+    "International Boxing Hall of Fame inductees",
     "Klitschko brothers",
-    "Living people",
-    "Ukrainian male boxers",
+    "Kyrgyzstani emigrants to Ukraine",
+    "Kyrgyzstani people of Russian descent",
+    "Kyrgyzstani people of Ukrainian descent",
+    "Laureus World Sports Awards winners",
     "Mayors of Kyiv",
     "Seventh convocation members of the Verkhovna Rada",
     "People from Chuy Region",
     "People of the Euromaidan",
     "Pro-Ukrainian people of the 2014 pro-Russian unrest in Ukraine",
     "Recipients of the Cross of the Order of Merit of the Federal Republic of Germany",
+    "Recipients of the Presidential Order of Excellence",
     "Recipients of the title of Hero of Ukraine",
-    "Ukrainian people of Russian descent",
+    "The Ring (magazine) champions",
     "Ukrainian Democratic Alliance for Reform politicians",
     "Ukrainian expatriate sportspeople in Germany",
+    "Ukrainian male boxers",
     "Ukrainian male kickboxers",
+    "Ukrainian people of Russian descent",
     "Ukrainian sportspeople in doping cases",
     "Ukrainian sportsperson-politicians",
     "World Boxing Organization champions",
     "World Boxing Council champions",
-    "World heavyweight boxing champions",
-    "Laureus World Sports Awards winners",
-    "The Ring (magazine) champions",
-    "AIBA World Boxing Championships medalists",
-    "International Boxing Hall of Fame inductees",
-    "Recipients of the Presidential Order of Excellence"
+    "World heavyweight boxing champions"
   ],
   "sections": [
     {
@@ -59,11 +59,12 @@
               }
             },
             {
-              "text": "He currently serves as Mayor of Kyiv and head of the Kyiv City State Administration, having held both offices since June 2014.",
+              "text": "He has served as mayor of Kyiv and head of the Kyiv City State Administration, having held both offices since June 2014.",
               "links": [
                 {
+                  "text": "mayor of Kyiv",
                   "type": "internal",
-                  "page": "Mayor of Kyiv"
+                  "page": "mayor of Kyiv"
                 },
                 {
                   "type": "internal",
@@ -111,10 +112,9 @@
               ]
             },
             {
-              "text": "He held the WBO title from 1999 to 2000, the Ring magazine title from 2004 to 2005, and the WBC title twice between 2004 and 2013.",
+              "text": "He held the World Boxing Organization (WBO) title from 1999 to 2000, the Ring magazine title from 2004 to 2005, and the World Boxing Council (WBC) title twice between 2004 and 2013.",
               "links": [
                 {
-                  "text": "WBO",
                   "type": "internal",
                   "page": "World Boxing Organization"
                 },
@@ -124,7 +124,6 @@
                   "page": "The Ring (magazine)"
                 },
                 {
-                  "text": "WBC",
                   "type": "internal",
                   "page": "World Boxing Council"
                 }
@@ -136,7 +135,7 @@
               }
             },
             {
-              "text": "Overall, Vitali defeated 15 opponents in world heavyweight title fights and made 12 successful title defences."
+              "text": "Overall, he defeated 15 opponents in world heavyweight title fights, and made 12 successful title defences."
             },
             {
               "text": "In 2011, Vitali and his younger brother Wladimir Klitschko entered the Guinness World Records as the pair of brothers with most world heavyweight title fight wins (30 at the time; 40 as of 2020).",
@@ -152,7 +151,7 @@
               ]
             },
             {
-              "text": "From 2006 until 2015, Vitali and Wladimir (also a multiple-time world champion) dominated heavyweight boxing, a period typically known as the \"Klitschko Era\" of the division.",
+              "text": "From 2006 until 2015, Vitali and Wladimir (also a multiple world champion) dominated heavyweight boxing, a period widely known as the \"Klitschko Era\" of the division.",
               "links": [
                 {
                   "text": "Klitschko Era",
@@ -160,77 +159,9 @@
                   "page": "Klitschko brothers"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Standing at 2.01 m and usually entering fights at a weight of around 250 lb, Vitali was renowned for having exceptional ring dominance, as well possessing a formidable 87% knockout percentage at the end of his career.",
-              "links": [
-                {
-                  "text": "knockout",
-                  "type": "internal",
-                  "page": "knockout"
-                }
-              ]
-            },
-            {
-              "text": "His only two losses came via a shoulder injury and a deep cut above his eye, both of which were recorded as stoppages rather than outright knockouts; in both fights he was leading on the judges' scorecards.",
-              "links": [
-                {
-                  "text": "stoppages",
-                  "type": "internal",
-                  "page": "technical knockout"
-                }
-              ]
             },
             {
               "text": "Klitschko's last fight was in 2012, but he remained the WBC heavyweight champion at age 42 when he announced his retirement in December 2013."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Klitschko is the only heavyweight boxer to have reigned as world champion in three different decades."
-            },
-            {
-              "text": "Along with Oliver McCall and Nikolai Valuev, he is also one of two world heavyweight champions to have never been knocked down in any fight.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Oliver McCall"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nikolai Valuev"
-                },
-                {
-                  "text": "knocked down",
-                  "type": "internal",
-                  "page": "knockdown (boxing)"
-                }
-              ]
-            },
-            {
-              "text": "Klitschko and George Foreman are the only heavyweight boxers in history to defend a world title after turning 40.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "George Foreman"
-                }
-              ]
-            },
-            {
-              "text": "Being the first professional boxing world champion to hold a PhD degree, and in reference to his punching power, Klitschko's nickname was \"Dr. Ironfist\".",
-              "links": [
-                {
-                  "text": "PhD",
-                  "type": "internal",
-                  "page": "Doctor of Philosophy"
-                }
-              ]
             }
           ]
         },
@@ -254,7 +185,7 @@
               ]
             },
             {
-              "text": "He was a leading figure in the 2013–2014 Euromaidan protests, and he announced his possible candidacy for the Ukrainian presidency but later withdrew and endorsed Petro Poroshenko.",
+              "text": "He was a leading figure in the 2013–2014 Euromaidan protests, and he announced his possible candidacy for the Ukrainian presidency but later withdrew and endorsed the eventual winner Petro Poroshenko.",
               "links": [
                 {
                   "type": "internal",
@@ -275,7 +206,7 @@
               "text": "He was elected Mayor of Kyiv on 25 May 2014."
             },
             {
-              "text": "Klitschko headed the election list of the winner of the 2014 Ukrainian parliamentary election, the Petro Poroshenko Bloc, but he gave up his parliamentary seat to stay on as Mayor of Kyiv.",
+              "text": "He headed the election list of the winner of the 2014 Ukrainian parliamentary election, the Petro Poroshenko Bloc, but he gave up his parliamentary seat to stay on as Mayor of Kyiv.",
               "links": [
                 {
                   "text": "2014 Ukrainian parliamentary election",
@@ -312,16 +243,30 @@
               "text": "UDAR however failed to win any seats."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 February 2022, Klitschko and his brother Wladimir announced that they would take up arms in defense of Kyiv following the 2022 Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
         {
-          "description": "Ukrainian boxer and politician",
+          "description": "Ukrainian politican and boxer (born 1971)",
           "template": "short description"
         },
         {
-          "date": "June 2014",
-          "template": "use dmy dates"
+          "text": "his brother, Wladimir Klitschko",
+          "template": "distinguish"
         },
         {
           "list": [
@@ -332,10 +277,14 @@
           "template": "family name hatnote"
         },
         {
+          "date": "June 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
           "year": "1971",
-          "month": "07",
+          "month": "7",
           "day": "19",
-          "df": "y",
           "template": "birth date and age"
         },
         {
@@ -443,14 +392,64 @@
           }
         },
         {
-          "honorific_suffix": {
-            "text": "HOU"
+          "embed": {
+            "text": "yes"
           },
+          "allegiance": {
+            "text": "🇺🇦 Ukraine",
+            "links": [
+              {
+                "text": "Ukraine",
+                "type": "internal",
+                "page": "ukraine"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Ukrainian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ukrainian Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2022–present"
+          },
+          "battles": {
+            "text": "2022 Russian invasion of Ukraine",
+            "links": [
+              {
+                "text": "2022 Russian invasion of Ukraine",
+                "type": "internal",
+                "page": "2022 Russian invasion of Ukraine"
+              }
+            ]
+          }
+        },
+        {
           "name": {
             "text": "Vitali Klitschko"
           },
+          "honorific_suffix": {
+            "text": "HOU",
+            "links": [
+              {
+                "text": "HOU",
+                "type": "internal",
+                "page": "Hero of Ukraine"
+              }
+            ]
+          },
           "native_name": {
             "text": "Віта́лій Кличко́"
+          },
+          "image": {
+            "text": "2014-09-12 - Vitali Klitschko - 9019 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2014"
           },
           "office": {
             "text": "Mayor of Kyiv",
@@ -461,14 +460,8 @@
               }
             ]
           },
-          "image": {
-            "text": "2014-09-12 - Vitali Klitschko - 9019 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2014"
-          },
           "predecessor": {
-            "text": "Halyna Hereha (Acting)",
+            "text": "Halyna Hereha (acting)",
             "links": [
               {
                 "type": "internal",
