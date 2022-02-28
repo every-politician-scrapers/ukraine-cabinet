@@ -37,14 +37,11 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Shaptala S O.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Shaptala_S_O.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Shaptala_S_O.jpg"
-        }
-      ],
       "templates": [
+        {
+          "description": "Ukrainian general",
+          "template": "short description"
+        },
         {
           "date": "February 2022",
           "template": "blp sources"
@@ -52,6 +49,136 @@
         {
           "date": "February 2022",
           "template": "expand ukrainian"
+        },
+        {
+          "year": "1973",
+          "month": "02",
+          "day": "05",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Serhiy Shaptala"
+          },
+          "image": {
+            "text": "Shaptala S O.jpg"
+          },
+          "office": {
+            "text": "15th Chief of the General Staff",
+            "links": [
+              {
+                "text": "Chief of the General Staff",
+                "type": "internal",
+                "page": "Chief of the General Staff (Ukraine)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Volodymyr Zelenskyy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Volodymyr Zelenskyy"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 28, 2021"
+          },
+          "preceded": {
+            "text": "Serhiy Korniychuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Serhiy Korniychuk"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 5, 1973"
+          },
+          "birth_place": {
+            "text": "Kostiantynivka, Ukrainian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kostiantynivka"
+              },
+              {
+                "text": "Ukrainian SSR",
+                "type": "internal",
+                "page": "Ukrainian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "education": {
+            "text": "Ivan Chernyakhovsky National Defense University of Ukraine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ivan Chernyakhovsky National Defense University of Ukraine"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇺🇦 Ukraine",
+            "links": [
+              {
+                "text": "Ukraine",
+                "type": "internal",
+                "page": "ukraine"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Ukrainian Ground Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ukrainian Ground Forces"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1994–present"
+          },
+          "rank": {
+            "text": "Lieutenant general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant general"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Russo-Ukrainian War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Russo-Ukrainian War"
+              }
+            ]
+          },
+          "mawards": {
+            "text": "Hero of Ukraine Order of Bohdan Khmelnytsky",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hero of Ukraine"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Bohdan Khmelnytsky"
+              }
+            ]
+          }
         }
       ]
     }

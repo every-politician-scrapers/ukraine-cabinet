@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Mykhailo Albertovych Fedorov (born 21 January 1991 ) is a Ukrainian politician, and businessman currently serving as First Vice Prime Minister and Minister of Digital Transformation.",
+              "text": "Mykhailo Albertovych Fedorov (born 21 January 1991 ) is a Ukrainian politician, and businessman currently serving as First Vice Prime Minister and Minister of Digital Transformation since 2019.",
               "links": [
                 {
                   "text": "Ukrainian",
@@ -74,7 +74,10 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Mykhailo Fedorov\nМихайло Федоров"
+            "text": "Mykhailo Fedorov"
+          },
+          "native_name": {
+            "text": "Михайло Федоров"
           },
           "image": {
             "text": "File:Mykhailo Fedorov (cropped).jpg"
@@ -86,7 +89,7 @@
             "text": "January 21, 1991"
           },
           "birth_place": {
-            "text": "Vasylivka, Zaporizhia Oblast, Ukrainian SSR, Soviet Union",
+            "text": "Vasylivka, Zaporizhia Oblast, Ukrainian SSR, Soviet Union (now Vasylivka, Zaporizhia Oblast, Ukraine)",
             "links": [
               {
                 "type": "internal",
@@ -104,11 +107,15 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Ukraine"
               }
             ]
           },
           "office": {
-            "text": "Vice Prime Minister of Ukraine – Minister of Digital Transformation",
+            "text": "Vice Prime Minister of Ukraine\nMinister of Digital Transformation",
             "links": [
               {
                 "type": "internal",
@@ -138,7 +145,12 @@
             "text": "29 August 2019"
           },
           "predecessor": {
-            "text": "new post"
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
           },
           "office1": {
             "text": "People's Deputy of Ukraine",
@@ -167,13 +179,20 @@
             ]
           },
           "occupation": {
-            "text": "Businessman\n\npolitician"
+            "text": "Politician · businessman"
           },
           "party": {
-            "text": "non-partisan"
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent (politician)"
+              }
+            ]
           },
           "otherparty": {
-            "text": "5.10 (2014–2019)",
+            "text": "5.10\n(2014–2019)",
             "links": [
               {
                 "text": "5.10",

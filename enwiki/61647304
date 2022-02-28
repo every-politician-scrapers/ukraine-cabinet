@@ -23,14 +23,10 @@
         {
           "sentences": [
             {
-              "text": "Dmytro Ivanovych Kuleba (Дмитро Іванович Кулеба; born on April 19, 1981 in Sumy) is a Ukrainian statesman, diplomat and communications specialist, currently serving in the post of Minister of Foreign Affairs of Ukraine.",
+              "text": "Dmytro Ivanovych Kuleba (Дмитро Іванович Кулеба; born 19 April 1981) is a Ukrainian politician, diplomat, and communications specialist, currently serving as Minister of Foreign Affairs.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Sumy"
-                },
-                {
-                  "text": "Minister of Foreign Affairs of Ukraine",
+                  "text": "Minister of Foreign Affairs",
                   "type": "internal",
                   "page": "Minister of Foreign Affairs (Ukraine)"
                 }
@@ -50,9 +46,13 @@
                   "page": "National Security and Defense Council of Ukraine"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He is one of the youngest top-diplomats in Ukraine's history."
+              "text": "Kuleba is one of the youngest senior-diplomats in Ukraine's history."
             },
             {
               "text": "He previously worked as Deputy Prime Minister of Ukraine for European and Euro-Atlantic Integration as well as Permanent Representative of Ukraine to the Council of Europe between 2016 and 2019.",
@@ -94,6 +94,10 @@
           "template": "family name hatnote"
         },
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1981",
           "month": "04",
           "day": "19",
@@ -104,18 +108,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Dmytro Kuleba Дмитро Кулеба",
-            "formatting": {
-              "italic": [
-                "Дмитро Кулеба"
-              ]
-            }
+            "text": "Dmytro Kuleba Дмитро Кулеба"
           },
           "image": {
             "text": "Дмитро Кулеба 1 (cropped).jpg"
           },
           "caption": {
-            "text": "Minister of Foreign Affairs of Ukraine Dmytro Kuleba"
+            "text": "Kuleba in 2020"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -247,7 +246,7 @@
             ]
           },
           "nationality": {
-            "text": "🇺🇦"
+            "text": "Ukrainian"
           },
           "alma_mater": {
             "text": "Taras Shevchenko National University of Kyiv",

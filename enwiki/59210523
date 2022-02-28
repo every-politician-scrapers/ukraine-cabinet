@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician, actor, and comedian who is the 6th and current president of Ukraine, serving since May 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian statesman, former actor and comedian who has been serving as the president of Ukraine since 2019.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -50,22 +50,42 @@
                   "Volodymyr Oleksandrovych Zelenskyy"
                 ]
               }
+            },
+            {
+              "text": "He gained worldwide recognition as the wartime leader of Ukraine during the Russian invasion of Ukraine, and has been described as a national hero in Ukraine.",
+              "links": [
+                {
+                  "text": "Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                },
+                {
+                  "text": "national hero",
+                  "type": "internal",
+                  "page": "national hero"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Zelenskyy grew up in Kryvyi Rih, a Russian-speaking region in south-east Ukraine.",
+              "text": "Zelenskyy grew up in Kryvyi Rih, a Russian-speaking region in southeastern Ukraine.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kryvyi Rih"
+                },
+                {
+                  "text": "Russian-speaking",
+                  "type": "internal",
+                  "page": "Russian language in Ukraine"
                 }
               ]
             },
             {
-              "text": "Prior to his acting career, Zelenskyy obtained a degree in law from Kyiv National Economic University.",
+              "text": "Prior to his acting career, Zelenskyy obtained a degree in law from the Kyiv National Economic University.",
               "links": [
                 {
                   "type": "internal",
@@ -139,7 +159,7 @@
               ]
             },
             {
-              "text": "He won the election with 73.2% of the vote in the second round, defeating Poroshenko."
+              "text": "He won the election with 73.2 per cent of the vote in the second round, defeating Poroshenko."
             },
             {
               "text": "Identifying as a populist, he has positioned himself as an anti-establishment, anti-corruption figure.",
@@ -148,6 +168,16 @@
                   "text": "populist",
                   "type": "internal",
                   "page": "Populism"
+                },
+                {
+                  "text": "anti-establishment",
+                  "type": "internal",
+                  "page": "anti-establishment"
+                },
+                {
+                  "text": "anti-corruption",
+                  "type": "internal",
+                  "page": "anti-corruption"
                 }
               ]
             }
@@ -156,12 +186,22 @@
         {
           "sentences": [
             {
-              "text": "As president, he has been a proponent of e-government and unity between the Ukrainian-speaking and Russian-speaking parts of the country's population.",
+              "text": "As president, Zelenskyy has been a proponent of e-government and unity between the Ukrainian-speaking and Russian-speaking parts of the country's population.",
               "links": [
                 {
                   "text": "e-government",
                   "type": "internal",
                   "page": "e-government"
+                },
+                {
+                  "text": "Ukrainian-speaking",
+                  "type": "internal",
+                  "page": "Ukrainian language"
+                },
+                {
+                  "text": "the country's population",
+                  "type": "internal",
+                  "page": "Demographics of Ukraine"
                 }
               ]
             },
@@ -169,13 +209,18 @@
               "text": "His communication style heavily utilises social media, particularly Instagram.",
               "links": [
                 {
+                  "text": "social media",
+                  "type": "internal",
+                  "page": "Social media use in politics"
+                },
+                {
                   "type": "internal",
                   "page": "Instagram"
                 }
               ]
             },
             {
-              "text": "His achievements include a landslide victory in a snap legislative election held shortly after his inauguration as president, the lifting of legal immunity for members of the Verkhovna Rada, Ukraine's parliament, managing the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption.",
+              "text": "His party won a landslide victory in a snap legislative election held shortly after his inauguration as president.",
               "links": [
                 {
                   "text": "snap",
@@ -186,7 +231,12 @@
                   "text": "legislative election",
                   "type": "internal",
                   "page": "2019 Ukrainian parliamentary election"
-                },
+                }
+              ]
+            },
+            {
+              "text": "During his administration, Zelenskyy oversaw the lifting of legal immunity for members of the Verkhovna Rada, Ukraine's parliament, the country's response to the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Verkhovna Rada"
@@ -200,6 +250,11 @@
                   "text": "economic recession",
                   "type": "internal",
                   "page": "COVID-19 recession"
+                },
+                {
+                  "text": "corruption",
+                  "type": "internal",
+                  "page": "Corruption in Ukraine"
                 }
               ]
             },
@@ -217,7 +272,7 @@
         {
           "sentences": [
             {
-              "text": "Zelenskyy promised to end Ukraine's protracted conflict with Russia as part of his presidential campaign, and has attempted to engage in dialogue with Russian president Vladimir Putin.",
+              "text": "Zelenskyy promised to end Ukraine's protracted conflict with Russia as part of his presidential campaign, and attempted to engage in dialogue with Russian President Vladimir Putin.",
               "links": [
                 {
                   "text": "Ukraine's protracted conflict with Russia",
@@ -231,7 +286,7 @@
               ]
             },
             {
-              "text": "Since early 2022, Zelenskyy has faced an escalation of tensions with Russia.",
+              "text": "Zelenskyy's administration faced an escalation of tensions with Russia in 2021, culminating in the launch of an ongoing full-scale Russian invasion in February 2022.",
               "links": [
                 {
                   "text": "escalation of tensions with Russia",
@@ -241,14 +296,33 @@
               ]
             },
             {
-              "text": "He has responded by calling for calm and initially distanced himself from warnings of an imminent war, while also calling for security guarantees and military support from Western countries to \"withstand\" the threat."
+              "text": "Zelenskyy's strategy during the Russian military buildup was to calm the Ukrainian populace and assure the international community that Ukraine was not seeking to retaliate."
+            },
+            {
+              "text": "He initially distanced himself from warnings of an imminent war, while also calling for security guarantees and military support from NATO to \"withstand\" the threat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            },
+            {
+              "text": "After the commencement of the invasion, Zelenskyy declared martial law across Ukraine and general mobilisation.",
+              "links": [
+                {
+                  "text": "martial law across Ukraine",
+                  "type": "internal",
+                  "page": "Martial law in Ukraine"
+                }
+              ]
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "6th president of Ukraine since 2019",
+          "description": "President of Ukraine since 2019",
           "template": "short description"
         },
         {
@@ -265,14 +339,26 @@
           "template": "family name hatnote"
         },
         {
+          "small": "yes",
+          "template": "pp-30-500"
+        },
+        {
           "date": "July 2021",
           "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Volodymyr Groysman",
+            "Oleksiy Honcharuk",
+            "Denys Shmyhal"
+          ],
+          "template": "ubl"
         },
         {
           "year": "1978",
           "month": "1",
           "day": "25",
-          "df": "y",
+          "df": "yes",
           "template": "birth date and age"
         },
         {
@@ -282,7 +368,7 @@
         },
         {
           "list": [
-            "Zelensky's name is spelled several ways. Zelenskyy is the spelling in his passport, and his administration has used it since May 2019."
+            "Zelenskyy's name is spelled several ways. Zelenskyy is the spelling on his passport, and his administration has used it since assuming office."
           ],
           "template": "efn"
         },
@@ -300,7 +386,7 @@
             "text": "Volodymyr Zelensky Official portrait.jpg"
           },
           "caption": {
-            "text": "Zelenskyy in 2019"
+            "text": "Official portrait, 2019"
           },
           "native_name": {
             "text": "Володимир Зеленський"
@@ -308,31 +394,14 @@
           "native_name_lang": {
             "text": "uk"
           },
+          "order": {
+            "text": "6th"
+          },
           "office": {
-            "text": "6th President of Ukraine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Ukraine"
-              }
-            ]
+            "text": "President of Ukraine"
           },
           "primeminister": {
-            "text": "Volodymyr Groysman\nOleksiy Honcharuk\nDenys Shmyhal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Volodymyr Groysman"
-              },
-              {
-                "type": "internal",
-                "page": "Oleksiy Honcharuk"
-              },
-              {
-                "type": "internal",
-                "page": "Denys Shmyhal"
-              }
-            ]
+            "text": "Volodymyr Groysman\n\nOleksiy Honcharuk\n\nDenys Shmyhal"
           },
           "term_start": {
             "text": "20 May 2019"
@@ -353,7 +422,7 @@
             "text": "January 25, 1978"
           },
           "birth_place": {
-            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union (now Kryvyi Rih, Ukraine)",
+            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union (now Ukraine)",
             "links": [
               {
                 "type": "internal",
@@ -375,28 +444,21 @@
             ]
           },
           "education": {
-            "text": "Kyiv National Economic University (department in Kryvyi Rih)",
+            "text": "Kyiv National Economic University (LLB)",
             "links": [
               {
                 "type": "internal",
                 "page": "Kyiv National Economic University"
               },
               {
-                "text": "department in Kryvyi Rih",
+                "text": "LLB",
                 "type": "internal",
-                "page": "Kryvyi Rih Institute of Economics"
+                "page": "Bachelor of law"
               }
             ]
           },
           "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
+            "text": "Independent"
           },
           "otherparty": {
             "text": "Servant of the People (2018–present)",
@@ -409,13 +471,23 @@
             ]
           },
           "occupation": {
-            "text": "Politician · comedian · actor"
+            "text": "Politician · actor · comedian"
           },
           "spouse": {
             "text": "Olena Kiyashko (m. 2003)"
           },
           "children": {
-            "text": "Oleksandra\n\nKyrylo"
+            "text": "2",
+            "number": 2
+          },
+          "residence": {
+            "text": "Mariinskyi Palace",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mariinskyi Palace"
+              }
+            ]
           },
           "parents": {
             "text": "Oleksandr Zelenskyy\n\nRymma Zelenska",

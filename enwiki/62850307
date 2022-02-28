@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Denys Anatoliyovych Shmyhal (born 15 October 1975 ) is a Ukrainian entrepreneur and politician who Is Serving as the prime minister of Ukraine since 4 March 2020.",
+              "text": "Denys Anatoliyovych Shmyhal (born 15 October 1975 ) is a Ukrainian politician and entrepreneur who has been serving as the prime minister of Ukraine since 2020.",
               "links": [
                 {
                   "text": "Ukrainian",
@@ -49,7 +49,7 @@
               }
             },
             {
-              "text": "Prior to becoming prime minister, Shmyhal was the Governor of Ivano-Frankivsk Oblast.",
+              "text": "Prior to his appointment as prime minister, Shmyhal was the Governor of Ivano-Frankivsk Oblast.",
               "links": [
                 {
                   "type": "internal",
@@ -62,7 +62,7 @@
         {
           "sentences": [
             {
-              "text": "As prime minister, Shmyhal has been the primary leader in charge of the COVID-19 Pandemic Response in Ukraine.",
+              "text": "As prime minister, Shmyhal has been in charge of handling the COVID-19 pandemic response in Ukraine.",
               "links": [
                 {
                   "text": "prime minister",
@@ -70,7 +70,7 @@
                   "page": "Prime Minister of Ukraine"
                 },
                 {
-                  "text": "COVID-19 Pandemic Response in Ukraine",
+                  "text": "COVID-19 pandemic response in Ukraine",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Ukraine"
                 }
@@ -83,6 +83,19 @@
         {
           "description": "Prime minister of Ukraine (born 1975)",
           "template": "short description"
+        },
+        {
+          "reason": "Arbitration enforcement: WP:BLPDS",
+          "small": "yes",
+          "template": "pp-protected"
+        },
+        {
+          "list": [
+            "Anatoliyovych",
+            "Shmyhal"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
         },
         {
           "year": "1975",
@@ -112,36 +125,24 @@
           "caption": {
             "text": "Shmyhal in 2020"
           },
+          "order": {
+            "text": "18th"
+          },
           "office": {
-            "text": "18th Prime Minister of Ukraine",
-            "links": [
-              {
-                "text": "18th",
-                "type": "internal",
-                "page": "List of prime ministers of Ukraine"
-              },
-              {
-                "type": "internal",
-                "page": "Prime Minister of Ukraine"
-              }
-            ]
+            "text": "Prime Minister of Ukraine"
           },
           "president": {
-            "text": "Volodymyr Zelensky",
+            "text": "Volodymyr Zelenskyy",
             "links": [
               {
                 "type": "internal",
-                "page": "Volodymyr Zelensky"
+                "page": "Volodymyr Zelenskyy"
               }
             ]
           },
           "deputy": {
-            "text": "Oleksiy Lyubchenko (May—November 2021) Yulia Svyrydenko (since November 2021)",
+            "text": "Oleksiy Lyubchenko\nYulia Svyrydenko",
             "links": [
-              {
-                "type": "internal",
-                "page": "Oleksiy Lyubchenko"
-              },
               {
                 "type": "internal",
                 "page": "Yulia Svyrydenko"
@@ -161,7 +162,7 @@
             ]
           },
           "office1": {
-            "text": "Deputy Prime Minister Minister for Communities and Territories Development",
+            "text": "Deputy Prime Minister\nMinister for Communities and Territories Development",
             "links": [
               {
                 "text": "Minister for Communities and Territories Development",
@@ -235,13 +236,7 @@
             "text": "5 February 2020"
           },
           "predecessor2": {
-            "text": "Oleh Honcharuk",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oleh Honcharuk"
-              }
-            ]
+            "text": "Oleh Honcharuk"
           },
           "successor2": {
             "text": "Vitaliy Fedoriv (Acting)",
@@ -251,7 +246,12 @@
                 "type": "internal",
                 "page": "Vitaliy Fedoriv (politician)"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Acting"
+              ]
+            }
           },
           "birth_name": {
             "text": "Denys Anatoliyovych Shmyhal"
@@ -260,12 +260,8 @@
             "text": "October 15, 1975"
           },
           "birth_place": {
-            "text": "Lviv, Ukrainian SSR, Soviet Union",
+            "text": "Lviv, Ukrainian SSR, Soviet Union (now Lviv, Lviv Oblast, Ukraine)",
             "links": [
-              {
-                "type": "internal",
-                "page": "Lviv"
-              },
               {
                 "text": "Ukrainian SSR",
                 "type": "internal",
@@ -274,6 +270,18 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Lviv"
+              },
+              {
+                "type": "internal",
+                "page": "Lviv Oblast"
+              },
+              {
+                "type": "internal",
+                "page": "Ukraine"
               }
             ]
           },
@@ -287,13 +295,7 @@
             ]
           },
           "occupation": {
-            "text": "Entrepreneur\nPolitician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Entrepreneur"
-              }
-            ]
+            "text": "Politician · entrepreneur"
           },
           "party": {
             "text": "Independent",
