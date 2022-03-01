@@ -243,20 +243,6 @@
               "text": "UDAR however failed to win any seats."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 24 February 2022, Klitschko and his brother Wladimir announced that they would take up arms in defense of Kyiv following the 2022 Russian invasion of Ukraine.",
-              "links": [
-                {
-                  "text": "2022 Russian invasion of Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -418,12 +404,11 @@
             "text": "2022–present"
           },
           "battles": {
-            "text": "2022 Russian invasion of Ukraine",
+            "text": "Battle of Kyiv (2022)",
             "links": [
               {
-                "text": "2022 Russian invasion of Ukraine",
                 "type": "internal",
-                "page": "2022 Russian invasion of Ukraine"
+                "page": "Battle of Kyiv (2022)"
               }
             ]
           }
