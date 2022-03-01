@@ -1,11 +1,18 @@
 position,title
+Q4435673,First Lady
+Q94742128,Deputy Head of the Office of the President
+Q74219237,First Deputy Head of the Secretariat of the President
 Q110815355,Deputy Minister of Economic Development
+Q74221058,Chairman of the State Treasury
+Q109946495,Head of the State Emergency Service
+Q4349849,First Deputy Chairman of the Verkhovna Rada
+Q56131693,Commander-in-Chief of the Armed Forces
 Q9198622,Governor of Cherkasy Oblast
 Q12170051,Governor of Chernihiv Oblast
 Q1028966,Governor of Chernivtsi Oblast
 Q9208075,Governor of Dnipropetrovsk Oblast
 Q4166196,Governor of Donetsk Oblast
-Q11246337Governor of Ivano-Frankivsk Oblast
+Q11246337,Governor of Ivano-Frankivsk Oblast
 Q18713103,Governor of Kharkiv Oblast
 Q9189516,Governor of Kherson Oblast
 Q9190016,Governor of Khmelnytskyi Oblast
@@ -25,22 +32,89 @@ Q12105388,Governor of Zakarpattia Oblast
 Q4186884,Governor of Zaporizhzhia Oblast
 Q12104630,Governor of Zhytomyr Oblast
 Q18019781,Governor of Sevastopol
+Q12131703,Lviv City Mayor
+Q87187887,ambassador to Algeria
+Q87187889,ambassador to Angola
+Q87187892,ambassador to Argentina
 Q87187906,ambassador to Armenia
+Q87187880,ambassador to Australia
+Q39054748,ambassador to Austria
+Q87187885,ambassador to Azerbaijan
 Q4741136,ambassador to Belarus
+Q87187894,ambassador to Belgium
+Q87187900,ambassador to Brazil
 Q87187897,ambassador to Bulgaria
 Q40338446,ambassador to Canada
+Q87188034,ambassador to Croatia
+Q17006169,ambassador to Cuba
+Q87188045,ambassador to Cyprus
+Q87188036,ambassador to the Czech Republic
+Q87187915,ambassador to Denmark
+Q87187923,ambassador to Egypt
 Q87187918,ambassador to Estonia
+Q87187921,ambassador to Ethiopia
 Q16821034,ambassador to Finland
+Q29970082,ambassador to France
+Q87187912,ambassador to Georgia
+Q25044814,ambassador to Germany
 Q87187909,ambassador to Greece
 Q66821217,ambassador to Hungary
+Q87187927,ambassador to India
+Q87187929,ambassador to Indonesia
+Q87187935,ambassador to Iran
+Q87187932,ambassador to Iraq
+Q87187925,ambassador to Israel
+Q87187944,ambassador to Italy
 Q87188043,ambassador to Japan
+Q87187946,ambassador to Jordan
+Q87187949,ambassador to Kazakhstan
+Q87187953,ambassador to Kenya
+Q87187959,ambassador to Kuwait
 Q87187956,ambassador to Kyrgyzstan
+Q87187961,ambassador to Latvia
+Q87187968,ambassador to Lebanon
+Q87187970,ambassador to Libya
+Q87187963,ambassador to Lithuania
+Q87187974,ambassador to Malaysia
+Q87187980,ambassador to Mexico
+Q17098828,ambassador to Moldova
 Q55692707,ambassador to Montenegro
+Q87187976,ambassador to Morocco
+Q87187986,ambassador to the Netherlands
+Q87187982,ambassador to Nigeria
+Q87188004,ambassador to North Macedonia
+Q87187988,ambassador to Norway
+Q87187994,ambassador to Pakistan
+Q19839591,ambassador to the People's Republic of China
+Q87187998,ambassador to Peru
 Q4741137,ambassador to Poland
 Q55386280,ambassador to Portugal
+Q87187951,ambassador to Qatar
+Q87187938,ambassador to Ireland
 Q4741138,ambassador to Romania
 Q4741139,ambassador to Russia
+Q87188006,ambassador to Saudi Arabia
+Q87188008,ambassador to Senegal
+Q87188009,ambassador to Serbia
+Q87188016,ambassador to Singapore
 Q12099685,ambassador to Slovakia
+Q87188018,ambassador to Slovenia
+Q87187996,ambassador to South Africa
+Q87188001,ambassador to South Korea
+Q87187942,ambassador to Spain
+Q87188040,ambassador to Sweden
 Q87188038,ambassador to Switzerland
+Q87188012,ambassador to Syria
+Q87188022,ambassador to Tajikistan
+Q87188024,ambassador to Thailand
+Q87188026,ambassador to Tunisia
+Q87188028,ambassador to Turkey
+Q87188030,ambassador to Turkmenistan
+Q87187991,ambassador to the United Arab Emirates
 Q24996601,ambassador to the United Kingdom
+Q87188020,ambassador to the United States of America
+Q87188032,ambassador to Uzbekistan
+Q21055403,ambassador to the Holy See
+Q87187905,ambassador to Vietnam
+Q18869616,Permanent Representative to the United Nations
 Q15992673,ambassador of Ukraine
