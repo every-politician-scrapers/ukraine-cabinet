@@ -11,6 +11,7 @@
     "Ukrainian television presenters",
     "21st-century Ukrainian male actors",
     "Ukrainian male film actors",
+    "Ukrainian voice actors",
     "Ukrainian screenwriters",
     "Ukrainian film producers",
     "Parodists",
@@ -52,17 +53,12 @@
               }
             },
             {
-              "text": "He gained worldwide recognition as the wartime leader of Ukraine during the Russian invasion of Ukraine, and has been described as a national hero in Ukraine.",
+              "text": "He gained worldwide recognition as the wartime leader of Ukraine during the Russian invasion of Ukraine.",
               "links": [
                 {
                   "text": "Russian invasion of Ukraine",
                   "type": "internal",
                   "page": "2022 Russian invasion of Ukraine"
-                },
-                {
-                  "text": "national hero",
-                  "type": "internal",
-                  "page": "national hero"
                 }
               ]
             }
@@ -292,6 +288,11 @@
                   "text": "escalation of tensions with Russia",
                   "type": "internal",
                   "page": "2021–2022 Russo-Ukrainian crisis"
+                },
+                {
+                  "text": "ongoing full-scale Russian invasion in February 2022",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
                 }
               ]
             },
@@ -368,7 +369,7 @@
         },
         {
           "list": [
-            "Zelenskyy's name is spelled several ways. Zelenskyy is the spelling on his passport, and his administration has used it since assuming office."
+            "Zelenskyy's name is transliterated in several different ways. Zelenskyy is the transliteration on his passport, and his administration has used it since assuming office."
           ],
           "template": "efn"
         },
@@ -458,7 +459,14 @@
             ]
           },
           "party": {
-            "text": "Independent"
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
           },
           "otherparty": {
             "text": "Servant of the People (2018–present)",
