@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Ivan Hennadiyovych Bakanov (born 2 May 1975, Kryvyi Rih, Dnipropetrovsk Oblast) is a Ukrainian politician who has been the Head of the Security Service of Ukraine since 29 August 2019.",
+              "text": "Ivan Hennadiyovych Bakanov (born 2 May 1975, Kryvyi Rih, Dnipropetrovsk Oblast) is a Ukrainian politician who has been the head of the Security Service of Ukraine since 29 August 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -34,6 +34,7 @@
                   "page": "Dnipropetrovsk Oblast"
                 },
                 {
+                  "text": "head of the Security Service of Ukraine",
                   "type": "internal",
                   "page": "Head of the Security Service of Ukraine"
                 }
@@ -45,7 +46,7 @@
               }
             },
             {
-              "text": "Before that, he was a Deputy Head of the Security Service of Ukraine."
+              "text": "Before that, he was a deputy head of the Security Service of Ukraine."
             }
           ]
         },
