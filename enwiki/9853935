@@ -4,6 +4,7 @@
   "categories": [
     "1971 births",
     "Living people",
+    "Merited Coaches of Ukraine",
     "Jewish Ukrainian sportspeople",
     "Soviet male sabre fencers",
     "Ukrainian male sabre fencers",
@@ -43,12 +44,8 @@
         {
           "sentences": [
             {
-              "text": "Vadim Gutzeit (also Vadym Guttsayt or Vadym Markovich Hutsayt; Вадим Маркович Гутцайт; born 6 October 1971 in Kiev) is a Ukrainian sabre fencer, who was team Olympic champion in 1992, and won a bronze medal in the 1991 World Fencing Championships.",
+              "text": "Vadim Gutzeit (Вадим Маркович Гутцайт; born 6 October 1971) is a Ukrainian Olympic champion sabre fencer, and current Ukrainian Youth and Sport Minister.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Kiev"
-                },
                 {
                   "text": "Ukrainian",
                   "type": "internal",
@@ -63,16 +60,6 @@
                   "text": "fencer",
                   "type": "internal",
                   "page": "fencing (sport)"
-                },
-                {
-                  "text": "team Olympic champion in 1992",
-                  "type": "internal",
-                  "page": "Fencing at the 1992 Summer Olympics"
-                },
-                {
-                  "text": "1991 World Fencing Championships",
-                  "type": "internal",
-                  "page": "1991 World Fencing Championships"
                 }
               ],
               "formatting": {
@@ -82,7 +69,27 @@
               }
             },
             {
-              "text": "Since 4 March 2020, Gutzeit has been Ukraine's Youth and Sport Minister.",
+              "text": "He was world junior sabre champion in 1989 and 1990, fenced in three Olympic Games, was sabre team Olympic champion in 1992, won a bronze medal in the 1991 World Fencing Championships, and was the 2005 Maccabiah Games sabre champion.",
+              "links": [
+                {
+                  "text": "sabre team Olympic champion in 1992",
+                  "type": "internal",
+                  "page": "Fencing at the 1992 Summer Olympics"
+                },
+                {
+                  "text": "1991 World Fencing Championships",
+                  "type": "internal",
+                  "page": "1991 World Fencing Championships"
+                },
+                {
+                  "text": "2005 Maccabiah Games",
+                  "type": "internal",
+                  "page": "2005 Maccabiah Games"
+                }
+              ]
+            },
+            {
+              "text": "Since March 2020, Gutzeit has been Ukraine's Youth and Sport Minister.",
               "links": [
                 {
                   "text": "Youth and Sport Minister",
@@ -105,14 +112,14 @@
               ]
             },
             {
-              "text": "He was inducted into the Hall of Fame of the FIE in 2013."
+              "text": "Gutzeit was inducted into the Hall of Fame of the FIE in 2013."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Ukrainian fencer",
+          "description": "Ukrainian fencer and minister",
           "template": "short description"
         },
         {
@@ -263,11 +270,24 @@
           "name": {
             "text": "Vadim Gutzeit"
           },
+          "birth_name": {
+            "text": "also Vadym Guttsayt or Vadym Markovich Hutsayt"
+          },
           "fullname": {
             "text": "Vadim Markovich Gutzeit"
           },
           "image": {
             "text": "Vadim Gutzeit 2014-15 Orleans WC teams t101322.jpg"
+          },
+          "nationality": {
+            "text": "Ukrainian",
+            "links": [
+              {
+                "text": "Ukrainian",
+                "type": "internal",
+                "page": "Ukraine"
+              }
+            ]
           },
           "birth_date": {
             "text": "October 6, 1971"
@@ -284,6 +304,9 @@
                 "page": "Soviet Union"
               }
             ]
+          },
+          "country": {
+            "text": "🇺🇦"
           },
           "weapon": {
             "text": "Sabre",

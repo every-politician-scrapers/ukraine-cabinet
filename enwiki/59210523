@@ -38,7 +38,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian statesman, former actor and comedian who has been serving as the president of Ukraine since 2019.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian statesman, former actor and comedian who is the sixth and current president of Ukraine.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -51,37 +51,22 @@
                   "Volodymyr Oleksandrovych Zelenskyy"
                 ]
               }
-            },
-            {
-              "text": "He gained worldwide recognition as the wartime leader of Ukraine during the Russian invasion of Ukraine.",
-              "links": [
-                {
-                  "text": "Russian invasion of Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Zelenskyy grew up in Kryvyi Rih, a Russian-speaking region in southeastern Ukraine.",
+              "text": "Zelenskyy grew up in Kryvyi Rih, a major city in a mainly Ukrainian-speaking region in central Ukraine.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kryvyi Rih"
-                },
-                {
-                  "text": "Russian-speaking",
-                  "type": "internal",
-                  "page": "Russian language in Ukraine"
                 }
               ]
             },
             {
-              "text": "Prior to his acting career, Zelenskyy obtained a degree in law from the Kyiv National Economic University.",
+              "text": "Prior to his acting career, he obtained a degree in law from the Kyiv National Economic University.",
               "links": [
                 {
                   "type": "internal",
@@ -93,9 +78,8 @@
               "text": "He then pursued comedy and created the production company Kvartal 95, which produces films, cartoons, and TV shows including Servant of the People, in which Zelenskyy played the role of president of Ukraine.",
               "links": [
                 {
-                  "text": "Kvartal 95",
                   "type": "internal",
-                  "page": "Kvartal 95 Studio"
+                  "page": "Kvartal 95"
                 },
                 {
                   "type": "internal",
@@ -163,7 +147,7 @@
                 {
                   "text": "populist",
                   "type": "internal",
-                  "page": "Populism"
+                  "page": "populist"
                 },
                 {
                   "text": "anti-establishment",
@@ -231,7 +215,7 @@
               ]
             },
             {
-              "text": "During his administration, Zelenskyy oversaw the lifting of legal immunity for members of the Verkhovna Rada, Ukraine's parliament, the country's response to the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption.",
+              "text": "During his administration, Zelenskyy oversaw the lifting of legal immunity for members of the Verkhovna Rada, Ukraine's parliament, the country's response to the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption in Ukraine.",
               "links": [
                 {
                   "type": "internal",
@@ -248,9 +232,9 @@
                   "page": "COVID-19 recession"
                 },
                 {
-                  "text": "corruption",
+                  "text": "corruption in Ukraine",
                   "type": "internal",
-                  "page": "Corruption in Ukraine"
+                  "page": "corruption in Ukraine"
                 }
               ]
             },
@@ -323,7 +307,7 @@
       ],
       "templates": [
         {
-          "description": "President of Ukraine since 2019",
+          "description": "Sixth president of Ukraine since 2019",
           "template": "short description"
         },
         {
