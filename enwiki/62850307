@@ -263,6 +263,10 @@
             "text": "Lviv, Ukrainian SSR, Soviet Union (now Lviv, Lviv Oblast, Ukraine)",
             "links": [
               {
+                "type": "internal",
+                "page": "Lviv"
+              },
+              {
                 "text": "Ukrainian SSR",
                 "type": "internal",
                 "page": "Ukrainian Soviet Socialist Republic"
@@ -270,10 +274,6 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
-              },
-              {
-                "type": "internal",
-                "page": "Lviv"
               },
               {
                 "type": "internal",
@@ -293,6 +293,13 @@
                 "page": "Lviv Polytechnic"
               }
             ]
+          },
+          "spouse": {
+            "text": "Kateryna Shmyhal"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
           },
           "occupation": {
             "text": "Politician · entrepreneur"

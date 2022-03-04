@@ -38,7 +38,7 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian statesman, former actor and comedian who is the sixth and current president of Ukraine.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician, former actor and comedian who is the sixth and current president of Ukraine.",
               "links": [
                 {
                   "text": "president of Ukraine",
@@ -57,11 +57,15 @@
         {
           "sentences": [
             {
-              "text": "Zelenskyy grew up in Kryvyi Rih, a major city in a mainly Ukrainian-speaking region in central Ukraine.",
+              "text": "Zelenskyy grew up as a native Russian speaker in Kryvyi Rih, a major city in the Dnipropetrovsk Oblast of central Ukraine.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kryvyi Rih"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dnipropetrovsk Oblast"
                 }
               ]
             },
@@ -301,13 +305,16 @@
                   "page": "Martial law in Ukraine"
                 }
               ]
+            },
+            {
+              "text": "His leadership during the crisis won him widespread international admiration, and he has been described as a symbol of Ukrainian resistance."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Sixth president of Ukraine since 2019",
+          "description": "6th president of Ukraine since 2019",
           "template": "short description"
         },
         {
@@ -328,7 +335,7 @@
           "template": "pp-30-500"
         },
         {
-          "date": "July 2021",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
