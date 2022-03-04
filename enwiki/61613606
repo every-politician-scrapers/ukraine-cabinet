@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Mykhailo Albertovych Fedorov (born 21 January 1991 ) is a Ukrainian politician, and businessman currently serving as First Vice Prime Minister and Minister of Digital Transformation since 2019.",
+              "text": "Mykhailo Albertovych Fedorov (born 21 January 1991 ) is a Ukrainian politician, and businessman currently serving as Vice Prime Minister of Ukraine and Minister of Digital Transformation since 2019.",
               "links": [
                 {
                   "text": "Ukrainian",
@@ -33,9 +33,8 @@
                   "page": "Ukraine"
                 },
                 {
-                  "text": "First Vice Prime Minister",
                   "type": "internal",
-                  "page": "First Vice Prime Minister of Ukraine"
+                  "page": "Vice Prime Minister of Ukraine"
                 },
                 {
                   "text": "Minister of Digital Transformation",
