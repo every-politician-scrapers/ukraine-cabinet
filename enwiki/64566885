@@ -74,15 +74,16 @@
             "text": "Кирило Шевченко"
           },
           "birth_place": {
-            "text": "Tula, Russia, RSFSR, Soviet Union",
+            "text": "Tula, Russian SFSR, Soviet Union",
             "links": [
               {
+                "text": "Tula",
                 "type": "internal",
                 "page": "Tula, Russia"
               },
               {
                 "type": "internal",
-                "page": "RSFSR"
+                "page": "Russian SFSR"
               },
               {
                 "type": "internal",
