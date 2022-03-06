@@ -129,7 +129,7 @@
             }
           },
           "image": {
-            "text": "AYR foto1 (cropped).jpg"
+            "text": "Oleksii Reznikov (portrait).jpg"
           },
           "birth_date": {
             "text": "June 18, 1966"
@@ -193,8 +193,12 @@
             ]
           },
           "office1": {
-            "text": "Minister of Reintegration of Temporarily Occupied Territories",
+            "text": "Deputy Prime Minister of Ukraine Minister of Reintegration of Temporarily Occupied Territories",
             "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Ukraine"
+              },
               {
                 "text": "Minister of Reintegration of Temporarily Occupied Territories",
                 "type": "internal",

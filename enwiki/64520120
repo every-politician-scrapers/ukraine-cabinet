@@ -53,7 +53,13 @@
               }
             },
             {
-              "text": "On November 4, 2021, Vereshchuk was appointed Deputy Prime Minister of Ukraine and Minister for Reintegration ofTemporary Occupied Territories."
+              "text": "On November 4, 2021, Vereshchuk was appointed Deputy Prime Minister of Ukraine and Minister for Reintegration of Temporary Occupied Territories.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Ukraine"
+                }
+              ]
             }
           ]
         }
@@ -77,8 +83,12 @@
             "text": "Iryna Andriivna Vereshchuk\nІрина Андріївна Верещук"
           },
           "office": {
-            "text": "Minister of Reintegration of Temporarily Occupied Territories",
+            "text": "Deputy Prime Minister of Ukraine Minister of Reintegration of Temporarily Occupied Territories",
             "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Ukraine"
+              },
               {
                 "text": "Minister of Reintegration of Temporarily Occupied Territories",
                 "type": "internal",
