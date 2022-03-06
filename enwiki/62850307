@@ -162,8 +162,12 @@
             ]
           },
           "office1": {
-            "text": "Deputy Prime Minister\nMinister for Communities and Territories Development",
+            "text": "Deputy Prime Minister of Ukraine\nMinister for Communities and Territories Development",
             "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Ukraine"
+              },
               {
                 "text": "Minister for Communities and Territories Development",
                 "type": "internal",
