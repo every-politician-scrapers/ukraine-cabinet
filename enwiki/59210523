@@ -79,7 +79,7 @@
               ]
             },
             {
-              "text": "He then pursued comedy and created the production company Kvartal 95, which produces films, cartoons, and TV shows including Servant of the People, in which Zelenskyy played the role of president of Ukraine.",
+              "text": "He then pursued comedy and created the production company Kvartal 95, which produces films, cartoons, and TV shows including Servant of the People (TV series), in which Zelenskyy played the role of president of Ukraine.",
               "links": [
                 {
                   "type": "internal",
@@ -87,12 +87,12 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Servant of the People"
+                  "page": "Servant of the People (TV series)"
                 }
               ],
               "formatting": {
                 "italic": [
-                  "Servant of the People"
+                  "Servant of the People (TV series)"
                 ]
               }
             },
@@ -307,7 +307,7 @@
               ]
             },
             {
-              "text": "His leadership during the crisis won him widespread international admiration, and he has been described as a symbol of Ukrainian resistance."
+              "text": "His leadership during the crisis has won him widespread international admiration, and he has been described as a symbol of Ukrainian resistance."
             }
           ]
         }
