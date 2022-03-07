@@ -45,7 +45,7 @@
               }
             },
             {
-              "text": "Ukrainian President Volodymyr Zelensky appointed him on 11 February 2020.",
+              "text": "Ukrainian President Volodymyr Zelenskyy appointed him on 11 February 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -53,7 +53,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Volodymyr Zelensky"
+                  "page": "Volodymyr Zelenskyy"
                 }
               ]
             }
@@ -98,11 +98,11 @@
             ]
           },
           "president": {
-            "text": "Volodymyr Zelensky",
+            "text": "Volodymyr Zelenskyy",
             "links": [
               {
                 "type": "internal",
-                "page": "Volodymyr Zelensky"
+                "page": "Volodymyr Zelenskyy"
               }
             ]
           },

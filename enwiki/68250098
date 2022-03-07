@@ -41,19 +41,125 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Denys Monastyrsky.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Denys_Monastyrsky.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Denys_Monastyrsky.jpg",
-          "caption": "Monastyrsky on 28 July 2021",
-          "links": []
-        }
-      ],
       "templates": [
         {
           "description": "Ukrainian lawyer and politician",
           "template": "short description"
+        },
+        {
+          "year": "1980",
+          "month": "06",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Denys Monastyrsky"
+          },
+          "image": {
+            "text": "Denys Monastyrsky.jpg"
+          },
+          "caption": {
+            "text": "Monastyrsky on 28 July 2021"
+          },
+          "office": {
+            "text": "12th Minister of Internal Affairs",
+            "links": [
+              {
+                "text": "Minister of Internal Affairs",
+                "type": "internal",
+                "page": "Ministry of Internal Affairs (Ukraine)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 July 2021"
+          },
+          "predecessor": {
+            "text": "Arsen Avakov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arsen Avakov"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 12, 1980"
+          },
+          "birth_place": {
+            "text": "Khmelnytskyi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khmelnytskyi"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Ukraine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ukraine"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sluha Narodu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sluha Narodu"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Zhanna"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "Leonid Yuzkov Khmelnytskyi University of Management and Law"
+          },
+          "office2": {
+            "text": "People's Deputy of Ukraine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Deputy of Ukraine"
+              }
+            ]
+          },
+          "convocation2": {
+            "text": "9th convocation",
+            "links": [
+              {
+                "text": "9th convocation",
+                "type": "internal",
+                "page": "9th Ukrainian Verkhovna Rada"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Sluha Narodu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sluha Narodu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 August 2019"
+          },
+          "term_end2": {
+            "text": "16 July 2021"
+          }
         }
       ]
     }
