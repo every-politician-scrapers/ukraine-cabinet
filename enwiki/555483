@@ -44,23 +44,13 @@
         {
           "sentences": [
             {
-              "text": "Vitali Volodymyrovych Klitschko (Віта́лій Володи́мирович Кличко́ ; born 19 July 1971) is a Ukrainian politician and former professional boxer.",
+              "text": "Vitali Volodymyrovych Klitschko (Віта́лій Володи́мирович Кличко́ ; born 19 July 1971) is a Ukrainian politician and former professional boxer who serves as mayor of Kyiv and head of the Kyiv City State Administration, having held both offices since June 2014.",
               "links": [
                 {
                   "text": "professional boxer",
                   "type": "internal",
                   "page": "professional boxer"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vitali Volodymyrovych Klitschko"
-                ]
-              }
-            },
-            {
-              "text": "He serves as mayor of Kyiv and head of the Kyiv City State Administration, having held both offices since June 2014.",
-              "links": [
+                },
                 {
                   "text": "mayor of Kyiv",
                   "type": "internal",
@@ -70,7 +60,12 @@
                   "type": "internal",
                   "page": "Kyiv City State Administration"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Vitali Volodymyrovych Klitschko"
+                ]
+              }
             },
             {
               "text": "Klitschko is a former leader of the Petro Poroshenko Bloc and a former Member of the Ukrainian Parliament.",
