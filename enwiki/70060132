@@ -35,6 +35,24 @@
               }
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2022 Russian invasion of Ukraine, Shaptala said Ukrainian air defences shot down a Russian IL-76, and shared video footage of a Ukrainian Bayraktar TB2 striking Russian targets.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bayraktar TB2"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [

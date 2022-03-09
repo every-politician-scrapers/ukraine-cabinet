@@ -11,7 +11,8 @@
     "Ukrainian television presenters",
     "21st-century Ukrainian male actors",
     "Ukrainian male film actors",
-    "Ukrainian voice actors",
+    "Ukrainian male voice actors",
+    "Ukrainian Jews",
     "Ukrainian screenwriters",
     "Ukrainian film producers",
     "Parodists",
@@ -28,7 +29,8 @@
     "Jewish Ukrainian actors",
     "Presidents of Ukraine",
     "Trump–Ukraine scandal",
-    "People named in the Pandora Papers"
+    "People named in the Pandora Papers",
+    "Recipients of the Ronald Reagan Freedom Award"
   ],
   "sections": [
     {
@@ -38,8 +40,13 @@
         {
           "sentences": [
             {
-              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician, and former actor and comedian, who is the sixth and current president of Ukraine.",
+              "text": "Volodymyr Oleksandrovych Zelenskyy (Володимир Олександрович Зеленський, ; born 25 January 1978) is a Ukrainian politician, former actor and comedian, who is the sixth and current president of Ukraine.",
               "links": [
+                {
+                  "text": "comedian",
+                  "type": "internal",
+                  "page": "comedian"
+                },
                 {
                   "text": "president of Ukraine",
                   "type": "internal",
@@ -57,8 +64,13 @@
         {
           "sentences": [
             {
-              "text": "Zelenskyy grew up as a native Russian speaker in Kryvyi Rih, a major city in the Dnipropetrovsk Oblast of central Ukraine.",
+              "text": "Zelenskyy grew up as a native Russian speaker in Kryvyi Rih, a major city of Dnipropetrovsk Oblast in central Ukraine.",
               "links": [
+                {
+                  "text": "Russian",
+                  "type": "internal",
+                  "page": "Russian language"
+                },
                 {
                   "type": "internal",
                   "page": "Kryvyi Rih"
@@ -79,20 +91,21 @@
               ]
             },
             {
-              "text": "He then pursued comedy and created the production company Kvartal 95, which produces films, cartoons, and TV shows including Servant of the People (TV series), in which Zelenskyy played the role of president of Ukraine.",
+              "text": "He then pursued comedy and created the production company Kvartal 95, which produced films, cartoons, and TV shows including the TV series Servant of the People, in which Zelenskyy played the role of the Ukrainian president.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kvartal 95"
                 },
                 {
+                  "text": "Servant of the People",
                   "type": "internal",
                   "page": "Servant of the People (TV series)"
                 }
               ],
               "formatting": {
                 "italic": [
-                  "Servant of the People (TV series)"
+                  "Servant of the People"
                 ]
               }
             },
@@ -103,7 +116,7 @@
               "text": "A political party bearing the same name as the television show was created in March 2018 by employees of Kvartal 95.",
               "links": [
                 {
-                  "text": "political party bearing the same name as the television show",
+                  "text": "A political party bearing the same name as the television show",
                   "type": "internal",
                   "page": "Servant of the People (political party)"
                 }
@@ -114,7 +127,7 @@
         {
           "sentences": [
             {
-              "text": "Zelenskyy announced his candidacy for the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of President Petro Poroshenko on 1+1 TV Channel.",
+              "text": "Zelenskyy announced his candidacy in the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of President Petro Poroshenko on the TV channel 1+1.",
               "links": [
                 {
                   "text": "2019 Ukrainian presidential election",
@@ -126,7 +139,7 @@
                   "page": "Petro Poroshenko"
                 },
                 {
-                  "text": "1+1 TV Channel",
+                  "text": "1+1",
                   "type": "internal",
                   "page": "1+1 (TV channel)"
                 }
@@ -146,7 +159,7 @@
               "text": "He won the election with 73.2 per cent of the vote in the second round, defeating Poroshenko."
             },
             {
-              "text": "Identifying as a populist, he has positioned himself as an anti-establishment, anti-corruption figure.",
+              "text": "Identifying as a populist, he has positioned himself as an anti-establishment and anti-corruption figure.",
               "links": [
                 {
                   "text": "populist",
@@ -170,7 +183,7 @@
         {
           "sentences": [
             {
-              "text": "As president, Zelenskyy has been a proponent of e-government and unity between the Ukrainian-speaking and Russian-speaking parts of the country's population.",
+              "text": "As president, Zelenskyy has been a proponent of e-government and unity between the Ukrainian- and Russian-speaking parts of the country's population.",
               "links": [
                 {
                   "text": "e-government",
@@ -178,7 +191,7 @@
                   "page": "e-government"
                 },
                 {
-                  "text": "Ukrainian-speaking",
+                  "text": "Ukrainian",
                   "type": "internal",
                   "page": "Ukrainian language"
                 },
@@ -207,31 +220,26 @@
               "text": "His party won a landslide victory in a snap legislative election held shortly after his inauguration as president.",
               "links": [
                 {
-                  "text": "snap",
-                  "type": "internal",
-                  "page": "snap election"
-                },
-                {
-                  "text": "legislative election",
+                  "text": "a snap legislative election",
                   "type": "internal",
                   "page": "2019 Ukrainian parliamentary election"
                 }
               ]
             },
             {
-              "text": "During his administration, Zelenskyy oversaw the lifting of legal immunity for members of the Verkhovna Rada, Ukraine's parliament, the country's response to the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption in Ukraine.",
+              "text": "During his administration, Zelenskyy oversaw the lifting of legal immunity for members of the Verkhovna Rada, the country's response to the COVID-19 pandemic and subsequent economic recession, and some progress in tackling corruption in Ukraine.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Verkhovna Rada"
                 },
                 {
-                  "text": "COVID-19 pandemic",
+                  "text": "the country's response to the COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Ukraine"
                 },
                 {
-                  "text": "economic recession",
+                  "text": "subsequent economic recession",
                   "type": "internal",
                   "page": "COVID-19 recession"
                 },
@@ -243,11 +251,12 @@
               ]
             },
             {
-              "text": "Critics of Zelenskyy claim that in taking power away from the Ukrainian oligarchs, he has sought to centralise authority and strengthen his personal position.",
+              "text": "Critics of Zelenskyy claim that, in taking power away from Ukrainian oligarchs, he has sought to centralise authority and strengthen his personal position.",
               "links": [
                 {
+                  "text": "Ukrainian oligarchs",
                   "type": "internal",
-                  "page": "Ukrainian oligarchs"
+                  "page": "Ukrainian oligarch"
                 }
               ]
             }
@@ -256,7 +265,7 @@
         {
           "sentences": [
             {
-              "text": "Zelenskyy promised to end Ukraine's protracted conflict with Russia as part of his presidential campaign, and attempted to engage in dialogue with Russian President Vladimir Putin.",
+              "text": "Zelenskyy promised to end Ukraine's protracted conflict with Russia as part of his presidential campaign, and attempted to engage in dialogue with Russian president Vladimir Putin.",
               "links": [
                 {
                   "text": "Ukraine's protracted conflict with Russia",
@@ -273,12 +282,12 @@
               "text": "Zelenskyy's administration faced an escalation of tensions with Russia in 2021, culminating in the launch of an ongoing full-scale Russian invasion in February 2022.",
               "links": [
                 {
-                  "text": "escalation of tensions with Russia",
+                  "text": "an escalation of tensions with Russia",
                   "type": "internal",
                   "page": "2021–2022 Russo-Ukrainian crisis"
                 },
                 {
-                  "text": "ongoing full-scale Russian invasion in February 2022",
+                  "text": "an ongoing full-scale Russian invasion in February 2022",
                   "type": "internal",
                   "page": "2022 Russian invasion of Ukraine"
                 }
@@ -297,7 +306,7 @@
               ]
             },
             {
-              "text": "After the commencement of the invasion, Zelenskyy declared martial law across Ukraine and general mobilisation.",
+              "text": "After the commencement of the invasion, Zelenskyy declared martial law across Ukraine and a general mobilisation of the armed forces.",
               "links": [
                 {
                   "text": "martial law across Ukraine",
@@ -307,7 +316,7 @@
               ]
             },
             {
-              "text": "His leadership during the crisis has won him widespread international admiration, and he has been described as a symbol of Ukrainian resistance."
+              "text": "His leadership during the crisis won him widespread international admiration, and he has been described as a symbol of Ukrainian resistance."
             }
           ]
         }
@@ -414,7 +423,7 @@
             "text": "January 25, 1978"
           },
           "birth_place": {
-            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union (now Ukraine)",
+            "text": "Kryvyi Rih, Ukrainian SSR, Soviet Union\n(now Ukraine)",
             "links": [
               {
                 "type": "internal",
@@ -470,7 +479,7 @@
             ]
           },
           "occupation": {
-            "text": "Politician · actor · comedian"
+            "text": "Politician · actor"
           },
           "spouse": {
             "text": "Olena Kiyashko (m. 2003)"
