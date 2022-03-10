@@ -30,7 +30,8 @@
     "Presidents of Ukraine",
     "Trump–Ukraine scandal",
     "People named in the Pandora Papers",
-    "Recipients of the Ronald Reagan Freedom Award"
+    "Recipients of the Ronald Reagan Freedom Award",
+    "Recipients of the Order of the White Lion"
   ],
   "sections": [
     {
@@ -127,7 +128,7 @@
         {
           "sentences": [
             {
-              "text": "Zelenskyy announced his candidacy in the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of President Petro Poroshenko on the TV channel 1+1.",
+              "text": "Zelenskyy announced his candidacy in the 2019 Ukrainian presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of then-President Petro Poroshenko on the TV channel 1+1.",
               "links": [
                 {
                   "text": "2019 Ukrainian presidential election",
@@ -159,13 +160,8 @@
               "text": "He won the election with 73.2 per cent of the vote in the second round, defeating Poroshenko."
             },
             {
-              "text": "Identifying as a populist, he has positioned himself as an anti-establishment and anti-corruption figure.",
+              "text": "He has positioned himself as an anti-establishment and anti-corruption figure.",
               "links": [
-                {
-                  "text": "populist",
-                  "type": "internal",
-                  "page": "populist"
-                },
                 {
                   "text": "anti-establishment",
                   "type": "internal",
@@ -323,7 +319,7 @@
       ],
       "templates": [
         {
-          "description": "6th president of Ukraine since 2019",
+          "description": "President of Ukraine since 2019",
           "template": "short description"
         },
         {
@@ -369,7 +365,7 @@
         },
         {
           "list": [
-            "Zelenskyy's name is transliterated in several different ways. Zelenskyy is the transliteration on his passport, and his administration has used it since assuming office."
+            "Zelenskyy's name is transliterated in several different ways. Zelenskyy is the transliteration on his passport, and his administration has used it since he assumed presidency in 2019."
           ],
           "template": "efn"
         },
