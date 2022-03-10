@@ -1,107 +1,11 @@
 {
-  "title": "Viktor Liashko",
-  "pageID": 67715367,
-  "categories": [
-    "1980 births",
-    "Living people",
-    "People from Dubrovytsia Raion",
-    "Bogomolets National Medical University alumni",
-    "Healthcare ministers of Ukraine"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Viktor Kyrylovych Liashko (Ukrainian: Віктор Кирилович Ляшко; born April 24, 1980) is a Ukrainian doctor.",
-              "formatting": {
-                "bold": [
-                  "Viktor Kyrylovych Liashko"
-                ]
-              }
-            },
-            {
-              "text": "He has been Minister of Healthcare of Ukraine since May 20, 2021.",
-              "links": [
-                {
-                  "text": "Minister of Healthcare of Ukraine",
-                  "type": "internal",
-                  "page": "Minister of Healthcare (Ukraine)"
-                }
-              ]
-            },
-            {
-              "text": "He was Chief State Sanitary Doctor of Ukraine from 2019 to 2021."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1980",
-          "month": "4",
-          "day": "24",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Viktor Liashko"
-          },
-          "office": {
-            "text": "Ministry of Health of Ukraine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ministry of Health of Ukraine"
-              }
-            ]
-          },
-          "native_name": {
-            "text": "Віктор Ляшко"
-          },
-          "appointer": {
-            "text": "Verkhovna Rada of Ukraine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Verkhovna Rada of Ukraine"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 24, 1980"
-          },
-          "termstart": {
-            "text": "20 May 2021"
-          },
-          "minister": {
-            "text": "Minister of Health of Ukraine"
-          },
-          "predecessor": {
-            "text": "Maksym Stepanov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maksym Stepanov"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Denys Shmyhal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Denys Shmyhal"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Viktor Liashko",
+  "office": "Ministry of Health of Ukraine",
+  "native_name": "Віктор Ляшко",
+  "appointer": "Verkhovna Rada of Ukraine",
+  "birth_date": "April 24, 1980",
+  "termstart": "20 May 2021",
+  "minister": "Minister of Health of Ukraine",
+  "predecessor": "Maksym Stepanov",
+  "primeminister": "Denys Shmyhal"
 }
