@@ -1,128 +1,14 @@
 {
-  "title": "Kyrylo Shevchenko",
-  "pageID": 64566885,
-  "categories": [
-    "Governors of the National Bank of Ukraine",
-    "1972 births",
-    "People from Tula, Russia",
-    "Living people",
-    "Ukrainian bankers",
-    "Kharkiv National University of Economics alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kyrylo Yevhenovych Shevchenko (Кирило Євгенович Шевченко; born October 25, 1972) is a Ukrainian banker and the Chairman of the National Bank of Ukraine.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Bank of Ukraine"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kyrylo Yevhenovych Shevchenko"
-                ]
-              }
-            },
-            {
-              "text": "He is the former chairman of the board of the state-owned Ukrgasbank (2014—2020)."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ukrainian banker",
-          "template": "short description"
-        },
-        {
-          "year": "1972",
-          "month": "10",
-          "day": "25",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Kyrylo Shevchenko"
-          },
-          "profession": {
-            "text": "banker"
-          },
-          "alma_mater": {
-            "text": "Kharkiv Economic University",
-            "links": [
-              {
-                "text": "Kharkiv Economic University",
-                "type": "internal",
-                "page": "Kharkiv National University of Economics"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Ukrainian"
-          },
-          "native_name": {
-            "text": "Кирило Шевченко"
-          },
-          "birth_place": {
-            "text": "Tula, Russian SFSR, Soviet Union",
-            "links": [
-              {
-                "text": "Tula",
-                "type": "internal",
-                "page": "Tula, Russia"
-              },
-              {
-                "type": "internal",
-                "page": "Russian SFSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 25, 1972"
-          },
-          "predecessor1": {
-            "text": "Kateryna Rozhkova (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kateryna Rozhkova"
-              }
-            ]
-          },
-          "office": {
-            "text": "12th Chairman of the National Bank of Ukraine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Bank of Ukraine"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 July 2020"
-          },
-          "image": {
-            "text": "Foto KShevchenko 2017.jpg"
-          },
-          "native_name_lang": {
-            "text": "uk"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Kyrylo Shevchenko",
+  "profession": "banker",
+  "alma_mater": "Kharkiv Economic University",
+  "nationality": "Ukrainian",
+  "native_name": "Кирило Шевченко",
+  "birth_place": "Tula, Russian SFSR, Soviet Union",
+  "birth_date": "October 25, 1972",
+  "predecessor1": "Kateryna Rozhkova (acting)",
+  "office": "12th Chairman of the National Bank of Ukraine",
+  "term_start": "16 July 2020",
+  "image": "Foto KShevchenko 2017.jpg",
+  "native_name_lang": "uk"
 }
