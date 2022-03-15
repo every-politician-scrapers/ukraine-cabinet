@@ -1,0 +1,224 @@
+id,name,relationship,relative,relativename
+Q11285342,Andrii Derkach,child,Q28500663,Tatyana Andreevna Terekhova
+Q11285342,Andrii Derkach,father,Q4158965,Leonid Derkach
+Q1151367,Yuriy Mykhalchyshyn,father,Q373570,Adrian Mikhalchishin
+Q11729549,Jurij Kluczkowski,child,Q65200942,Ярина Ключковська
+Q11729549,Jurij Kluczkowski,spouse,Q20067564,Ключковська Ірина Михайлівна
+Q12074201,Hryhoriy Illyashov,spouse,Q751757,Olena Lukash
+Q12077132,Oleksii Azarov,father,Q57590,Mykola Azarov
+Q12078533,Anatolii Antemiuk,sibling,Q12078534,Viktor Antemiuk
+Q12078534,Viktor Antemiuk,sibling,Q12078533,Anatolii Antemiuk
+Q12088028,Ihor Vasyunyk,sibling,Q4105195,Ivan Vasyunik
+Q12095802,Oleksandr Hereha,spouse,Q4137172,Halyna Hereha
+Q12097290,Valentyna Hoshovska,spouse,Q44055152,Гошовський Сергій Володимирович
+Q12101453,Dmytro Dobkin,sibling,Q4163369,Mikhail Dobkin
+Q12101641,Stanislav Dovhyi,child,Q12101639,Oles Dovgiy
+Q12101641,Stanislav Dovhyi,father,Q12101638,Oleksіï Dovguiï
+Q12101990,Natalia Donets,child,Q12101989,Tetiana Donets
+Q12107778,Hryhorii Kaletnik,child,Q4209317,Kalietnik Ihor
+Q12109175,Vladimir Katsuba,child,Q17371849,Oleskandr Katsuba
+Q12109177,Serhiy Katsuba,sibling,Q17371849,Oleskandr Katsuba
+Q12114691,Yuriy Kryvoruchko,father,Q105815496,Zenovii Kryvoruchko
+Q12119499,Oleh Liashko,partner,Q22138148,Tetiana Yuzkova
+Q12119499,Oleh Liashko,spouse,Q103167078,Rosita Liashko
+Q12119499,Oleh Liashko,spouse,Q22138148,Tetiana Yuzkova
+Q12121980,Oleh Makhnitskyi,spouse,Q17371649,Махніцька Катерина Григорівна
+Q12135891,Valerii Omelchenko,spouse,Q14491528,Джарти Вікторія Василівна
+Q12136414,Lesya Orobets,father,Q4337004,Yuriy Orobets
+Q12136726,Ihor Ostash,spouse,Q6781644,Maryna Hrymych
+Q12142057,Yurii Poliachenko,father,Q4371618,Vladimir Polyachenko
+Q12142192,Oleh Zvenigorodskiy,spouse,Q4337476,Kateryna Osadcha
+Q12145775,Artem Pshonka,father,Q4385171,Viktor Pshonka
+Q12154120,Yehor Sobolyev,spouse,Q4281613,Marichka Padalko
+Q12170540,Tetiana Chornovol,spouse,Q17540670,Mykola Berezovyj
+Q12171961,Elina Shyshkina,father,Q12171962,Viktor Shyshkin
+Q1225368,Orest Klympush,child,Q20067554,Ivanna Klympush-Tsintsadze
+Q1225368,Orest Klympush,father,Q749006,Dmitro Ivanovics Klimpus
+Q1232891,Dmytro Tabachnyk,spouse,Q4312206,Tetyana Nazarova
+Q129119,Ruslana,spouse,Q3502855,Oleksandr Ksenofontov
+Q1340699,Victor Pinchuk,relative,Q629702,Leonid Kuchma
+Q1340699,Victor Pinchuk,spouse,Q4363085,Olena Pinchuk
+Q1459658,Viktor Yanukovych,child,Q3209269,Oleksandr Yanukovych
+Q1459658,Viktor Yanukovych,child,Q3460875,Viktor Yanukovych
+Q1459658,Viktor Yanukovych,spouse,Q4538301,Lyudmila Yanukovych
+Q1459699,Viktor Yushchenko,sibling,Q4535621,Petro Juszczenko
+Q1459699,Viktor Yushchenko,spouse,Q2313952,Kateryna Yushchenko
+Q15071392,Iryna Lutsenko,spouse,Q458282,Yuriy Lutsenko
+Q15088684,Eugene Ribchinski,father,Q4401696,Yuriy Rybchynskyi
+Q15850,Oleksandr Turchynov,spouse,Q17372365,Hanna Turchynova
+Q16172176,Oleksiy Honcharenko,father,Q4235602,Oleksiy Kostusyev
+Q16703319,Taras Kremin,father,Q12114572,Dmytro Kremin
+Q16713197,Borys Prykhodko,father,Q16713201,Viktor Prikhodko
+Q16723363,Ahtem Chiygoz,relative,Q16723365,Чийгоз Рустем Зейтуллайович
+Q16723363,Ahtem Chiygoz,spouse,Q61994816,Elmira Ablyalimova
+Q16976525,Maryna Poroshenko,child,Q18346653,Oleksiy Poroshenko
+Q16976525,Maryna Poroshenko,father,Q102036408,Анатолий Михайлович Переведенцев
+Q16976525,Maryna Poroshenko,mother,Q102036344,Людмила Николаевна Переведенцева
+Q16976525,Maryna Poroshenko,sibling,Q63571741,Алла Анатольевна Зернецкая
+Q16976525,Maryna Poroshenko,spouse,Q58077,Petro Poroshenko
+Q17318904,Nadiya Savchenko,sibling,Q106357456,Вера Викторовна Савченко
+Q17372365,Hanna Turchynova,spouse,Q15850,Oleksandr Turchynov
+Q17372445,Bohdan Yaremenko,father,Q12173860,Яременко Василь Васильович
+Q18342757,Oleh Barna,spouse,Q89188946,Olha Barna
+Q18346653,Oleksiy Poroshenko,father,Q58077,Petro Poroshenko
+Q18346653,Oleksiy Poroshenko,mother,Q16976525,Maryna Poroshenko
+Q184556,Sergei Bubka,child,Q748596,Sergei Bubka
+Q184556,Sergei Bubka,sibling,Q3117613,Vasiliy Bubka
+Q1859524,Viktor Medvedchuk,sibling,Q85995618,Медведчук Сергій Володимирович
+Q1859524,Viktor Medvedchuk,spouse,Q4283159,Oksana Marchenko
+Q186691,Oleh Blokhin,child,Q1274170,Ireesha
+Q186691,Oleh Blokhin,father,Q12082967,Vladimir Blokhin
+Q186691,Oleh Blokhin,mother,Q12076721,Catherine Adamenko
+Q186691,Oleh Blokhin,spouse,Q4159080,Irina Deriugina
+Q189732,Leonid Kravchuk,child,Q12114092,Oleksandr Kravchuk
+Q189732,Leonid Kravchuk,spouse,Q4237389,Antonina Kravchuk
+Q19521677,Ruslan Demchak,spouse,Q109316466,Lee Bokyoung
+Q19605093,Yuriy Solod,spouse,Q442391,Natalia Korolevska
+Q1968425,Taras Chornovil,father,Q2084848,Viacheslav Chornovil
+Q1972307,Slava Stetsko,spouse,Q2620128,Yaroslav Stetsko
+Q1974359,Yevhen Kushnaryov,child,Q4207119,Tetiana Kahanovska
+Q1974359,Yevhen Kushnaryov,child,Q4250247,"Кушнарёв, Андрей Евгеньевич"
+Q1974359,Yevhen Kushnaryov,father,Q106840020,Кушнарьов Петро Михайлович
+Q1984215,Taisia Povaliy,spouse,Q29892013,Igor Likhuta
+Q20067554,Ivanna Klympush-Tsintsadze,father,Q1225368,Orest Klympush
+Q20067554,Ivanna Klympush-Tsintsadze,spouse,Q3648870,Archil Tsintsadze
+Q20067638,Taras Kozak,partner,Q106138371,Наталья Николаевна Лавренюк
+Q20067752,Oksana Kortchinskaia,spouse,Q4234503,Dmytro Korchynsky
+Q20070130,Ruslan Stefanchuk,father,Q61116496,Oleksiy Stefanchuk
+Q20070130,Ruslan Stefanchuk,sibling,Q65964374,Mykola Stefanchuk
+Q20070997,Kostiantyn Yarynich,father,Q12173897,Яриніч Володимир Іларіонович
+Q2011720,Andriy Sadovyi,spouse,Q85994371,Katerina Kit-Sadova
+Q2072843,Vasyl Dzharty,child,Q14491528,Джарти Вікторія Василівна
+Q2081854,Andriy Shevchenko,spouse,Q5648696,Hanna Homonai
+Q21600273,Oleksandr Skichko,spouse,Q109337403,Юрушева Єлизавета Леонідівна
+Q22137747,Dmytro Natalukha,spouse,Q18643345,Alyona Shkrum
+Q22138148,Tetiana Yuzkova,father,Q12172936,Юзьков Леонід Петрович
+Q22138148,Tetiana Yuzkova,partner,Q12119499,Oleh Liashko
+Q22138148,Tetiana Yuzkova,spouse,Q12119499,Oleh Liashko
+Q225357,Hryhoriy Surkis,father,Q106567777,Михаил Давидович Суркис
+Q225357,Hryhoriy Surkis,sibling,Q1132935,Ihor Surkis
+Q2313952,Kateryna Yushchenko,spouse,Q1459699,Viktor Yushchenko
+Q24025631,Dmytro Kuleba,father,Q12115638,Кулеба Іван Дмитрович
+Q24025631,Dmytro Kuleba,spouse,Q104963350,Kuleba Evgeniya Anatolyevna
+Q2622781,Svyatoslav Vakarchuk,father,Q2442984,Ivan Vakarchuk
+Q2632284,Ivan Drach,child,Q97188895,Драч Мар'яна Іванівна
+Q2690188,Oleksandr Vilkul,father,Q12093205,Yurii Vilkul
+Q2855765,Andriy Pavlovskyi,father,Q4341772,Mykhailo Pavlovskyi
+Q28860885,Roman Hryshchuk,spouse,Q87488031,Hanna Hres
+Q312440,Valeriy Borzov,spouse,Q231516,Ludmilla Tourischeva
+Q31919,Vitali Klitschko,father,Q12110516,Volodymyr Klychko
+Q31919,Vitali Klitschko,sibling,Q18797,Volodymyr Klitschko
+Q31919,Vitali Klitschko,spouse,Q17371864,Nataliia Klychko
+Q3460875,Viktor Yanukovych,father,Q1459658,Viktor Yanukovych
+Q3460875,Viktor Yanukovych,mother,Q4538301,Lyudmila Yanukovych
+Q3460875,Viktor Yanukovych,sibling,Q3209269,Oleksandr Yanukovych
+Q379720,Serhiy Tihipko,spouse,Q4457095,Viktoriya Tigipko
+Q3874799,Volodymyr Zelenskyy,child,Q100437052,Kyrylo Zelenskyi
+Q3874799,Volodymyr Zelenskyy,father,Q56229162,Oleksandr Zelenskyy
+Q3874799,Volodymyr Zelenskyy,mother,Q56229165,Rimma Zelenska
+Q3874799,Volodymyr Zelenskyy,spouse,Q59321885,Olena Zelenska
+Q3944352,Denys Dzenzersky,father,Q4160778,"Дзензерский, Виктор Александрович"
+Q4105195,Ivan Vasyunik,sibling,Q12088028,Ihor Vasyunyk
+Q4120886,Leonid Yemets,spouse,Q98080479,Тараторіна Світлана Володимирівна
+Q4120887,Yuriy Stets,spouse,Q17371879,Yana Konotop
+Q4136089,Olha Herasymyuk,spouse,Q4136088,Vasyl Herasymiuk
+Q4137172,Halyna Hereha,spouse,Q12095802,Oleksandr Hereha
+Q4158965,Leonid Derkach,child,Q11285342,Andrii Derkach
+Q4163369,Mikhail Dobkin,sibling,Q12101453,Dmytro Dobkin
+Q4175308,Volodymyr Yelchenko,father,Q4175303,Yuriy Yelchenko
+Q4184723,Valeriya Zaklunnaya,father,Q56229113,Гаврило Павлович Заклунний
+Q4184723,Valeriya Zaklunnaya,mother,Q56229110,Маргарита Степанiвна Заклунна
+Q4184723,Valeriya Zaklunnaya,spouse,Q1959564,Garri Bardin
+Q4209317,Kalietnik Ihor,father,Q12107778,Hryhorii Kaletnik
+Q4234749,Leonid Kosakivskyi,spouse,Q85993774,Косаківська Ірина Василівна
+Q4235602,Oleksiy Kostusyev,child,Q16172176,Oleksiy Honcharenko
+Q4250060,Liudmyla Kuchma,child,Q4363085,Olena Pinchuk
+Q4250060,Liudmyla Kuchma,spouse,Q629702,Leonid Kuchma
+Q4250060,Liudmyla Kuchma,stepparent,Q58602758,"Туманов, Геннадий Фёдорович"
+Q4253851,Volodymyr Landik,sibling,Q4253902,Valentin Landyk
+Q4253902,Valentin Landyk,sibling,Q4253851,Volodymyr Landik
+Q4256770,Yuliya Liovochkina,father,Q12119169,Vladimir Lyovochkin
+Q4256770,Yuliya Liovochkina,sibling,Q538231,Serhiy Lyovochkin
+Q4309171,Nver Mkhitaryan,father,Q20513132,Mnatsakan Taryan
+Q4309171,Nver Mkhitaryan,sibling,Q20513129,Anahit Taryan
+Q431943,Serhiy Klyuyev,sibling,Q510926,Andriy Klyuyev
+Q43330,Mikheil Saakashvili,mother,Q291721,Giuli Alasania
+Q43330,Mikheil Saakashvili,spouse,Q467000,Sandra Roelofs
+Q4337004,Yuriy Orobets,child,Q12136414,Lesya Orobets
+Q4341772,Mykhailo Pavlovskyi,child,Q2855765,Andriy Pavlovskyi
+Q4370711,Volodymyr Polokhalo,spouse,Q4363438,Maryna Pyrozhuk
+Q4371618,Vladimir Polyachenko,child,Q12142057,Yurii Poliachenko
+Q4385171,Viktor Pshonka,child,Q12145775,Artem Pshonka
+Q442391,Natalia Korolevska,sibling,Q4233741,Константин Юрьевич Королевский
+Q442391,Natalia Korolevska,spouse,Q19605093,Yuriy Solod
+Q4448244,Kostiantyn Sytnyk,child,Q4309350,Mykola Veresen
+Q4449226,Jan Tabachnyk,spouse,Q42903324,"Недельская, Татьяна Владимировна"
+Q444942,Oksana Bilozir,spouse,Q4086740,Ihor Bilozir
+Q444942,Oksana Bilozir,spouse,Q56134161,Roman Nedzelsky
+Q4458923,Oleksandr Tkachenko,father,Q12161531,Vladislav Mikhailovich Tkachenko
+Q4459837,Petro Tolochko,child,Q81826,Oleksiy Tolochko
+Q4492496,Anatolii Franchuk,child,Q4492498,Igor Franchuk
+Q4492498,Igor Franchuk,father,Q4492496,Anatolii Franchuk
+Q4492498,Igor Franchuk,spouse,Q4363085,Olena Pinchuk
+Q4494624,Viktor Khazan,child,Q45088,Pavlo Khazan
+Q4524964,Volodymyr Shkidchenko,father,Q4524963,"Шкидченко, Пётр Иванович"
+Q4527973,Ihor Shurma,child,Q22813963,Rostyslav Shurma
+Q4528122,Yurii Shukhevych,father,Q463766,Roman Shukhevych
+Q4528881,Artem Shcherban,father,Q4528883,Volodymyr Shcherban
+Q4528883,Volodymyr Shcherban,child,Q4528881,Artem Shcherban
+Q4535621,Petro Juszczenko,sibling,Q1459699,Viktor Yushchenko
+Q4538140,Mykola Yankovsky,child,Q14073480,Igor Yankovsky
+Q4538301,Lyudmila Yanukovych,child,Q3209269,Oleksandr Yanukovych
+Q4538301,Lyudmila Yanukovych,child,Q3460875,Viktor Yanukovych
+Q4538301,Lyudmila Yanukovych,spouse,Q1459658,Viktor Yanukovych
+Q458282,Yuriy Lutsenko,father,Q4269926,Vitalii Lutsenko
+Q458282,Yuriy Lutsenko,spouse,Q15071392,Iryna Lutsenko
+Q47107801,Dmytro Dubilet,father,Q20066943,Aleksandr Dubilet
+Q471730,Arseniy Yatsenyuk,father,Q16724282,Petro Ivanovytch Iatseniouk
+Q471730,Arseniy Yatsenyuk,mother,Q16724281,Maria Hrygorivna Iatseniouk
+Q471730,Arseniy Yatsenyuk,spouse,Q61465208,Терезия Викторовна Яценюк
+Q48283,Yulia Tymoshenko,child,Q3560127,Yevhenia Tymoshenko
+Q48283,Yulia Tymoshenko,father,Q17278109,Volodymyr Hrihyan
+Q48283,Yulia Tymoshenko,mother,Q17278107,Lyudmila Telehina
+Q48283,Yulia Tymoshenko,spouse,Q3350320,Oleksandr Tymoshenko
+Q488211,Anatoliy Hrytsenko,spouse,Q12130258,Yulia Mostova
+Q510926,Andriy Klyuyev,sibling,Q431943,Serhiy Klyuyev
+Q538231,Serhiy Lyovochkin,father,Q12119169,Vladimir Lyovochkin
+Q538231,Serhiy Lyovochkin,sibling,Q4256770,Yuliya Liovochkina
+Q538231,Serhiy Lyovochkin,spouse,Q65209637,ZINAIDA
+Q56368885,Andrii Osadchuk,father,Q12136511,Petro Osadčuk
+Q56368885,Andrii Osadchuk,spouse,Q61115277,Kateryna Voloshyna
+Q57590,Mykola Azarov,child,Q12077132,Oleksii Azarov
+Q58077,Petro Poroshenko,child,Q18346653,Oleksiy Poroshenko
+Q58077,Petro Poroshenko,father,Q4373161,Oleksij Poroschenko
+Q58077,Petro Poroshenko,mother,Q28332201,Yevheniia Poroshenko
+Q58077,Petro Poroshenko,sibling,Q60251728,Mykhailo Poroshenko
+Q58077,Petro Poroshenko,spouse,Q16976525,Maryna Poroshenko
+Q59321885,Olena Zelenska,child,Q100437052,Kyrylo Zelenskyi
+Q59321885,Olena Zelenska,father,Q103843746,Volodymyr Kyiashko
+Q59321885,Olena Zelenska,godparent,Q4237277,Olena Kravets
+Q59321885,Olena Zelenska,spouse,Q3874799,Volodymyr Zelenskyy
+Q629702,Leonid Kuchma,child,Q4363085,Olena Pinchuk
+Q629702,Leonid Kuchma,relative,Q1340699,Victor Pinchuk
+Q629702,Leonid Kuchma,spouse,Q4250060,Liudmyla Kuchma
+Q63184986,Dmytro Razumkov,father,Q11801471,Ołeksandr Razumkow
+Q63184986,Dmytro Razumkov,mother,Q19910266,Nataliya Kudrya
+Q65645758,Ivan Yunakov,father,Q4534497,Sergiy Yunakov
+Q65964374,Mykola Stefanchuk,father,Q61116496,Oleksiy Stefanchuk
+Q65964374,Mykola Stefanchuk,sibling,Q20070130,Ruslan Stefanchuk
+Q66087594,Iryna Borzova,spouse,Q66088272,Serhiy Borzov
+Q66125259,Sviatoslav Yurash,father,Q44054989,Юраш Андрій Васильович
+Q66809461,Yuliia Didenko,spouse,Q104637393,"Диденко, Григорий Витальевич"
+Q66828683,Bohdan Kytsak,mother,Q109640553,Бабійчук Тамара Василівна
+Q66828927,Serhiy Kuzminykh,sibling,Q20067927,Кузьміних Олег Володимирович
+Q691471,Dmytro Pavlychko,child,Q2034405,Solomiia Pavlychko
+Q7155948,Pavlo Movchan,spouse,Q12096656,Lyubov Holota
+Q715633,Yevhen Marchuk,spouse,Q12073877,Larysa Ivshyna
+Q751757,Olena Lukash,spouse,Q12074201,Hryhoriy Illyashov
+Q868081,Olha Bohomolets,father,Q16162967,Vadym Berezovskyi
+Q868081,Olha Bohomolets,mother,Q85988785,Kateryna Bohomolez
+Q891942,Andriy Illenko,father,Q1532451,Yuri Ilyenko
+Q891942,Andriy Illenko,mother,Q4177347,Lyudmyla Yefymenko
+Q9101257,Oleksandr Yemets,child,Q4120886,Leonid Yemets
+Q982749,Valeriy Khoroshkovskyi,mother,Q16722272,Хорошковська Ольга Назарівна
+Q983874,Oleh Tiahnybok,father,Q12163139,Тягнибок Ярослав Васильович
