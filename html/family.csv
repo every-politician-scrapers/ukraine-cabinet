@@ -1,4 +1,5 @@
 id,name,relationship,relative,relativename
+Q102340260,Vitalii Kim,spouse,Q111377173,Yuliya Vitalivna Kim
 Q11285342,Andrii Derkach,child,Q28500663,Tatyana Andreevna Terekhova
 Q11285342,Andrii Derkach,father,Q4158965,Leonid Derkach
 Q1151367,Yuriy Mykhalchyshyn,father,Q373570,Adrian Mikhalchishin
@@ -48,6 +49,7 @@ Q15071392,Iryna Lutsenko,spouse,Q458282,Yuriy Lutsenko
 Q15088684,Eugene Ribchinski,father,Q4401696,Yuriy Rybchynskyi
 Q15850,Oleksandr Turchynov,spouse,Q17372365,Hanna Turchynova
 Q16172176,Oleksiy Honcharenko,father,Q4235602,Oleksiy Kostusyev
+Q16701826,Anna Kovalenko,spouse,Q19618525,Ruslan Khomchak
 Q16703319,Taras Kremin,father,Q12114572,Dmytro Kremin
 Q16713197,Borys Prykhodko,father,Q16713201,Viktor Prikhodko
 Q16723363,Ahtem Chiygoz,relative,Q16723365,Чийгоз Рустем Зейтуллайович
@@ -106,6 +108,7 @@ Q2632284,Ivan Drach,child,Q97188895,Драч Мар'яна Іванівна
 Q2690188,Oleksandr Vilkul,father,Q12093205,Yurii Vilkul
 Q2855765,Andriy Pavlovskyi,father,Q4341772,Mykhailo Pavlovskyi
 Q28860885,Roman Hryshchuk,spouse,Q87488031,Hanna Hres
+Q290689,Nataliya Vitrenko,child,Q16695896,Vitrenko Yuriy Yuriyovytch
 Q312440,Valeriy Borzov,spouse,Q231516,Ludmilla Tourischeva
 Q31919,Vitali Klitschko,father,Q12110516,Volodymyr Klychko
 Q31919,Vitali Klitschko,sibling,Q18797,Wladimir Klitschko
