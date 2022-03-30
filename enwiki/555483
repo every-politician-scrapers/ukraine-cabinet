@@ -1,15 +1,4 @@
 {
-  "embed": "yes",
-  "nickname": "Dr. Ironfist",
-  "weight": "Heavyweight",
-  "height": "2.01m",
-  "reach": "203 cm",
-  "total": "47",
-  "wins": "45",
-  "ko": "41",
-  "losses": "2"
-}
-{
   "child": "yes",
   "thesis_year": "2000",
   "thesis_title": "Методика визначення якостей боксерів у системі багатоетапного спортивного відбору"
@@ -20,6 +9,17 @@
   "branch": "Ukrainian Army",
   "serviceyears": "2022–present",
   "battles": "Battle of Kyiv (2022)"
+}
+{
+  "embed": "yes",
+  "nickname": "Dr. Ironfist",
+  "weight": "Heavyweight",
+  "height": "2.01m",
+  "reach": "203 cm",
+  "total": "47",
+  "wins": "45",
+  "ko": "41",
+  "losses": "2"
 }
 {
   "name": "Vitali Klitschko",
