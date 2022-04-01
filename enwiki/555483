@@ -22,9 +22,10 @@
   "losses": "2"
 }
 {
+  "honorific-prefix": "Hero of Ukraine",
   "name": "Vitali Klitschko",
-  "honorific_suffix": "Hero of Ukraine",
   "native_name": "Віта́лій Кличко́",
+  "native_name_lang": "uk",
   "image": "2014-09-12 - Vitali Klitschko - 9019 (cropped).jpg",
   "caption": "Klitschko in 2014",
   "office": "Mayor of Kyiv",
