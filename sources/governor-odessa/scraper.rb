@@ -22,37 +22,6 @@ class OfficeholderNonTable < OfficeholderListBase::OfficeholderBase
   end
 end
 
-class UkrainianExtd < WikipediaDate
-  REMAP = {
-    'по т.ч.'   => '',
-    'січня'     => 'January',
-    'січень'     => 'January',
-    'лютого'    => 'February',
-    'лютий'    => 'February',
-    'березня'   => 'March',
-    'березень'   => 'March',
-    'квітня'    => 'April',
-    'квітень'    => 'April',
-    'травня'    => 'May',
-    'травень'    => 'May',
-    'червня'    => 'June',
-    'липня'     => 'July',
-    'липень'     => 'July',
-    'серпня'    => 'August',
-    'серпень'    => 'August',
-    'вересня'   => 'September',
-    'жовтня'    => 'October',
-    'листопада' => 'November',
-    'листопад' => 'November',
-    'грудня'    => 'December',
-  }.freeze
-
-  def remap
-    REMAP.merge(super)
-  end
-end
-
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -67,20 +36,13 @@ class OfficeholderList < OfficeholderListBase
       noko.css('a')
     end
 
+    # TODO: cope with this sort of date formatting
     def raw_combo_date
-      noko.text.tidy.
-        gsub('березень — липень 1992', 'березень 1992 — липень 1992').
-        gsub('травень — серпень 2006', 'травень 2006 — серпень 2006').
-        gsub('березень — травень 2014', 'березень 2014 — травень 2014').
-        gsub(/— з (.*)/, '— \1 — Incumbent').split('—').reverse.take(2).reverse.join(' - ')
-    end
-
-    def startDate
-      super rescue binding.pry
-    end
-
-    def date_class
-      UkrainianExtd
+      noko.text.tidy
+          .gsub('березень — липень 1992', 'березень 1992 — липень 1992')
+          .gsub('травень — серпень 2006', 'травень 2006 — серпень 2006')
+          .gsub('березень — травень 2014', 'березень 2014 — травень 2014')
+          .gsub(/— з (.*)/, '— \1 — Incumbent').split('—').reverse.take(2).reverse.join(' - ')
     end
   end
 end
