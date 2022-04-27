@@ -1,7 +1,5 @@
 {
   "name": "Volodymyr Zelenskyy",
-  "image": "Volodymyr Zelensky Official portrait.jpg",
-  "caption": "Official portrait, 2019",
   "native_name": "Володимир Зеленський",
   "native_name_lang": "uk",
   "order": "6th",
@@ -11,7 +9,7 @@
   "predecessor": "Petro Poroshenko",
   "birth_name": "Volodymyr Oleksandrovych Zelenskyy",
   "birth_date": "January 25, 1978",
-  "birth_place": "Kryvyi Rih, Ukrainian SSR, Soviet Union (now Ukraine)",
+  "birth_place": "Kryvyi Rih, Dnipropetrovsk Oblast, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "Kyiv National Economic University (LLB)",
   "party": "Independent",
   "otherparty": "Servant of the People (2018–present)",
@@ -24,8 +22,6 @@
   "website": "president.gov.ua/en"
 }
 {
-  "image": "Flag of the President of Ukraine.svg",
-  "image_size": "75px",
   "name": "Volodymyr Zelenskyy",
   "dipstyle": "Його Високоповажність, Президент України.\n\"His Excellency, the President of Ukraine\"",
   "offstyle": "Президент України.\n\"President of Ukraine\"",
