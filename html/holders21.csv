@@ -1,20 +1,20 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Leonid Kuchma,Q629702,1994-07-19,2005-01-23,male,1938-08-09,,Leonid Kuchma.jpg,Leonid Kuchma
-President,Viktor Yushchenko,Q1459699,2005-01-23,2010-02-25,male,1954-02-23,,Viktor Yushchenko by Tasnimnews 01 (cropped).jpg,Viktor Yushchenko
-President,Viktor Yanukovych,Q1459658,2010-02-25,2014-02-22,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
+President,Viktor Yushchenko,Q1459699,2005-01-23,2010-02-25,male,1954-02-23,,Портрет 3-го президента України Віктора Ющенка.jpeg,Viktor Yushchenko
+President,Viktor Yanukovych,Q1459658,2010-02-25,2014-02-22,male,1950-07-09,,Viktor Yanukovych official portrait.jpg,Viktor Yanukovych
 President,Oleksandr Turchynov,Q15850,2014-02-23,2014-06-07,male,1964-03-31,,Oleksandr Turchynov in August 2014.jpg,Oleksandr Turchynov
 President,Petro Poroshenko,Q58077,2014-06-07,2019-05-20,male,1965-09-26,,Official portrait of Petro Poroshenko.jpg,Petro Poroshenko
 President,Volodymyr Zelenskyy,Q3874799,2019-05-20,,male,1978-01-25,,Volodymyr Zelensky Official portrait.jpg,Volodymyr Zelenskyy
-Prime Minister,Viktor Yushchenko,Q1459699,1999-12-22,2001-05-29,male,1954-02-23,,Viktor Yushchenko by Tasnimnews 01 (cropped).jpg,Viktor Yushchenko
+Prime Minister,Viktor Yushchenko,Q1459699,1999-12-22,2001-05-29,male,1954-02-23,,Портрет 3-го президента України Віктора Ющенка.jpeg,Viktor Yushchenko
 Prime Minister,Anatoliy Kinakh,Q488180,2001-05-29,2002-11-21,male,1954-08-04,,Anatoliy Kinakh.jpg,Anatoliy Kinakh
-Prime Minister,Viktor Yanukovych,Q1459658,2002-11-21,2004-12-07,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
+Prime Minister,Viktor Yanukovych,Q1459658,2002-11-21,2004-12-07,male,1950-07-09,,Viktor Yanukovych official portrait.jpg,Viktor Yanukovych
 Prime Minister,Mykola Azarov,Q57590,2004-12-07,2004-12-28,male,1947-12-17,,Mykola Azarov 2012.jpg,Mykola Azarov
-Prime Minister,Viktor Yanukovych,Q1459658,2004-12-28,2005-01-05,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
+Prime Minister,Viktor Yanukovych,Q1459658,2004-12-28,2005-01-05,male,1950-07-09,,Viktor Yanukovych official portrait.jpg,Viktor Yanukovych
 Prime Minister,Mykola Azarov,Q57590,2005-01-05,2005-01-24,male,1947-12-17,,Mykola Azarov 2012.jpg,Mykola Azarov
 Prime Minister,Yulia Tymoshenko,Q48283,2005-01-24,2005-09-08,female,1960-11-27,,Yulia Tymoshenko 2018 Vadim Chuprina.jpg,Yulia Tymoshenko
 Prime Minister,Yuriy Yekhanurov,Q311116,2005-09-08,2005-09-22,male,1948-08-23,,Yuriy Yekhanurov 2013.jpg,Yuriy Yekhanurov
 Prime Minister,Yuriy Yekhanurov,Q311116,2005-09-22,2006-08-04,male,1948-08-23,,Yuriy Yekhanurov 2013.jpg,Yuriy Yekhanurov
-Prime Minister,Viktor Yanukovych,Q1459658,2006-08-04,2007-12-18,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
+Prime Minister,Viktor Yanukovych,Q1459658,2006-08-04,2007-12-18,male,1950-07-09,,Viktor Yanukovych official portrait.jpg,Viktor Yanukovych
 Prime Minister,Yulia Tymoshenko,Q48283,2007-12-18,2010-03-04,female,1960-11-27,,Yulia Tymoshenko 2018 Vadim Chuprina.jpg,Yulia Tymoshenko
 Prime Minister,Oleksandr Turchynov,Q15850,2010-03-04,2010-03-11,male,1964-03-31,,Oleksandr Turchynov in August 2014.jpg,Oleksandr Turchynov
 Prime Minister,Mykola Azarov,Q57590,2010-03-11,2014-01-28,male,1947-12-17,,Mykola Azarov 2012.jpg,Mykola Azarov
@@ -95,7 +95,7 @@ Minister of Ecology and Natural Resources,Andriy Mokhnyk,Q975419,2014-02-27,2014
 Minister of Ecology and Natural Resources,Ihor Shevchenko,Q18603136,2014-12-02,2015-07-02,male,1971-01-10,,Шевченко Ігор Анатолійович.jpg,Ihor Shevchenko
 Minister of Ecology and Natural Resources,Ostap Semerak,Q12152002,2016-04-14,2019-08-29,male,1972-06-27,,GOL 9572 1.jpg,Ostap Semerak
 Minister of Ecology and Natural Resources,Roman Abramovsky,Q96463301,2020-06-19,2021-11-03,male,1973-10-05,,Роман Абрамовський.jpg,Roman Abramovsky
-Minister of Ecology and Natural Resources,Ruslan Strilets,Q110234969,2021-11-04,,male,,,Ruslan Strilets.jpg,
+Minister of Ecology and Natural Resources,Ruslan Strilets,Q110234969,2021-11-04,,male,,,,
 Minister of Economy,Serhiy Tihipko,Q379720,1999-12-31,2000-07-05,male,1960-02-13,,Сергей Леонидович Тигипко.jpg,Serhiy Tihipko
 Minister of Economy,Oleksandr Shlapak,Q12172086,2001-07-10,2002-11-30,male,1960-01-01,,Oleksandr Shlapak2.jpg,Oleksandr Shlapak
 Minister of Economy,Valeriy Khoroshkovskyi,Q982749,2002-12,2004-01,male,1969-01-01,,Valeriy Khoroshkovskyi.jpg,Valeriy Khoroshkovskyi
@@ -220,7 +220,7 @@ Minister of Temporarily Occupied Territories and IDPs,Iryna Vereshchuk,Q20066227
 Minister of Transport,Valeriy Pustovoitenko,Q553216,2001-06-09,2002-04-30,male,1947-02-23,,Ba457db9ef7084a504082a8aebbc4c50 cr.jpg,Valeriy Pustovoitenko
 Minister for Veterans' Affairs,Iryna Fris,Q19237116,2018-11-22,2019-08-29,female,1974-09-25,,Ірина Фріз (Iryna Friz).jpg,Iryna Friz
 Minister for Veterans' Affairs,Serhiy Bessarab,Q17371650,2020-03-04,2020-12-16,male,1955-11-13,,Бессараб Сергій Борисович.jpg,Serhiy Bessarab
-Minister for Veterans' Affairs,Yuliia Laputina,Q88653809,2020-12-18,,female,1967,,Yuliia Laputina at Kharkiv Security Forum 2019.jpg,
+Minister for Veterans' Affairs,Yulia Laputina,Q88653809,2020-12-18,,female,1967,,Yuliia Laputina at Kharkiv Security Forum 2019.jpg,Yulia Laputina
 Minister of Youth and Sports,Dmytro Bulatov,Q15711617,2014-02-27,2014-12-02,male,1978-08-13,,Dmytro Bulatov2.jpg,Dmytro Bulatov
 Minister of Youth and Sports,Ihor Zhdanov,Q16699147,2016-04-14,2019-08-29,male,1967-12-29,,Igory Zhdanov Ucraine.jpg,Ihor Zhdanov
 Minister of Youth and Sports,Vadim Gutzeit,Q922349,2020-03-04,,male,1971-10-06,,Vadym Huttsait portrait.jpg,Vadym Gutzeit
@@ -260,7 +260,15 @@ Head of Kyiv City,Oleksandr Omelchenko,Q2376704,1999-05-30,2006-04-14,male,1938-
 Head of Kyiv City,Leonid Chernovetskyi,Q128922,2006-04-14,2012-06-03,male,1951-11-25,,Черновецький Леонід Михайлович 2006 (1).jpg,Leonid Chernovetskyi
 Head of Kyiv City,Halyna Hereha,Q4137172,2012-07-12,2014-06-05,female,1959-08-09,,Герега Галина 2011.JPG,Halyna Hereha
 Head of Kyiv City,Vitali Klitschko,Q31919,2014-06-05,,male,1971-07-19,,2014-09-12 - Vitali Klitschko - 9019 (cropped).jpg,Vitali Klitschko
+Governor of the National Bank,Viktor Yushchenko,Q1459699,1997-02-05,2000-01-11,male,1954-02-23,,Портрет 3-го президента України Віктора Ющенка.jpeg,Viktor Yushchenko
+Governor of the National Bank,Volodymyr Stelmakh,Q2987224,2000-01-21,2002-12-17,male,1939-01-18,,Volodymyr Stelmakh.jpg,Volodymyr Stelmakh
 Governor of the National Bank,Serhiy Tihipko,Q379720,2002-12-17,2004-12-16,male,1960-02-13,,Сергей Леонидович Тигипко.jpg,Serhiy Tihipko
+Governor of the National Bank,Volodymyr Stelmakh,Q2987224,2004-12-16,2010-12-23,male,1939-01-18,,Volodymyr Stelmakh.jpg,Volodymyr Stelmakh
+Governor of the National Bank,Serhiy Arbuzov,Q1711587,2010-12-23,2013-01-11,male,1976-03-24,,Арбузов Сергій Геннадійович.jpg,Serhiy Arbuzov
+Governor of the National Bank,Ihor Sorkin,Q12154591,2013-01-11,2014-02-24,male,1967-03-03,,,Ihor Sorkin
+Governor of the National Bank,Stepan Kubiv,Q2589861,2014-02-24,2014-06-19,male,1962-03-19,,Степан Кубів.jpg,Stepan Kubiv
+Governor of the National Bank,Valeriia Hontareva,Q17258053,2014-06-19,2018-03-15,female,1964-10-20,,Governor of the National Bank of Ukraine Valeria Gontareva.jpg,Valeria Hontareva
+Governor of the National Bank,Yakiv Smolii,Q16716966,2018-03-15,2020-07-03,male,1961-02-01,,Смолій Яків Васильович.jpg,Yakiv Smolii
 Governor of the National Bank,Kyrylo Shevchenko,Q28701679,2020-07-16,,male,1972-10-25,,Foto KShevchenko 2017.jpg,Kyrylo Shevchenko
 Chief of the General Staff,Serhiy Shaptala,Q20070771,2021-07-28,,male,1973-02-05,,Shaptala S O.jpg,Serhiy Shaptala
 Head of the Foreign Intelligence Service,Oleksandr Litvinenko,Q12118123,2021-07-27,,male,1972-04-27,,,
@@ -344,14 +352,29 @@ Governor of Chernihiv Oblast,Andrii Prokopenko,Q73288345,2019-10-31,2020-10-13,m
 Governor of Chernihiv Oblast,Anna Kovalenko,Q16701826,2020-10-13,2021-08-04,female,1991-05-05,,Анна Коваленко на штабі 39 сотні.JPG,Anna Kovalenko
 Governor of Chernihiv Oblast,Vyacheslav Chaus,Q107884996,2021-08-04,,male,1977-08-28,,В'ячеслав Анатолійович Чаус.jpg,Vyacheslav Chaus
 Governor of Dnipropetrovsk Oblast,Yuriy Yekhanurov,Q311116,2005-04-01,2005-09-08,male,1948-08-23,,Yuriy Yekhanurov 2013.jpg,Yuriy Yekhanurov
-Governor of Donetsk Oblast,Viktor Yanukovych,Q1459658,1997-05-14,2002-11-21,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
+Governor of Donetsk Oblast,Viktor Yanukovych,Q1459658,1997-05-14,2002-11-21,male,1950-07-09,,Viktor Yanukovych official portrait.jpg,Viktor Yanukovych
 Governor of Ivano-Frankivsk Oblast,Oleh Honcharuk,Q18012519,2014-09-09,2019-06-11,male,1968-01-31,,OLED 2022.jpg,
 Governor of Ivano-Frankivsk Oblast,Denys Shmyhal,Q66094865,2019-08-01,2020-02-05,male,1975-10-15,,Денис Шмигаль (08-12-2020) (cropped).jpg,Denys Shmyhal
 Governor of Ivano-Frankivsk Oblast,Vitaliy Fedoriv,Q85999983,2020-04-24,2020-11-05,male,1977-01-23,,,Vitaliy Fedoriv (politician)
 Governor of Ivano-Frankivsk Oblast,Svitlana Onyschuk,Q109297952,2021-07-08,,female,1984-01-07,,Svitlana Onyschuk.jpg,Svitlana Onyschuk
 Governor of Kyiv Oblast,Oleksiy Chernyshov,Q42792644,2019-10-28,2020-03-11,male,1977-09-04,,Chernishov Oleksiy (2020 portrait).jpg,Oleksiy Chernyshov
 Governor of Kirovohrad Oblast,Vadym Chernysh,Q4514263,2006-08-03,2007-11-01,male,1971-10-16,,Вадим Черниш.jpg,Vadym Chernysh
+Governor of Luhansk Oblast,Oleksandr Yefremov,Q4177484,1998-04-07,2005-01-27,male,1954-08-22,,Oleksandr Yefremov.jpg,Oleksandr Yefremov
 Governor of Luhansk Oblast,Oleksiy Danilov,Q4154638,2005-02-04,2005-11-08,male,1962-09-07,,Oleksiy Danilov (cropped).jpg,Oleksiy Danilov
+Governor of Luhansk Oblast,Hennadiy Moskal,Q724219,2005-11-18,2006-04-26,male,1950-12-11,,Hennadiy Moskal.jpg,Hennadiy Moskal
+Governor of Luhansk Oblast,Кобітєв Олександр Євгенович,Q47489854,2006-04-26,2006-09-15,male,1962-02-18,,,
+Governor of Luhansk Oblast,Oleksandr Antipov,Q4067092,2006-09-15,2010-03-18,male,1949-03-10,,,
+Governor of Luhansk Oblast,Valeriy Holenko,Q4141457,2010-03-18,2010-11-10,male,1958-05-06,,,
+Governor of Luhansk Oblast,Volodymyr Prystyuk,Q4379213,2010-11-10,2014-03-02,male,1960-05-02,,,
+Governor of Luhansk Oblast,Mykhailo Bolotskykh,Q12083800,2014-03-02,2014-05-10,male,1960-10-28,,Mykhailo Bolotskykh.jpg,Mykhailo Bolotskykh
+Governor of Luhansk Oblast,Iryna Verihina,Q16694341,2014-05-10,2014-09-18,female,1968-06-04,,,
+Governor of Luhansk Oblast,Hennadiy Moskal,Q724219,2014-09-18,2015-07-15,male,1950-12-11,,Hennadiy Moskal.jpg,Hennadiy Moskal
+Governor of Luhansk Oblast,Yuriy Klimenko,Q47489853,2015-07-15,2015-07-22,male,1973-03-31,,,Yuriy Klimenko
+Governor of Luhansk Oblast,George Tuka,Q20680017,2015-07-22,2016-04-29,male,1963-11-24,,Георгій Тука 02.jpg,George Tuka
+Governor of Luhansk Oblast,Yuriy Harbuz,Q20066438,2016-04-29,2018-11-22,male,1971-11-18,,Юрій Гарбуз.jpg,Yuriy Harbuz
+Governor of Luhansk Oblast,Serhiy Fil,Q61116254,2018-11-22,2019-07-05,male,1981-02-07,,Сергій Філь.jpg,
+Governor of Luhansk Oblast,Vitaliy Komarnytskyi,Q65115248,2019-07-05,2019-10-25,male,1964-03-15,,,
+Governor of Luhansk Oblast,Serhiy Haidai,Q65199830,2019-10-25,,male,1975-11-06,,,Serhiy Haidai
 Governor of Odessa Oblast,Serhii Hrynevetskyi,Q4149622,1998-05,2005-02,male,1957-09-25,,Grynevetskyi Sergii Rafailovych.png,Serhiy Hrynevetsky
 Governor of Odessa Oblast,Vasyl Tsushko,Q1551591,2005-02,2006-05,male,1963-02-01,,Tsushko.jpg,Vasyl Tsushko
 Governor of Odessa Oblast,Звягінцев Борис Григорович,Q47489765,2006-05,2006-08,male,1956-06-01,2007-08-05,,
@@ -369,10 +392,10 @@ Governor of Odessa Oblast,Svitlana Shatalova,Q64626586,2019-06-14,2019-10-11,fem
 Governor of Odessa Oblast,Maksym Kutsyi,Q70514969,2019-10-11,2020-11-05,male,1982-12-21,,,Maksym Kutsyi
 Governor of Odessa Oblast,Vyacheslav Ovechkin,Q105098172,2020-11-09,2020-11-27,male,1983-06-14,,,Vyacheslav Ovechkin
 Governor of Odessa Oblast,Serhii Hrynevetskyi,Q4149622,2020-11-27,2022-03-01,male,1957-09-25,,Grynevetskyi Sergii Rafailovych.png,Serhiy Hrynevetsky
-Governor of Odessa Oblast,Maksym Marchenko,Q65206917,2022-03-01,,male,1983-02-10,,Marchenko-600x540.jpg,Maksym Marchenko
-Governor of Zaporizhzhia Oblast,Viktor Baloha,Q898717,1999-05-05,2001-06-01,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
+Governor of Odessa Oblast,Maksym Marchenko,Q65206917,2022-03-01,,male,1983-02-10,,,Maksym Marchenko
+Governor of Zakarpattia Oblast,Viktor Baloha,Q898717,1999-05-05,2001-06-01,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
+Governor of Zakarpattia Oblast,Viktor Baloha,Q898717,2005-02-04,2005-09-27,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
 Governor of Zaporizhzhia Oblast,Yuriy Artemenko,Q4070192,2005-02-04,2005-11-08,male,1963-02-28,,Артеменко Юрій Анатолійович.jpg,Yuriy Artemenko
-Governor of Zaporizhzhia Oblast,Viktor Baloha,Q898717,2005-02-04,2005-09-27,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
 Governor of Zaporizhzhia Oblast,Alexander Peklushenko,Q4348130,2011-11-02,2014-03-03,male,1954-08-29,2015-03-12,,Oleksandr Peklushenko
 Governor of Zaporizhzhia Oblast,Valery Baranov,Q7911466,2014-03-03,2014-10-29,male,1957-04-19,,Баранов. В.JPG,Valery Baranov (politician)
 Governor of Sevastopol,Aleksei Chalyi,Q15829163,2014-03-21,2014-04-14,male,1961-06-13,,Alexey Chaly.jpeg,Aleksei Chaly
@@ -389,7 +412,7 @@ Chairman of the Mykolaiv Regional State Administration,Oleksandr Stadnik,Q680825
 Chairman of the Mykolaiv Regional State Administration,Решетілов Георгій Олександрович,Q109337450,2020-11-17,2020-11-25,male,1982-06-30,,,
 Chairman of the Mykolaiv Regional State Administration,Vitalii Kim,Q102340260,2020-11-20,,male,1981-03-13,,Виталий Ким .jpg,Vitaliy Kim
 Lviv City Mayor,Andriy Sadovyi,Q2011720,2006-04-25,,male,1968-08-19,,AndriiSadovyi.JPG,Andriy Sadovyi
-Mayor of Melitopol,Ivan Fedorov,Q105302343,2020,,male,1988-08-29,,,Ivan Fedorov (politician)
+Mayor of Melitopol,Ivan Fedorov,Q105302343,2020,,male,1988-08-29,,Empfang für ukrainische Delegation im Kölner Rathaus – Iwan Fedorow – Іван Федоров-1046.jpg,Ivan Fedorov (politician)
 Presidential representative in Crimea,Natalia Popovych,Q25437074,2014-05-22,2017-08-17,female,1968-03-16,,,Natalia Popovych
 Presidential representative in Crimea,Borys Babin,Q37102225,2017-08-17,2018-12-03,male,1981-03-12,,Babin.10122018.jpg,Borys Babin
 Presidential representative in Crimea,Izet Hdanov,Q60194720,2018-12-02,2019-06-25,male,1983-09-16,,,Izet Hdanov
