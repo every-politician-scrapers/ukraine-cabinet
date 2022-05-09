@@ -28,6 +28,7 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def holder_entries
+    noko.css('.thumbcaption').remove
     noko.xpath("//h3[.//span[contains(.,'Голови')]][last()]//following::ol[1]//li[a]")
   end
 
