@@ -23,6 +23,10 @@ class OfficeholderList < OfficeholderListBase
     def raw_combo_date
       super[/\((.*)\)/, 1]
     end
+
+    def ignore_before
+      1991
+    end
   end
 end
 
