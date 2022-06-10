@@ -1,8 +1,6 @@
 {
   "name": "Ivan Bakanov\nІван Баканов",
   "office": "Head of the Security Service of Ukraine",
-  "term_start": "22 May 2019 Acting until 29 August 2019",
-  "predecessor": "Vasyl Hrytsak",
   "office1": "Leader of the Servant of the People",
   "term_start1": "2 December 2017",
   "term_end1": "27 May 2019",
@@ -11,5 +9,16 @@
   "birth_date": "May 2, 1975",
   "birth_place": "Kryvyi Rih, Ukrainian SSR, Soviet Union",
   "education": "Kyiv National Economic University\nAcademy of Labor, Social Relations and Tourism",
-  "children": "1"
+  "occupation": "State Security, Anti-corruption",
+  "party": "Servant of the People (2 December 2017 - 27 May 2019)",
+  "office2": "Member of the National Security and Defence Council of Ukraine",
+  "office3": "Chief of the Main Directorate on Fight against Corruption and Organized Crime of the Central Department of the Security Service of Ukraine",
+  "term2": "28 May, 2019 - present",
+  "term3": "22 May, 2019 - June 3, 2019",
+  "office4": "Deputy Head of the Security Service of Ukraine",
+  "term4": "3 June, 2019 - 29 August, 2019",
+  "term": "29 August, 2019 - present",
+  "allegiance": "SBU",
+  "rank": "Senior lieutenant",
+  "serviceyears": "2019 - present"
 }
