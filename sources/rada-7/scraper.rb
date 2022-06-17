@@ -25,6 +25,10 @@ class OfficeholderList < OfficeholderListBase
     def endDate
       end_cell.css('span').text.tidy
     end
+
+    def ignore_before
+      1900
+    end
   end
 end
 

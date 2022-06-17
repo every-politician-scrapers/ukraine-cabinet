@@ -57,6 +57,10 @@ class OfficeholderList < OfficeholderListBase
     def endDate
       nil
     end
+
+    def ignore_before
+      1900
+    end
   end
 
   class ExOfficeholder < OfficeholderRow
