@@ -21,11 +21,8 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def raw_combo_date
-      super[/\((.*)\)/, 1]
-    end
-
-    def ignore_before
-      1991
+      years = super[/\((.*)\)/, 1]
+      years =~ /^\d{4}$/ ? "#{years} - #{years}" : years
     end
   end
 end
