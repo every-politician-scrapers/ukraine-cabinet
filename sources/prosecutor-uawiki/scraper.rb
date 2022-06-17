@@ -21,7 +21,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds.first.text.include?('№') || (itemLabel == '—')
+      tds.first.text.include?('№') || (itemLabel == '—') || too_early?
     end
 
     def raw_combo_date
