@@ -36,7 +36,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      noko.text.include? 'представник'
+      noko.text.include?('представник') || too_early?
     end
   end
 end
