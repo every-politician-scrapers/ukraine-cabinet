@@ -1,6 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-->,Vitaliy Radetsky->Vitalyi Radetskyi,Q4387193,1993-10-08,1994-08-25
-->,Valerii Ivashchenko->Valeriy Ivashchenko,Q4197099,2009-06-05,2010-03-11
-->,Stepan Poltorak,Q12141949,2016-04-14->2014-10-14,2019-08-29->2019-05-20
-->,Andriy Zahorodniuk->Andriy Zagorodnyuk,Q66819268,2019-08-29,2020-03-04
-->,Oleksii Reznikov->Oleksiy Reznikov,Q4392444,2021-11-04->2021-11-03,
+@@,item,itemlabel,startdate,enddate
+->,Q4197099,Valerii Ivashchenko->Valeriy Ivashchenko,2009-06-05,2010-03-11
+->,Q12141949,Stepan Poltorak,2016-04-14->2014-10-14,2019-08-29->2019-05-20
+->,Q66819268,Andriy Zahorodniuk->Andriy Zagorodnyuk,2019-08-29,2020-03-04
+->,Q4392444,Oleksii Reznikov->Oleksiy Reznikov,2021-11-04->2021-11-03,
