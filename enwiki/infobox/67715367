@@ -1,11 +1,13 @@
 {
   "name": "Viktor Liashko",
-  "office": "Ministry of Health of Ukraine",
   "native_name": "Віктор Ляшко",
-  "appointer": "Verkhovna Rada of Ukraine",
-  "birth_date": "April 24, 1980",
-  "termstart": "20 May 2021",
-  "minister": "Minister of Health of Ukraine",
+  "native_name_lang": "uk",
+  "office": "Minister of Health of Ukraine",
+  "term_start": "20 May 2021",
+  "president": "Volodymyr Zelenskyy",
+  "primeminister": "Denys Shmyhal",
   "predecessor": "Maksym Stepanov",
-  "primeminister": "Denys Shmyhal"
+  "birth_date": "April 24, 1980",
+  "birth_place": "Osova, Ukrainian SSR, Soviet Union (now Ukraine)",
+  "party": "Independent"
 }

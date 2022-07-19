@@ -1,15 +1,18 @@
 {
-  "name": "Oleksandr Kubrakov\nОлександр Кубраков",
+  "name": "Oleksandr Kubrakov",
+  "native_name": "Олександр Кубраков",
+  "native_name_lang": "uk",
   "office": "7th Minister of Infrastructure of Ukraine",
+  "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "20 May 2021",
   "predecessor": "Vladyslav Krykliy",
-  "office1": "The Head of State Road Agency of Ukraine",
+  "office1": "Head of State Road Agency of Ukraine",
   "term_start1": "19 November 2019",
   "term_end1": "20 May 2021",
-  "birth_name": "Oleksandr Mykolayovych Kubrakov",
   "birth_date": "August 20, 1982",
-  "birth_place": "Pershotravensk, Ukrainian SSR, Soviet Union",
+  "birth_place": "Pershotravensk, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "Kyiv National Economic University",
-  "occupation": "economist\ncivil servant\npolitician"
+  "occupation": "Economist\ncivil servant\npolitician",
+  "party": "Independent"
 }

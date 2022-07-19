@@ -1,13 +1,15 @@
 {
-  "name": "Sergii Marchenko\nСергій Марченко",
-  "office": "Minister of Finance",
+  "name": "Serhiy Marchenko",
+  "native_name": "Сергій Марченко",
+  "native_name_lang": "uk",
+  "office": "Minister of Finance of Ukraine",
   "president": "Volodymyr Zelenskyy",
-  "primeminister": "Denys Shmygal",
+  "primeminister": "Denys Shmyhal",
   "term_start": "30 March 2020",
   "predecessor": "Ihor Umansky",
-  "birth_name": "Serhiy Mykhaylovych Marchenko",
   "birth_date": "January 24, 1981",
-  "birth_place": "Makariv, Kyiv Oblast, Ukrainian SSR, Soviet Union",
-  "education": "Academy of the State Tax Service",
-  "occupation": "economist\npolitician"
+  "birth_place": "Makariv, Ukrainian SSR, Soviet Union",
+  "education": "Academy of the State Tax Service of Ukraine",
+  "occupation": "Economist\npolitician",
+  "party": "Independent"
 }
