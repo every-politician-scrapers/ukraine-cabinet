@@ -1,0 +1,780 @@
+{
+  "title": "Denys Shmyhal",
+  "pageID": 62850307,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "21st-century Ukrainian businesspeople",
+    "21st-century Ukrainian politicians",
+    "Businesspeople from Lviv",
+    "Governors of Ivano-Frankivsk Oblast",
+    "Independent politicians in Ukraine",
+    "Lviv Polytechnic alumni",
+    "National Security and Defense Council of Ukraine",
+    "Politicians from Lviv",
+    "Prime Ministers of Ukraine",
+    "Regional development and construction ministers of Ukraine",
+    "Vice Prime Ministers of Ukraine"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Denys Anatoliyovych Shmyhal (Денис Анатолійович Шмигаль; born 15 October 1975) is a Ukrainian politician and entrepreneur who has been serving as the prime minister of Ukraine since 2020.",
+              "links": [
+                {
+                  "text": "Ukrainian",
+                  "type": "internal",
+                  "page": "Ukraine"
+                },
+                {
+                  "text": "entrepreneur",
+                  "type": "internal",
+                  "page": "entrepreneur"
+                },
+                {
+                  "text": "prime minister of Ukraine",
+                  "type": "internal",
+                  "page": "prime minister of Ukraine"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Denys Anatoliyovych Shmyhal"
+                ]
+              }
+            },
+            {
+              "text": "Prior to his appointment as prime minister, Shmyhal was the governor of Ivano-Frankivsk Oblast.",
+              "links": [
+                {
+                  "text": "governor of Ivano-Frankivsk Oblast",
+                  "type": "internal",
+                  "page": "governor of Ivano-Frankivsk Oblast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As prime minister, Shmyhal has been in charge of handling the response to the COVID-19 pandemic in Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Ukraine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Ukraine (born 1975)",
+          "template": "short description"
+        },
+        {
+          "reason": "Arbitration enforcement: WP:BLPDS",
+          "small": "yes",
+          "template": "pp-protected"
+        },
+        {
+          "list": [
+            "Anatoliyovych",
+            "Shmyhal"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "May 2022",
+          "template": "update"
+        },
+        {
+          "year": "1975",
+          "month": "10",
+          "day": "15",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Denys Shmyhal"
+          },
+          "native_name": {
+            "text": "Денис Шмигаль"
+          },
+          "native_name_lang": {
+            "text": "uk"
+          },
+          "image": {
+            "text": "Denys Shmyhal in 2020 02 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Denys Shmyhal in 2020"
+          },
+          "order": {
+            "text": "18th"
+          },
+          "office": {
+            "text": "Prime Minister of Ukraine"
+          },
+          "president": {
+            "text": "Volodymyr Zelenskyy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Volodymyr Zelenskyy"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Oleksiy Lyubchenko\nYulia Svyrydenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yulia Svyrydenko"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 March 2020"
+          },
+          "predecessor": {
+            "text": "Oleksiy Honcharuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oleksiy Honcharuk"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Communities and Territories Development",
+            "links": [
+              {
+                "text": "Minister for Communities and Territories Development",
+                "type": "internal",
+                "page": "Ministry of Communities and Territories Development (Ukraine)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Oleksiy Honcharuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oleksiy Honcharuk"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 February 2020"
+          },
+          "term_end1": {
+            "text": "4 March 2020"
+          },
+          "predecessor1": {
+            "text": "Aliona Babak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aliona Babak"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Oleksiy Chernyshov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oleksiy Chernyshov"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Ivano-Frankivsk Oblast",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Ivano-Frankivsk Oblast"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Volodymyr Zelenskyy"
+          },
+          "primeminister2": {
+            "text": "Volodymyr Groysman\nOleksiy Honcharuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Volodymyr Groysman"
+              },
+              {
+                "type": "internal",
+                "page": "Oleksiy Honcharuk"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 August 2019"
+          },
+          "term_end2": {
+            "text": "5 February 2020"
+          },
+          "predecessor2": {
+            "text": "Oleh Honcharuk"
+          },
+          "successor2": {
+            "text": "Vitaliy Fedoriv (Acting)",
+            "links": [
+              {
+                "text": "Vitaliy Fedoriv",
+                "type": "internal",
+                "page": "Vitaliy Fedoriv (politician)"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Acting"
+              ]
+            }
+          },
+          "birth_date": {
+            "text": "October 15, 1975"
+          },
+          "birth_place": {
+            "text": "Lviv, Ukrainian SSR, Soviet Union (now Lviv, Ukraine)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lviv"
+              },
+              {
+                "text": "Ukrainian SSR",
+                "type": "internal",
+                "page": "Ukrainian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Ukraine"
+              }
+            ]
+          },
+          "education": {
+            "text": "Lviv Polytechnic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lviv Polytechnic"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Kateryna Shmyhal"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "occupation": {
+            "text": "Politician · entrepreneur"
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rbc.ua/ukr/news/shmygal-predstavil-sostav-svoego-kabmina-1583329136.html",
+          "title": "Новий Кабмін Шмигаля – став відомим склад уряду - Кабінет Міністрів України - Верховна Рада &#124; РБК-Україна",
+          "publisher": "Rbc.ua",
+          "access-date": "2020-06-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.president.gov.ua/documents/382020-32253",
+          "title": "Decree of the President of Ukraine № 38/2020",
+          "work": "Office of the President of Ukraine",
+          "access-date": "February 5, 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.ukrinform.de/rubric-polytics/2889803-denys-schmygal-zum-neuen-premierminister-ernannt.html",
+          "title": "Denys Schmygal zum neuen Premierminister ernannt",
+          "website": "www.ukrinform.de",
+          "language": "de",
+          "access-date": "2020-03-05",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.if.gov.ua:80/page/24725",
+          "archive-url": "https://web.archive.org/web/20191030215944/http://www.if.gov.ua:80/page/24725",
+          "archive-date": "2019-10-30",
+          "title": "Голова обласної державної адміністрації",
+          "work": "www.if.gov.ua (30 October 2019 archived page via Wayback Machine)",
+          "access-date": "January 17, 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://dovidka.com.ua/user/?code=528175",
+          "title": "Шмигаль Денис Анатолійович",
+          "work": "dovidka.com.ua",
+          "access-date": "January 17, 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1997, he graduated from the Lviv Polytechnic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lviv Polytechnic"
+                }
+              ]
+            },
+            {
+              "text": "He holds the title of Candidate of Economic Sciences (2003).",
+              "links": [
+                {
+                  "text": "Candidate of Economic Sciences",
+                  "type": "internal",
+                  "page": "Candidate of Sciences"
+                }
+              ]
+            },
+            {
+              "text": "From his graduation in 1997 until September 2005, Shmyhal worked as an accountant in various companies."
+            },
+            {
+              "text": "From September 2005 to June 2006, Shmyhal was Deputy General Director of a company called \"LA DIS\"."
+            },
+            {
+              "text": "From June 2006 to August 2008, he was Director for the investment company \"Comfort-Invest\".",
+              "links": [
+                {
+                  "text": "investment company",
+                  "type": "internal",
+                  "page": "investment company"
+                }
+              ]
+            },
+            {
+              "text": "From September 2008 to September 2009, Shmyhal was General Director of a company called \"ROSANINVEST LLC\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Shmyhal worked in multiple leading political roles in Ukraine's Lviv Oblast from 2009 until December 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lviv Oblast"
+                }
+              ]
+            },
+            {
+              "text": "Firstly, as the Head of the Department of Economics at the Lviv Oblast Administration between 2009 and 2011.",
+              "links": [
+                {
+                  "text": "Lviv Oblast Administration",
+                  "type": "internal",
+                  "page": "Governor of Lviv Oblast"
+                }
+              ]
+            },
+            {
+              "text": "It is there were he met and worked with Oleh Nemchinov who would, in 2020, become Minister of the Cabinet of Ministers in the Shmyhal Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oleh Nemchinov"
+                },
+                {
+                  "text": "Minister of the Cabinet of Ministers",
+                  "type": "internal",
+                  "page": "Secretariat of Cabinet of Ministers (Ukraine)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shmyhal Government"
+                }
+              ]
+            },
+            {
+              "text": "Shmyhal then became the Head of the Department of Economics and Industrial Policy for the whole of 2012."
+            },
+            {
+              "text": "In 2013, he was Head of the Department of Economic Development, Investment, Trade and Industry."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For the first four months of 2014, Shmyhal was a consultant to a People's Deputy of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Deputy of Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "From May 2014 to December 2014, Shmyhal worked as Deputy Head of the Lviv Oblast regional office of the Ministry of Revenues and Duties.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Revenues and Duties"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as Vice President of Lviv-based frozen goods distributor TVK Lvivkholod from 2015 to 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lviv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2018 to 2019, Shmyhal served as Director of the Burshtyn TES which is the largest electricity producer in Ivano-Frankivsk, and is part of Rinat Akhmetov's holdings.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Burshtyn TES"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ivano-Frankivsk"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rinat Akhmetov"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1 August 2019 until his ministerial appointment, Shmyhal was the Governor of Ivano-Frankivsk Oblast.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Ivano-Frankivsk Oblast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 4 February 2020, he was appointed Minister of Regional Development.",
+              "links": [
+                {
+                  "text": "Minister of Regional Development",
+                  "type": "internal",
+                  "page": "Ministry of Regional Development (Ukraine)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Shmyhal replaced Oleksiy Honcharuk as the prime minister of Ukraine in March 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oleksiy Honcharuk"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Blinken_Meets_With_Ukrainian_Prime_Minister_Shmyhal_(52022773525).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_Ukrainian_Prime_Minister_Shmyhal_(52022773525).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_Ukrainian_Prime_Minister_Shmyhal_(52022773525).jpg",
+          "caption": "Shmyhal meets with U.S. Secretary of State Antony J. Blinken in Washington D.C., on April 22, 2022.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.slovoidilo.ua/persony/shmyhal-denys-anatoliiovych",
+          "title": "Шмигаль Денис Анатолійович",
+          "work": "slovoidilo.ua",
+          "access-date": "January 17, 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pravda.com.ua/articles/2020/05/25/7252984/",
+          "title": "Shmyhal and \"his\" team. How Zelensky's second government works",
+          "work": "Ukrayinska Pravda",
+          "access-date": "May 25, 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://opinionua.com/en/2019/07/06/zelensky-decided-on-the-heads-of-lviv-and-ivano-frankivsk-regional-state-administration/",
+          "title": "Zelensky decided on the heads of Lviv and Ivano-Frankivsk Regional State Administration",
+          "work": "opinionua.com",
+          "date": "July 6, 2019",
+          "access-date": "January 17, 2020",
+          "archive-date": "July 8, 2019",
+          "archive-url": "https://web.archive.org/web/20190708091526/https://opinionua.com/en/2019/07/06/zelensky-decided-on-the-heads-of-lviv-and-ivano-frankivsk-regional-state-administration/",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.ft.com/content/17dd0122-5d8a-11ea-8033-fa40a0d65a98",
+          "title": "Zelensky shakes up Ukraine government and proposes new prime minister",
+          "newspaper": "Financial Times",
+          "access-date": "2020-03-04}}{{subscription required|s|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.bbc.com/ukrainian/news-51729049",
+          "script-title": "uk:Хто такий Денис Шмигаль, який може замінити Гончарука",
+          "trans-title": "Who is Denis Shmigal who can replace Goncharuk",
+          "work": "BBC",
+          "date": "3 March 2020",
+          "access-date": "21 March 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://24tv.ua/denis_shmigal_biografiya_ymovirnogo_v_o_premyer_ministra_n1264880",
+          "script-title": "uk:Денис Шмигаль очолив Кабінет міністрів: що про нього відомо",
+          "trans-title": "Denis Schmigal heads the Cabinet: what is known about him",
+          "work": "24 Kanal",
+          "last": "Боднар",
+          "first": "Наталя (Bodnar, Natalia)",
+          "date": "5 March 2020",
+          "access-date": "21 March 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.president.gov.ua/documents/5742019-28909",
+          "title": "Decree of the President of Ukraine № 574/2019",
+          "work": "Office of the President of Ukraine",
+          "access-date": "January 17, 2020",
+          "language": "uk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shmyhal is married to Kateryna Shmyhal."
+            },
+            {
+              "text": "They have two daughters."
+            },
+            {
+              "text": "Kateryna is a former co-owner of the Lviv “Kamyanetsky Bakery” and a local NextBike bike rental.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lviv"
+                },
+                {
+                  "text": "NextBike",
+                  "type": "internal",
+                  "page": "Nextbike"
+                }
+              ]
+            },
+            {
+              "text": "She sold her shares in these companies in 2019."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Honcharuk Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honcharuk Government"
+              }
+            ]
+          },
+          {
+            "text": "Shmyhal Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shmyhal Government"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category-inline"
+        },
+        {
+          "template": "wikiquote-inline"
+        },
+        {
+          "id": "100008190666291",
+          "template": "facebook"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Oleksiy Honcharuk",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Ukraine",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "prime ministers of ukraine"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.president.gov.ua/en/news/prezident-ukrayini-predstaviv-novogo-golovu-ivano-frankivsko-56693",
+          "title": "President of Ukraine introduced new Ivano-Frankivsk RSA Head Denys Shmygal",
+          "work": "Office of the President of Ukraine",
+          "date": "August 2, 2019",
+          "access-date": "January 17, 2020",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    }
+  ]
+}

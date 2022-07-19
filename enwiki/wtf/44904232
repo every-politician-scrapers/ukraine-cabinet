@@ -1,0 +1,620 @@
+{
+  "title": "Sergiy Korsunsky",
+  "pageID": 44904232,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Diplomats from Kyiv",
+    "Taras Shevchenko National University of Kyiv alumni",
+    "Ambassadors of Ukraine to the United States",
+    "Ambassadors of Ukraine to Turkey",
+    "Ambassadors of Ukraine to Japan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergiy Korsunsky (born August 10, 1962 in Kyiv, Ukrainian SSR) is a Ukrainian diplomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kyiv"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukrainian SSR"
+                },
+                {
+                  "text": "Ukrainian",
+                  "type": "internal",
+                  "page": "Ukraine"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sergiy Korsunsky"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Chargé d'affaires of Ukraine to the United States during 2005 and Ambassador Extraordinary and Plenipotentiary of Ukraine to Turkey (2008-2016).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chargé d'affaires"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador Extraordinary and Plenipotentiary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                }
+              ]
+            },
+            {
+              "text": "Director of the Hennadii Udovenko Diplomatic Academy of Ukraine in 2017-2020."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ambassador of Ukraine to Japan (since April 2020).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ukrainian diplomat",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "8",
+          "day": "10",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sergiy Korsunsky Сергій Корсунський",
+            "formatting": {
+              "italic": [
+                "Сергій Корсунський"
+              ]
+            }
+          },
+          "image": {
+            "text": "Сергій Корусунський.jpg"
+          },
+          "office1": {
+            "text": "MFA UA Logo trident.svgsador of Ukraine to JapanFlag of Japan.svg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ambassador of Ukraine to Japan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2020",
+            "number": 2020
+          },
+          "predecessor1": {
+            "text": "Ihor Kharchenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ihor Kharchenko"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Head of the Diplomatic Academy of Ukraine at the Ministry of Foreign Affairs of Ukraine"
+          },
+          "term_start2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "term_end2": {
+            "text": "2020",
+            "number": 2020
+          },
+          "predecessor2": {
+            "text": "Tsivatyi Viacheslav"
+          },
+          "successor2": {
+            "text": "Nadolenko Gennadiy"
+          },
+          "office3": {
+            "text": "MFA UA Logo trident.svgsador of Ukraine to TurkeyFlag of Turkey.svg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ambassador of Ukraine to Turkey"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end3": {
+            "text": "2016",
+            "number": 2016
+          },
+          "president13": {
+            "text": "Petro Poroshenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petro Poroshenko"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Arseniy Yatsenyuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arseniy Yatsenyuk"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Oleksandr Mishchenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oleksandr Mishchenko"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Andrey Sibigia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrey Sibigia"
+              }
+            ]
+          },
+          "office4": {
+            "text": "MFA UA Logo trident.svgé d'Affaires of Ukraine to the United StatesFlag of USA.svg"
+          },
+          "term_start4": {
+            "text": "2005",
+            "number": 2005
+          },
+          "term_end4": {
+            "text": "2005",
+            "number": 2005
+          },
+          "president4": {
+            "text": "Viktor Yushchenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viktor Yushchenko"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Mykhailo Reznik",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mykhailo Reznik"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Oleh Shamshur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oleh Shamshur"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 10, 1962"
+          },
+          "birth_place": {
+            "text": "Kyiv, Ukrainian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kyiv"
+              },
+              {
+                "type": "internal",
+                "page": "Ukrainian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "🇺🇦"
+          },
+          "alma_mater": {
+            "text": "Kyiv University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kyiv University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Physics and Mathematics"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.president.gov.ua/documents/1422020-33321",
+          "title": "Decree of the President of Ukraine № 142/2020",
+          "work": "Office of the President of Ukraine",
+          "accessdate": "April 15, 2020",
+          "lang": "uk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergiy Korsunsky graduated from Taras Shevchenko National University of Kyiv in 1984, faculty for Mathematics and Mechanics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taras Shevchenko National University of Kyiv"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mathematics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mechanics"
+                }
+              ]
+            },
+            {
+              "text": "Doctor of Science (Physics and Mathematics).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Doctor of Science"
+                },
+                {
+                  "type": "internal",
+                  "page": "Physics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mathematics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1995 professional training course at the Institute for International Relations, Kyiv State University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "1984 — 1988 — Researcher with the National Academy of Sciences of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Academy of Sciences of Ukraine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1988 — 1991 — Researcher-Consultant, Presidium of the National Academy of Sciences of Ukraine"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1991 — 1994 — Director-General of the Department for State Scientific and Technological Programs at the State Committee on Science and Technologies of Ukraine"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1994 — 1995 — Secretary of the first class of the Ukraine’s National Commission for UNESCO",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UNESCO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1995 — 1998 — Counsellor for Economy, Science and Technologies, Embassy of Ukraine to the State of Israel",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State of Israel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1998 — 2000 — Deputy Head of the Department for Economic Cooperation of the Ministry of Foreign Affairs of Ukraine"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2000 — 2006 — Counsellor, Minister Counsellor of the Embassy of Ukraine, Washington, D.C., in 2005 charge d' Affairs a.i. of Ukraine to the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Embassy of Ukraine, Washington, D.C."
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2006 — 2008 — Head of the Department for Economic Cooperation, Ministry of Foreign Affairs of Ukraine",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs of Ukraine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "July 2008 — up to June 18, 2016 — Ambassador Extraordinary and Plenipotentiary of Ukraine to the Republic of Turkey",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador Extraordinary and Plenipotentiary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "October 2017 – April 2020 - Director, Hennadii Udovenko Diplomatic Academy of Ukraine"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 14.04.2020 - Ambassador Extraordinary and Plenipotentiary of Ukraine to Japan"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Academic affiliations",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Visiting professor Kobe Gakuin University, Japan"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Honorary professor Borys Grinchenko Kyiv University, Ukraine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Author publications",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Author of more than 350 academic papers and other publications including 7 books, among them \"Nonlinear waves in dispersive and dissipative systems with coupled fields\" (Addison, Wesley."
+            },
+            {
+              "text": "Longman, 1997), “Technology Transfer in the United States” (Kyiv, 2005), “Energy Diplomacy” (Kyiv, 2008), \"Foreign Policy in Times of Transformations: how not to be left on the sidelines of history\"(Kharkiv, 2020), How to build relations with Asian countries: economy, diplomacy, cultural peculiarities (Kharkiv, 2021)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Author of 10 books of fiction published in 2010-2019 under the pen-name Sergey Vladich (in Russian), as hobby"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "AMBASSADOR OF UKRAINE DR. SERGIY KORSUNSKY’S VISIT",
+            "links": [
+              {
+                "text": "AMBASSADOR OF UKRAINE DR. SERGIY KORSUNSKY’S VISIT",
+                "type": "external",
+                "site": "http://www.strategicoutlook.org/philosophy/news-ambabador-of-ukraine-dr.-sergiy-korsunskys-visit.html"
+              }
+            ]
+          },
+          {
+            "text": "Embassy of Ukraine in the Republic of Turkey",
+            "links": [
+              {
+                "text": "Embassy of Ukraine in the Republic of Turkey",
+                "type": "external",
+                "site": "http://turkey.mfa.gov.ua/en/embassy/ambassador/cv"
+              }
+            ]
+          },
+          {
+            "text": "An Interview with Mr. Sergiy Korsunsky, Ukrainian Ambassador to Turkey",
+            "links": [
+              {
+                "text": "An Interview with Mr. Sergiy Korsunsky, Ukrainian Ambassador to Turkey",
+                "type": "external",
+                "site": "http://www.bilgesam.org/en/incele/475/-an-interview-with-mr--sergiy-korsunsky--ukrainian-ambassador-to-turkey/#.VKQ2lP685co"
+              }
+            ]
+          },
+          {
+            "text": "Ambassador Korsunsky: Ukraine moving to LNG to diversify supply",
+            "links": [
+              {
+                "text": "Ambassador Korsunsky: Ukraine moving to LNG to diversify supply",
+                "type": "external",
+                "site": "http://www.todayszaman.com/interviews_ambassador-korsunsky-ukraine-moving-to-lng-to-diversify-supply_258761.html"
+              }
+            ]
+          },
+          {
+            "text": "Ukrainian ambassador: Time a very good warrior on our side",
+            "links": [
+              {
+                "text": "Ukrainian ambassador: Time a very good warrior on our side",
+                "type": "external",
+                "site": "http://www.todayszaman.com/interviews_ukrainian-ambassador-time-a-very-good-warrior-on-our-side_350578.html"
+              }
+            ]
+          },
+          {
+            "text": "Ukrainian Ambassador to Turkey Sergiy Korsunsky tells SES Türkiye that Ankara's support has been \"continuous and adequate.\"",
+            "links": [
+              {
+                "text": "Ukrainian Ambassador to Turkey Sergiy Korsunsky tells SES Türkiye that Ankara's support has been \"continuous and adequate.\"",
+                "type": "external",
+                "site": "https://web.archive.org/web/20141231193701/http://ukraine.setimes.com/en_GB/articles/uwi/features/2014/06/30/feature-01"
+              }
+            ]
+          },
+          {
+            "text": "Ukrainian envoy: Captive OSCE observers expected to be freed",
+            "links": [
+              {
+                "text": "Ukrainian envoy: Captive OSCE observers expected to be freed",
+                "type": "external",
+                "site": "http://www.dailysabah.com/politics/2014/06/12/ukrainian-envoy-captive-osce-observers-expected-to-be-freed"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
