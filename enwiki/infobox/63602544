@@ -1,14 +1,15 @@
 {
-  "name": "Maryna Lazebna\nМарина Лазебна",
+  "name": "Maryna Lazebna",
+  "native_name": "Марина Лазебна",
+  "native_name_lang": "uk",
   "office": "7th Minister of Social Policy of Ukraine",
   "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "4 March 2020",
   "predecessor": "Yuliya Sokolovska",
-  "birth_name": "Maryna Volodymyrivna Lazebna",
   "birth_date": "June 10, 1975",
-  "birth_place": "Piskivka, Borodianka Raion, Kyiv Oblast, Ukrainian SSR, USSR",
+  "birth_place": "Piskivka, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "Kyiv University",
-  "occupation": "civil servant\npolitician",
+  "occupation": "Civil servant\npolitician",
   "party": "Independent"
 }

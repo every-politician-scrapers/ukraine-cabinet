@@ -1,12 +1,14 @@
 {
   "name": "Oleksandr Tkachenko",
+  "native_name": "Олександр Ткаченко",
+  "native_name_lang": "uk",
   "office": "Minister of Culture and Information Policy",
+  "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "4 June 2020",
   "predecessor": "Svitlana Fomenko",
   "birth_date": "January 22, 1966",
-  "birth_place": "Kyiv, Ukrainian SSR, Soviet Union",
-  "nationality": "Ukrainian",
+  "birth_place": "Kyiv, Ukrainian SSR, Soviet Union (now Ukraine)",
   "alma_mater": "Taras Shevchenko National University of Kyiv",
-  "occupation": "Media producer Journalist"
+  "occupation": "Media producer journalist"
 }

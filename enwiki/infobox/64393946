@@ -1,15 +1,17 @@
 {
-  "name": "Pavlo Kukhta\nПавло Кухта",
+  "name": "Pavlo Kukhta",
+  "native_name": "Павло Кухта",
+  "native_name_lang": "uk",
   "office": "Acting Minister of Economic Development, Trade and Agriculture",
+  "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "4 March 2020",
   "term_end": "17 March 2020",
   "predecessor": "Tymofiy Mylovanov",
   "successor": "Ihor Petrashko",
-  "birth_name": "Pavlo Andriyovych Kukhta",
   "birth_date": "December 3, 1985",
-  "birth_place": "Kyiv, Ukrainian SSR, USSR",
+  "birth_place": "Kyiv, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "Igor Sikorsky Kyiv Polytechnic Institute\nAspen Institute",
-  "occupation": "economist\npolitician",
+  "occupation": "Economist\npolitician",
   "party": "Voice"
 }

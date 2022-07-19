@@ -1,16 +1,18 @@
 {
-  "name": "Denys Maliuska\nДенис Малюська",
+  "name": "Denys Maliuska",
+  "native_name": "Денис Малюська",
+  "native_name_lang": "uk",
   "office": "15th Minister of Justice of Ukraine",
-  "primeminister": "Oleksiy Honcharuk\nDenys Shmygal",
+  "president": "Volodymyr Zelenskyy",
+  "primeminister": "Oleksiy Honcharuk\nDenys Shmyhal",
   "term_start": "29 August 2019",
   "predecessor": "Pavlo Petrenko",
   "office1": "People's Deputy of Ukraine",
   "term_start1": "29 August 2019",
   "term_end1": "29 August 2019",
-  "birth_name": "Denys Leontiyovych Maliuska",
   "birth_date": "November 19, 1981",
-  "birth_place": "Dunaivtsi, Khmelnytskyi Oblast, Ukrainian SSR, Soviet Union",
+  "birth_place": "Dunaivtsi, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "Taras Shevchenko National University of Kyiv\nUniversity of London",
-  "occupation": "lawyer\nbusinessman\npolitician",
+  "occupation": "Lawyer\nbusinessman\npolitician",
   "party": "Servant of the People"
 }

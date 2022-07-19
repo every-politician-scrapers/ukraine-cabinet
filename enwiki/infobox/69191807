@@ -1,5 +1,7 @@
 {
-  "name": "Yulia Svyrydenko Юлія Свириденко",
+  "name": "Yulia Svyrydenko",
+  "native_name": "Юлія Свириденко",
+  "native_name_lang": "uk",
   "office": "First Vice Prime Minister of Ukraine Minister of Economic Development and Trade",
   "term_start": "4 November 2021",
   "president": "Volodymyr Zelenskyy",
@@ -10,6 +12,7 @@
   "term_end1": "4 November 2021",
   "predecessor1": "Yulia Kovaliv",
   "birth_date": "December 25, 1985",
-  "birth_place": "Chernihiv, Chernihiv Oblast, Ukrainian SSR, Soviet Union",
+  "birth_place": "Chernihiv, Ukrainian SSR, Soviet Union (now Ukraine)",
+  "party": "Independent",
   "alma_mater": "Kyiv National University of Trade and Economics"
 }

@@ -1,12 +1,14 @@
 {
-  "name": "Oleh Nemchinov\nОлег Немчінов",
+  "name": "Oleh Nemchinov",
+  "native_name": "Олег Немчінов",
+  "native_name_lang": "uk",
   "office": "20th Minister of the Cabinet of Ministers",
+  "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "4 March 2020",
   "predecessor": "Dmytro Dubilet",
-  "birth_name": "Oleh Mykolayovych Nemchinov",
   "birth_date": "May 1, 1977",
-  "birth_place": "Lviv, Ukrainian SSR, Soviet Union",
+  "birth_place": "Lviv, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "University of Lviv\nTernopil National Economic University",
   "occupation": "civil servant\npolitician",
   "party": "Ukrainian People's Party"
