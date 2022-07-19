@@ -1,15 +1,15 @@
 {
-  "name": "Olha Stefanishyna\nОльга Стефанішина",
+  "name": "Olha Stefanishyna",
+  "native_name": "Ольга Стефанішина",
+  "native_name_lang": "uk",
   "office": "Deputy Prime Minister for European and Euro-Atlantic Integration",
   "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "4 June 2020",
   "predecessor": "Vadym Prystaiko",
-  "birth_name": "Olha Vitaliyivna Stefanishyna",
   "birth_date": "October 29, 1985",
-  "birth_place": "Odessa, Ukrainian SSR, Soviet Union",
+  "birth_place": "Odessa, Ukrainian SSR, Soviet Union (now Ukraine)",
   "education": "Taras Shevchenko National University of Kyiv\nOdessa National Economics University",
   "children": "2",
-  "occupation": "lawyer\ncivil servant",
   "party": "Servant of the People"
 }

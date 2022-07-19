@@ -1,9 +1,13 @@
 {
   "name": "Yulia Laputina",
-  "birth_date": "1967 (age 55)",
-  "birth_place": "Kyiv, Ukrainian SSR, Soviet Union",
-  "office": "Minister for Veterans Affairs",
+  "native_name": "Юлія Лапутіна",
+  "native_name_lang": "uk",
+  "office": "Minister of Veterans Affairs of Ukraine",
+  "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "predecessor": "Serhiy Bessarab",
-  "term_start": "18 December 2020"
+  "term_start": "18 December 2020",
+  "birth_date": "1967 (age 55)",
+  "birth_place": "Kyiv, Ukrainian SSR, Soviet Union (now Ukraine)",
+  "party": "Independent"
 }

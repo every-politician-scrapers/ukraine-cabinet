@@ -1,14 +1,16 @@
 {
-  "name": "Serhiy Shkarlet\nСергій Шкарлет",
-  "office": "Minister of Education and Science",
+  "name": "Serhiy Shkarlet",
+  "native_name": "Сергій Шкарлет",
+  "native_name_lang": "uk",
+  "office": "Minister of Education and Science of Ukraine",
   "president": "Volodymyr Zelenskyy",
   "primeminister": "Denys Shmyhal",
   "term_start": "25 June 2020",
-  "predecessor": "Lubomyra Mandziy (Acting)",
-  "birth_name": "Serhiy Mykolayovych Shkarlet",
+  "predecessor": "Lubomyra Mandziy (acting)",
   "birth_date": "October 19, 1972",
-  "birth_place": "Kokand, Uzbek SSR, Soviet Union",
+  "birth_place": "Kokand, Uzbek SSR, Soviet Union (now Uzbekistan)",
   "education": "Igor Sikorsky Kyiv Polytechnic Institute",
-  "occupation": "economist\npolitician",
-  "party": "Party of Regions\nPetro Poroshenko Bloc"
+  "occupation": "Economist\npolitician",
+  "party": "Independent",
+  "otherparty": "Party of Regions\nEuropean Solidarity"
 }
