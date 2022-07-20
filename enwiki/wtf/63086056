@@ -168,6 +168,15 @@
               }
             ]
           },
+          "otherparty": {
+            "text": "Servant of the People",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Servant of the People"
+              }
+            ]
+          },
           "website": {
             "text": "https://www.president.gov.ua/ru"
           },
@@ -188,6 +197,18 @@
           },
           "term2": {
             "text": "21 May 2019 – 11 February 2020"
+          },
+          "committees": {
+            "text": "Head of the committee/commission of State Awards (since 2020)"
+          },
+          "profession": {
+            "text": "Lawyer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
           }
         }
       ],

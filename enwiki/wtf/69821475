@@ -114,141 +114,30 @@
           "template": "tree list/end"
         },
         {
+          "name": "Valerii Zaluzhnyi",
+          "image": "Lieutenant General Valerii Zaluzhnyi.jpg",
+          "birth_date": "July 8, 1973",
+          "birth_place": "Novohrad-Volynskyi, Ukrainian SSR, Soviet Union",
+          "nickname": "\"Iron General\"",
+          "birth_name": "Valerii Fedorovych Zaluzhnyi",
+          "allegiance": "Ukraine",
+          "serviceyears": "1993–present",
+          "rank": "General Погон генерала ЗСУ (2020).svg",
+          "commands": "Commander-in-Chief of the Armed Forces of Ukraine Chief of the General Staff Commander, Ukrainian Ground Forces Operational Command North Joint Operational Headquarters of the Armed Forces of Ukraine Operational Command West 51st Guards Mechanized Brigade 24th Guards Mechanized Brigade",
+          "known_for": "Being the Commander-in-Chief of the Armed Forces of Ukraine",
+          "battles": "* Russo-Ukrainian War\n** War in Donbas\n** 2022 Russian invasion of Ukraine",
+          "office": "Commander-in-Chief of the Armed Forces of Ukraine",
+          "termstart": "27 July 2021",
+          "primeminister": "Denys Shmyhal",
+          "president": "Volodymyr Zelenskyi",
+          "alma_mater": "Ivan Chernyakhovsky National Defense University of Ukraine, Odessa Military Academy",
+          "template": "officeholder"
+        },
+        {
           "list": [
             "Sometimes transliterated as Valery or Valeriy Zaluzhny in English."
           ],
           "template": "efn"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Valerii Zaluzhnyi"
-          },
-          "image": {
-            "text": "Lieutenant General Valerii Zaluzhnyi.jpg"
-          },
-          "birth_date": {
-            "text": "July 8, 1973"
-          },
-          "birth_place": {
-            "text": "Novohrad-Volynskyi, Ukrainian SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Novohrad-Volynskyi"
-              },
-              {
-                "type": "internal",
-                "page": "Ukrainian SSR"
-              }
-            ]
-          },
-          "nickname": {
-            "text": "\"Iron General\""
-          },
-          "birth_name": {
-            "text": "Valerii Fedorovych Zaluzhnyi"
-          },
-          "allegiance": {
-            "text": "Ukraine"
-          },
-          "serviceyears": {
-            "text": "1993–present"
-          },
-          "rank": {
-            "text": "General",
-            "links": [
-              {
-                "text": "General",
-                "type": "internal",
-                "page": "Military ranks of Ukraine",
-                "anchor": "Rank insignia currently in force"
-              }
-            ]
-          },
-          "commands": {
-            "text": "Commander-in-Chief of the Armed Forces of Ukraine Chief of the General Staff Commander, Ukrainian Ground Forces Operational Command North Joint Operational Headquarters of the Armed Forces of Ukraine Operational Command West 51st Guards Mechanized Brigade 24th Guards Mechanized Brigade",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Commander-in-Chief"
-              },
-              {
-                "type": "internal",
-                "page": "Armed Forces of Ukraine"
-              },
-              {
-                "text": "Chief of the General Staff",
-                "type": "internal",
-                "page": "Chief of the General Staff (Ukraine)"
-              },
-              {
-                "text": "Commander, Ukrainian Ground Forces",
-                "type": "internal",
-                "page": "Commander of the Ground Forces (Ukraine)"
-              },
-              {
-                "type": "internal",
-                "page": "Operational Command North"
-              },
-              {
-                "type": "internal",
-                "page": "Joint Operational Headquarters of the Armed Forces of Ukraine"
-              },
-              {
-                "type": "internal",
-                "page": "Operational Command West"
-              },
-              {
-                "text": "51st Guards Mechanized Brigade",
-                "type": "internal",
-                "page": "51st Guards Mechanized Brigade (Ukraine)"
-              },
-              {
-                "text": "24th Guards Mechanized Brigade",
-                "type": "internal",
-                "page": "24th Mechanized Brigade (Ukraine)"
-              }
-            ]
-          },
-          "known_for": {
-            "text": "Being the Commander-in-Chief of the Armed Forces of Ukraine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Commander-in-Chief"
-              },
-              {
-                "type": "internal",
-                "page": "Armed Forces of Ukraine"
-              }
-            ]
-          },
-          "battles": {
-            "text": "* Russo-Ukrainian War\n** War in Donbas\n** 2022 Russian invasion of Ukraine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Russo-Ukrainian War"
-              },
-              {
-                "text": "War in Donbas",
-                "type": "internal",
-                "page": "War in Donbas (2014–2022)"
-              },
-              {
-                "text": "2022 Russian invasion of Ukraine",
-                "type": "internal",
-                "page": "2022 Russian invasion of Ukraine"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Russo-Ukrainian War"
-              ]
-            }
-          }
         }
       ],
       "references": [

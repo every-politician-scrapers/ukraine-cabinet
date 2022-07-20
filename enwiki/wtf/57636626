@@ -205,7 +205,7 @@
             ]
           },
           "alma_mater": {
-            "text": "National University of Kyiv-Mohyla Academy Indiana University",
+            "text": "National University of Kyiv-Mohyla Academy, Indiana University - master's degree in \"Public Finance and Trade\"",
             "links": [
               {
                 "type": "internal",
@@ -214,15 +214,20 @@
               {
                 "type": "internal",
                 "page": "Indiana University"
+              },
+              {
+                "text": "master's degree",
+                "type": "internal",
+                "page": "master's degree"
               }
             ]
           },
           "office2": {
-            "text": "Commissioner for Investment",
+            "text": "Commissioner for Investments",
             "links": [
               {
                 "type": "internal",
-                "page": "Investment"
+                "page": "Investments"
               }
             ]
           },
@@ -260,6 +265,40 @@
           },
           "term3": {
             "text": "29 April, 2016 - 8 June, 2018"
+          },
+          "awards": {
+            "text": "Open Data Leader Award, French National Order of Merit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "French National Order of Merit"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Danylo Volynets"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "otherparty": {
+            "text": "Servant of the People",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Servant of the People"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Ukraine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ukraine"
+              }
+            ]
           }
         }
       ],

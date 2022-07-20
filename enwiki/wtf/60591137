@@ -463,6 +463,9 @@
           ]
         },
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
               "text": "In June 2020, Zelenska started an initiative to spread the Ukrainian language in the world and the introduction of Ukrainian-language audio guides in the most iconic places, particularly in the largest museums in the world.",
@@ -647,7 +650,14 @@
           "file": "File:Олена_Зеленська_на_п'ятому_Українському_жіночому_конгресі.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BF'%D1%8F%D1%82%D0%BE%D0%BC%D1%83_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%B6%D1%96%D0%BD%D0%BE%D1%87%D0%BE%D0%BC%D1%83_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%96.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BF'%D1%8F%D1%82%D0%BE%D0%BC%D1%83_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%B6%D1%96%D0%BD%D0%BE%D1%87%D0%BE%D0%BC%D1%83_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%96.jpg",
-          "caption": "Olena Zelenska at the Fifth Ukrainian Women's Congress",
+          "caption": "Olena Zelenska at the Fifth Ukrainian Women's Congress in 2021",
+          "links": []
+        },
+        {
+          "file": "File:Secretary_Blinken_Meets_with_Ukrainian_First_Lady_Olena_Zelenska_(52225223080).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Ukrainian_First_Lady_Olena_Zelenska_(52225223080).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Ukrainian_First_Lady_Olena_Zelenska_(52225223080).jpg",
+          "caption": "Zelenska meeting with US Secretary of State Antony Blinken in 2022",
           "links": []
         }
       ],
