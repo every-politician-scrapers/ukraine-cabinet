@@ -1,6 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q107620810,German Galushchenko,German Galushchenko,male,1973-05-01,11,https://www.kmu.gov.ua/en/team,2021-07-23,Q107620801,Minister of Energy of Ukraine,2020-03-04,Q107620810-8DE91EC9-F845-4B37-AA18-F6A39B553DF6
 Q110234969,Ruslan Strilets,Ruslan Strilets,male,,,https://www.kmu.gov.ua/en/team,2022-04-28,Q53678351,Minister of Ecology and Natural Resources of Ukraine,2021-11-04,Q110234969-AABCF08D-AB02-42A3-9851-A616393E1B29
+Q113153569,Oksana Zholnovich,Oksana Zholnovich,female,1979-02-21,11,,,Q53678030,Minister of Social Policy,2022-07-19,Q113153569-46a76c42-47c9-605b-b0b3-e782b039da67
 Q12149573,Pavlo Riabikin,Pavlo Riabikin,male,1965-06-06,11,https://www.kmu.gov.ua/en/team,2021-12-15,Q107693996,Minister for Strategic Industries of Ukraine,2021-11-04,Q12149573-DB523331-CC87-429D-BA32-5C0069E174F9
 Q16723829,Serhii Shkarlet,Serhiy Shkarlet,male,1972-10-19,11,https://www.kmu.gov.ua/en/team,2021-07-28,Q53678183,Minister of Education and Science of Ukraine,2020-06-25,Q16723829-983525c0-4ca6-d1a7-2e1d-a24ffdfc8c3e
 Q20066227,Iryna Vereshchuk,Iryna Vereshchuk,female,1979-11-30,11,https://www.kmu.gov.ua/en/team,2021-11-10,Q53678071,Minister for Reintegration of the Temporarily Occupied Territories of Ukraine,2021-11-04,Q20066227-12B1E34B-1DBB-4C68-970D-5B31A77C1A04
@@ -19,7 +20,6 @@ Q66094865,Denys Shmyhal,Denys Shmyhal,male,1975-10-15,11,https://www.kmu.gov.ua/
 Q66809435,Denys Maliuska,Denys Maliuska,male,1981-11-19,11,https://www.kmu.gov.ua/en/team,2021-07-23,Q55957045,Minister of Justice of Ukraine,2020-03-04,Q66809435-0F59E7EB-0339-4228-AEEA-4C6D65F94EDA
 Q66809451,Olexandr Kubrakov,Oleksandr Kubrakov,male,1982-08-20,11,https://www.kmu.gov.ua/en/team,2021-07-28,Q53678203,Minister of Infrastructure of Ukraine,2021-05-20,Q66809451-DB340351-E2D6-4E3D-A7AF-649079AB6B95
 Q79291635,Mykola Solsky,Mykola Solsky,male,1979-05-22,11,https://www.kmu.gov.ua/en/team,2022-04-03,Q53678333,Minister of Agrarian Policy and Food of Ukraine,2022-03-24,Q79291635-06072822-4929-e8a1-2233-5d7f971807c9
-Q87073176,Maryna Lazebna,Maryna Lazebna,female,1975-06-10,11,https://www.kmu.gov.ua/en/team,2021-07-29,Q53678030,Minister of Social Policy of Ukraine,2020-03-04,Q87073176-E74A2894-7A54-403A-A9B7-D4ABE30B8E55
 Q88653809,Yulia Laputina,Yulia Laputina,female,1967-01-01,9,https://www.kmu.gov.ua/en/team,2021-07-29,Q107620701,Minister for Veterans' Affairs of Ukraine,2020-12-18,Q88653809-A4530553-B48B-444F-A716-5A73255957CD
 Q89034171,Serhii Marchenko,Serhiy Marchenko,male,1981-01-24,11,https://www.kmu.gov.ua/en/team,2021-07-29,Q25525260,Minister of Finance of Ukraine,2020-03-04,Q89034171-E42EC501-A8B6-411D-8FFF-5541AED4F520
 Q89190512,Viktor Liashko,Viktor Liashko,male,1980-04-24,11,https://www.kmu.gov.ua/en/team,2021-07-29,Q53678147,Minister of Healthcare of Ukraine,2021-05-20,Q89190512-2C2A8FE7-E975-43B1-B19E-FAA1ADA60003
