@@ -8,6 +8,7 @@
     "Kryvyi Rih National University alumni",
     "First Ladies of Ukraine",
     "Ukrainian screenwriters",
+    "Eastern Orthodox Christians from Ukraine",
     "Women screenwriters",
     "Zelenskyy family",
     "20th-century Ukrainian women writers",
@@ -22,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Olena Volodymyrivna Zelenska (née Kiyashko; Олена Володимирівна Зеленська (Кіяшко); born 6 February 1978) is a Ukrainian architect and screenwriter who is the First Lady of Ukraine as the wife of President Volodymyr Zelenskyy.",
+              "text": "Olena Volodymyrivna Zelenska (née Kiyashko; Олена Володимирівна Зеленська (Кіяшко); Елена Владимировна Зеленская (Кияшко), born 6 February 1978), is a Ukrainian architect and screenwriter who is the First Lady of Ukraine as the wife of President Volodymyr Zelenskyy.",
               "links": [
                 {
                   "text": "née",
@@ -81,6 +82,12 @@
           "template": "family name hatnote"
         },
         {
+          "list": [
+            "Elena Zelenskaya"
+          ],
+          "template": "not to be confused with"
+        },
+        {
           "df": "yes",
           "year": "1978",
           "month": "2",
@@ -96,10 +103,10 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Olena Zelenska"
+            "text": "Olena Volodymyrivna Zelenska"
           },
           "native_name": {
-            "text": "Олена Зеленська"
+            "text": "Олена Володимирівна Зеленська"
           },
           "image": {
             "text": "Olena Zelenska, 16 June 2022 (cropped).png"
@@ -1090,6 +1097,22 @@
               "text": "On 21 January 2013, Kiyashko (now Zelenska) gave birth to their son Kyrylo."
             },
             {
+              "text": "Although Volodymyr Zelensky is a secular Jew, the two children he has with his non-Jewish wife have been baptized, according to press reports.",
+              "links": [
+                {
+                  "text": "secular Jew",
+                  "type": "internal",
+                  "page": "Jewish secularism"
+                },
+                {
+                  "text": "baptized",
+                  "type": "internal",
+                  "page": "baptism",
+                  "anchor": "Eastern_Orthodoxy"
+                }
+              ]
+            },
+            {
               "text": "The family lives in Kyiv."
             }
           ]
@@ -1128,7 +1151,22 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Робочий_візит_Президента_України_до_Турецької_Республіки_11.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%A0%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%B9_%D0%B2%D1%96%D0%B7%D0%B8%D1%82_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B4%D0%BE_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B8_11.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%A0%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%B9_%D0%B2%D1%96%D0%B7%D0%B8%D1%82_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B4%D0%BE_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B8_11.jpg",
+          "caption": "Volodymyr Zelensky and Olena Zelenska at an Eastern Orthodox prayer service in Istanbul on 16 October 2020",
+          "links": []
+        }
+      ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
