@@ -86,9 +86,10 @@
             "text": "Yermak2.jpg"
           },
           "office": {
-            "text": "Head of the Office of the President of Ukraine",
+            "text": "Chief of Staff of the Office of the President of Ukraine",
             "links": [
               {
+                "text": "Chief of Staff of the Office of the President of Ukraine",
                 "type": "internal",
                 "page": "Office of the President of Ukraine"
               }
