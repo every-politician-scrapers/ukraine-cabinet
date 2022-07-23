@@ -83,7 +83,7 @@
             "text": "uk"
           },
           "image": {
-            "text": "Yermak2.jpg"
+            "text": "Yermak 2022 image.jpg"
           },
           "office": {
             "text": "Chief of Staff of the Office of the President of Ukraine",
@@ -182,7 +182,13 @@
             "text": "https://www.president.gov.ua/ru"
           },
           "office2": {
-            "text": "Presidential Adviser for Foreign Policy"
+            "text": "Foreign Policy adviser to the President of Ukraine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Ukraine"
+              }
+            ]
           },
           "office1": {
             "text": "Member of the National Security and Defence Council of Ukraine",
@@ -210,6 +216,9 @@
                 "page": "Lawyer"
               }
             ]
+          },
+          "signature": {
+            "text": "Yermak signature.jpg"
           }
         }
       ],
